@@ -14,9 +14,9 @@ function getImageUrl(path: string) {
 function ItemRewardVerb(type: ItemRewardProps["rewardType"]) {
   switch (type) {
     case "quest":
-      return <span>Take </span>;
+      return <span>Возьми </span>;
     case "vendor":
-      return <span>Buy </span>;
+      return <span>Купи </span>;
     default:
       return <></>;
   }
@@ -37,7 +37,7 @@ export function ItemReward({ item, count, cost, rewardType }: ItemRewardProps) {
       {count && count > 1 && <span> x{count}</span>}
       {rewardType === "vendor" && cost !== undefined && (
         <div className={classNames(styles.noWrap)}>
-          <span> for </span>
+          <span> за </span>
           <InlineFakeBlock
             child={<img src={getImageUrl(`${cost}.png`)} alt="" />}
           />

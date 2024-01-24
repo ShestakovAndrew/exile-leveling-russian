@@ -1,79 +1,79 @@
-#section Act 7
-{waypoint|2_7_town} #The Bridge Encampment
-➞ {enter|2_7_1} #The Broken Bridge
+#section Акт 7
+{waypoint|2_7_town} #Лагерь на мосту
+➞ {enter|2_7_1} #Разрушенный мост
 #ifdef LEAGUE_START
-    Find and take {quest_text|Silver Locket}
-        #sub Follow the road, look for the broken {waypoint}
+    Найди и подбери {quest_text|Серебряный медальон}
+        #sub Следуй по дороге, ищи сломанный {waypoint}
 #endif
-➞ {enter|2_7_2} #The Crossroads
-    #sub Follow the road
-Get {waypoint_get}
-➞ {enter|2_7_3} #The Fellshrine Ruins
-    #sub Go {dir|135}
-➞ {enter|2_7_4} #The Crypt
-    #sub Follow the road
+➞ {enter|2_7_2} #Перекрёсток
+    #sub Следуй по дороге
+Возьми {waypoint_get}
+➞ {enter|2_7_3} #Руины осквернённой святыни
+    #sub Иди {dir|135}
+➞ {enter|2_7_4} #Склеп
+    #sub Следуй по дороге
 #ifdef LEAGUE_START
-    Complete {trial}
-    Get {crafting}
+    Выполни {trial}
+    Возьми {crafting}
 #endif
-Find {generic|Sarcophagus} to next floor
-Find and take {quest_text|Maligaro's Map}
+Найди {generic|Саркофаг} для перехода на следующий этаж
+Найди и подбери {quest_text|Карта Малигаро}
 {logout}
-{waypoint|2_7_2} #The Crossroads
-➞ {enter|2_7_5_1} #The Chamber of Sins Level 1
-    #sub Go {dir|315}
-Get {crafting}
-Get {waypoint_get}
-Activate {quest_text|Map Device} with {quest_text|Maligaro's Map}
-➞ {enter|2_7_5_map} #Maligaro's Sanctum
-➞ {arena|Maligaro's Workshop}, kill {kill|Maligaro, the Artist}, take {quest_text|Black Venom}
-    #sub Follow edges of the zone and cross bridges in the corners
-    #sub Typically bridges spawn in the opposite diagonal corners
+{waypoint|2_7_2} #Перекрёсток
+➞ {enter|2_7_5_1} #Обитель грехов - уровень 1
+    #sub Иди {dir|315}
+Возьми {crafting}
+Возьми {waypoint_get}
+Активируй {quest_text|Картографическое устройство} с {quest_text|Картой Малигаро}
+➞ {enter|2_7_5_map} #Святилище Малигаро
+➞ {arena|Мастерская Малигаро}, убей {kill|Малигаро, Творца}, подбери {quest_text|Чёрный яд}
+    #sub Следуй краям зоны и пересекай мосты в углах
+    #sub Обычно мосты появляются в противоположных диагональных углах
 {logout}
-Hand in {quest|a7q2} #Essence of the Artist
+Сдай квест {quest|a7q2} #Сущность Творца
 #ifdef LEAGUE_START
-    Hand in {quest|a7q5} #The Silver Locket
+    Сдай квест {quest|a7q5} #Серебряный медальон
 #endif
-{waypoint|2_7_5_1} #The Chamber of Sins Level 1
-Hand in {quest|a7q3}, take {quest_text|Obsidian Key} #Web of Secrets
-➞ {enter|2_7_5_2} #The Chamber of Sins Level 2
-    #sub Go in same direction as {waypoint}
+{waypoint|2_7_5_1} #Обитель грехов - уровень 1
+Сдай квест {quest|a7q3}, подбери {quest_text|Обсидиановый ключ} #Паутина тайн
+➞ {enter|2_7_5_2} #Обитель грехов - уровень 2
+    #sub Иди в том же направлении, что и {waypoint}
 #ifdef LEAGUE_START
-    Complete {trial}
-    Get {crafting}
+    Выполни {trial}
+    Возьми {crafting}
 #endif
-Open {generic|Secret Passage} ➞ {enter|2_7_6} #The Den
-➞ {enter|2_7_7} #The Ashen Fields
-➞ {arena|The Forest Encampment}, kill {kill|Greust, Lord of the Forest}
-    #sub Go {dir|225}
-➞ {enter|2_7_8} #The Northern Forest
-{waypoint|2_7_town} #The Bridge Encampment
-Hand in {quest|a7q1} #The Master of a Million Faces
-{waypoint|2_6_8} #Prisoner's Gate
-➞ {arena|Valley of the Fire Drinker}, kill {kill|Abberath, the Cloven One}
-    #sub Go down the ledge next to the road
+Открой {generic|Секретный проход} ➞ {enter|2_7_6} #Берлога
+➞ {enter|2_7_7} #Пепельные поля
+➞ {arena|Лесной лагерь}, убей {kill|Груста, Хозяина леса}
+    #sub Иди {dir|225}
+➞ {enter|2_7_8} #Северный лес
+{waypoint|2_7_town} #Лагерь на мосту
+Сдай квест {quest|a7q1} #Хозяин миллиона лиц
+{waypoint|2_6_8} #Врата заключённых
+➞ {arena|Долина Пьющего Огня}, убей {kill|Абберата, Раздвоенного}
+    #sub Спустись по уступу рядом с дорогой
 {portal|use}
-Hand in {quest|a6q7} #The Cloven One
-{waypoint|2_7_8} #The Northern Forest
-➞ {enter|2_7_10} #The Causeway
-Get {crafting}
-Find and take {quest_text|Kishara's Star}
-➞ {enter|2_7_11} #The Vaal City
-Find {waypoint_get}
-{waypoint|2_7_8} #The Northern Forest
-➞ {enter|2_7_9} #The Dread Thicket
-Find and take 7x{quest_text|Firefly}
-Get {crafting}
-➞ {arena|Den of Despair}, kill {kill|Gruthkul, Mother of Despair}
+Сдай квест {quest|a6q7} #Раздвоенный
+{waypoint|2_7_8} #Северный лес
+➞ {enter|2_7_10} #Перешеек
+Возьми {crafting}
+Найди и подбери {quest_text|Звезда Кишары}
+➞ {enter|2_7_11} #Город ваал
+Найди {waypoint_get}
+{waypoint|2_7_8} #Северный лес
+➞ {enter|2_7_9} #Чащоба
+Найди и подбери 7x{quest_text|Светлячка}
+Возьми {crafting}
+➞ {arena|Берлолга отчаяния}, убей {kill|Граткулу, Мать отчаяния}
 {portal|use}
-Hand in {quest|a7q9} #Queen of Despair
-Hand in {quest|a7q6} #Kishara's Star
-{waypoint|Labyrinth_Airlock} #Aspirants' Plaza
+Сдай квест {quest|a7q9} #Царица отчаяния
+Сдай квест {quest|a7q6} #Звезда Кишары
+{waypoint|Labyrinth_Airlock} #Площадь претендентов
 {ascend|cruel}
-Get {crafting|2_Labyrinth_boss_3}
-{waypoint|2_7_11} #The Vaal City
-Hand in {quest|a7q7} #Lighting the Way
-➞ {enter|2_7_12_1} #The Temple of Decay Level 1
-➞ {enter|2_7_12_2} #The Temple of Decay Level 2
-Get {crafting}
-➞ {arena|Arakaali's Web}, kill {kill|Arakaali, Spinner of Shadows}
+Возьми {crafting|2_Labyrinth_boss_3}
+{waypoint|2_7_11} #Город ваал
+Сдай квест {quest|a7q7} #Освещая путь
+➞ {enter|2_7_12_1} #Храм разложения - уровень 1
+➞ {enter|2_7_12_2} #Храм разложения - уровень 2
+Возьми {crafting}
+➞ {arena|Паутина Аракаали}, убей {kill|Аракаали, Прядильщица теней}

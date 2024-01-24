@@ -1,166 +1,166 @@
-#section Act 2
-➞ {enter|1_2_1} #The Southern Forest
-➞ {enter|1_2_town} #The Forest Encampment
-➞ {enter|1_2_2} #The Old Fields
-    #sub Go {dir|45}
+#section Акт 2
+➞ {enter|1_2_1} #Южный лес
+➞ {enter|1_2_town} #Лесной лагерь
+➞ {enter|1_2_2} #Старые поля
+    #sub Иди {dir|45}
 #ifdef LEAGUE_START
-    Find {area|1_2_2a}, place {portal|set} #The Den
+    Найди {area|1_2_2a}, поставь {portal|set} #Берлога
 #endif
-➞ {enter|1_2_3} #The Crossroads
-    #sub Follow the road
+➞ {enter|1_2_3} #Перекрёсток
+    #sub Следуй по дороге
 #ifdef LEAGUE_START
-    {waypoint|1_2_town} #The Forest Encampment
-        #sub Follow the road
-    Take {portal|use}
-    ➞ {enter|1_2_2a} #The Den
-    Find and kill {kill|The Great White Beast}
+    {waypoint|1_2_town} #Лесной лагерь
+        #sub Следуй по дороге
+    Вернись через {portal|use}
+    ➞ {enter|1_2_2a} #Берлога
+    Найди и убей {kill|Великого Белого Зверя}
     {logout}
-    Hand in {quest|a2q10} #The Great White Beast
-    {waypoint|1_2_3} #The Crossroads
+    Сдай квест {quest|a2q10} #Великий белый зверь
+    {waypoint|1_2_3} #Перекрёсток
 #endif
 #ifndef LEAGUE_START
-    Get {waypoint_get}
+    Возьми {waypoint_get}
 #endif
-➞ {enter|1_2_6_1} #The Chamber of Sins Level 1
-    #sub Go {dir|315}
-➞ {enter|1_2_6_2} #The Chamber of Sins Level 2
-    #sub Go in same direction as {waypoint}
+➞ {enter|1_2_6_1} #Обитель грехов - уровень 1
+    #sub Иди {dir|315}
+➞ {enter|1_2_6_2} #Обитель грехов - уровень 2
+    #sub Идите в том же направлении, что и {waypoint}
 #ifdef LEAGUE_START
-    Complete {trial}
+    Выполни {trial}
 #endif
-Kill {kill|Fidelitas, the Mourning}, take {quest_text|Baleful Gem}
-    #sub Look for the long hallway
+Убей {kill|Фиделис, Скорбящий}, подбери {quest_text|Камень мора}
+    #sub Ищи длинный коридор
 {logout}
-Hand in {quest|a2q6} #Intruders in Black
+Сдай квест {quest|a2q6} #Захватчики в чёрном
 #ifdef LEAGUE_START
-    {waypoint|1_2_3} #The Crossroads
-    ➞ {enter|1_2_15} #The Fellshrine Ruins
-        #sub Go {dir|135}
-    ➞ {enter|1_2_5_1} #The Crypt Level 1
-        #sub Follow the road
-    Complete {trial}
+    {waypoint|1_2_3} #Перекрёсток
+    ➞ {enter|1_2_15} #Руины осквернённой святыни
+        #sub Иди {dir|135}
+    ➞ {enter|1_2_5_1} #Склеп - уровень 1
+        #sub Следуй по дороге
+    Выполни {trial}
     {logout}
 #endif
-➞ {enter|1_2_7} #The Riverways
-    #sub Go {dir|225}
-Get {waypoint_get}
-    #sub Follow the road
-➞ {enter|1_2_9} #The Western Forest
-    #sub Follow the road
-Get {waypoint_get}
-    #sub Follow the road
-➞ {enter|1_2_10} #The Weaver's Chambers
-    #sub Search the side of road opposite {waypoint}
-➞ {arena|The Weaver's Nest}, kill {kill|The Weaver}, take {quest_text|Maligaro's Spike}
-    #sub Try go {dir|270}, if it's blocked go {dir|45}
+➞ {enter|1_2_7} #Пойма реки
+    #sub Иди {dir|225}
+Возьми {waypoint_get}
+    #sub Следуй по дороге
+➞ {enter|1_2_9} #Западный лес
+    #sub Следуй по дороге
+Возьми {waypoint_get}
+    #sub Следуй по дороге
+➞ {enter|1_2_10} #Покои Ткачихи
+    #sub Обыщи сторону дороги напротив {waypoint}
+➞ {arena|Гнездо Ткачихи}, убей {kill|Ткачиху}, подбери {quest_text|Шип Малигаро}
+    #sub Попробуй пойти {dir|270}, если там заблокировано, иди {dir|45}
 {logout}
-Hand in {quest|a2q4} #Sharp and Cruel
+Сдай квест {quest|a2q4} #Мучительно острый
 #ifdef BANDIT_KILL
-    {waypoint|1_2_3} #The Crossroads
-    ➞ {enter|1_2_4} #The Broken Bridge
-        #sub Go {dir|45}
-    Kill {kill|Kraityn, Scarbearer}, take {quest_text|Kraityn's Amulet}
-        #sub Follow the road
+    {waypoint|1_2_3} #Перекрёсток
+    ➞ {enter|1_2_4} #Разрушенный мост
+        #sub Иди {dir|45}
+    Убей {kill|Крайтин, Меченый}, подбери {quest_text|Амулет Крайтина}
+        #sub Следуй по дороге
     {logout}
-    {waypoint|1_2_7} #The Riverways
-    ➞ {enter|1_2_12} #The Wetlands
-        #sub Look for 2 pillars near {waypoint}, follow the trail
-    Find and kill {kill|Oak, Skullbreaker}, take {quest_text|Oak's Amulet}
-    {waypoint|1_2_9} #The Western Forest
-        #sub Search opposite direction of the encampment entrance
-    Kill {kill|Alira Darktongue}, take {quest_text|Alira's Amulet}
-        #sub Go {dir|180} look for the torch touching the road
-        #sub Follow the trail in the direction of the torch
-    Kill {kill|Captain Arteri}
-        #sub Follow the road {dir|225}
-    Take {quest_text|Thaumetic Emblem}, activate {quest_text|Thaumetic Seal}
+    {waypoint|1_2_7} #Пойма реки
+    ➞ {enter|1_2_12} #Топь
+        #sub Найдите 2 столба рядом с {waypoint}, идти по следу
+    Найди и убей {kill|Дуб, Череполом}, подбери {quest_text|Амулет Дуба}
+    {waypoint|1_2_9} #Западный лес
+        #sub Найдите сторону, противоположную входу в лагерь
+    Убей {kill|Алиру Мракоглас}, подбери {quest_text|Амулет Алиры}
+        #sub Иди {dir|180} ищи факел, касающийся дороги
+        #sub Следуй по тропе в направлении факела
+    Убей {kill|Трибуна Артемия}
+        #sub Следуй по дороге {dir|225}
+    Возьми {quest_text|Волшебный символ}, активируй {quest_text|Волшебную печать}
     {logout}
-    Hand in {quest|a2q7}, take {quest_text|The Apex} #Deal with the Bandits
-    {waypoint|1_1_town} #Lioneye's Watch
-    Hand in {quest|a1q9} #The Way Forward
-    {waypoint|1_2_12} #The Wetlands
-    Poison the {quest_text|Tree Roots} ➞ {enter|1_2_11} #The Vaal Ruins
+    Сдай квест {quest|a2q7}, подбери {quest_text|Верхушку} #Разбойничьи дрязги
+    {waypoint|1_1_town} #Застава Львиного глаза
+    Сдай квест {quest|a1q9} #Путь вперёд
+    {waypoint|1_2_12} #Топь
+    Отрави {quest_text|Корни Дерева} ➞ {enter|1_2_11} #Руины ваал
 #endif
 #ifdef BANDIT_ALIRA
-    {waypoint|1_2_3} #The Crossroads
-    ➞ {enter|1_2_4} #The Broken Bridge
-        #sub Go {dir|45}
-    Kill {kill|Kraityn, Scarbearer}, take {quest_text|Kraityn's Amulet}
-        #sub Follow the road
+    {waypoint|1_2_3} #Перекрёсток
+    ➞ {enter|1_2_4} #Разрушенный мост
+        #sub Иди {dir|45}
+    Убей {kill|Крайтина, Меченного}, подбери {quest_text|Амулет Крайтина}
+        #sub Следуй по дороге
     {logout}
-    {waypoint|1_2_7} #The Riverways
-    ➞ {enter|1_2_12} #The Wetlands
-        #sub Look for 2 pillars near {waypoint}, follow the trail
-    Find and kill {kill|Oak, Skullbreaker}, take {quest_text|Oak's Amulet}
-    {waypoint|1_2_9} #The Western Forest
-        #sub Search opposite direction of the encampment entrance
-    Help {kill|Alira Darktongue}, take {quest_text|The Apex}
-        #sub Go {dir|180} look for the torch touching the road
-        #sub Follow the trail in the direction of the torch
-    Kill {kill|Captain Arteri}
-        #sub Follow the road {dir|225}
-    Take {quest_text|Thaumetic Emblem}, activate {quest_text|Thaumetic Seal}
+    {waypoint|1_2_7} #Пойма реки
+    ➞ {enter|1_2_12} #Топь
+        #sub Найдите 2 столба рядом с {waypoint}, иди по следу
+    Найди и убей {kill|Дуба, Череполома}, подбери {quest_text|Амулет Дуба}
+    {waypoint|1_2_9} #Западный лес
+        #sub Найдите сторону, противоположную входу в лагерь
+    Помоги {kill|Алире Мракоглас}, подбери {quest_text|Верхушку}
+        #sub Иди {dir|180} ищи факел, касающийся дороги
+        #sub Следуй по тропе в направлении факела
+    Убей {kill|Трибуна Артемия}
+        #sub Следуй по дороге {dir|225}
+    Возьми {quest_text|Волшебный символ}, активируй {quest_text|Волшебную печать}
     {logout}
-    {waypoint|1_1_town} #Lioneye's Watch
-    Hand in {quest|a1q9} #The Way Forward
-    {waypoint|1_2_12} #The Wetlands
-    Poison the {quest_text|Tree Roots} ➞ {enter|1_2_11} #The Vaal Ruins
+    {waypoint|1_1_town} #Застава Львиного глаза
+    Сдай квест {quest|a1q9} #Путь вперёд
+    {waypoint|1_2_12} #Топь
+    Отрави {quest_text|Корни Дерева} ➞ {enter|1_2_11} #Руины ваал
 #endif
 #ifdef BANDIT_KRAITYN
-    {waypoint|1_2_7} #The Riverways
-    ➞ {enter|1_2_12} #The Wetlands
-        #sub Look for 2 pillars near {waypoint}, follow the trail
-    Find and kill {kill|Oak, Skullbreaker}, take {quest_text|Oak's Amulet}
-    {waypoint|1_2_9} #The Western Forest
-        #sub Search opposite direction of the encampment entrance
-    Kill {kill|Alira Darktongue}, take {quest_text|Alira's Amulet}
-        #sub Go {dir|180} look for the torch touching the road
-        #sub Follow the trail in the direction of the torch
-    Kill {kill|Captain Arteri}
-        #sub Follow the road {dir|225}
-    Take {quest_text|Thaumetic Emblem}, activate {quest_text|Thaumetic Seal}
+    {waypoint|1_2_7} #Пойма реки
+    ➞ {enter|1_2_12} #Топь
+        #sub Найдите 2 столба рядом с {waypoint}, иди по следу
+    Найди и убей {kill|Дуба, Череполома}, подбери {quest_text|Амулет Дуба}
+    {waypoint|1_2_9} #Западный лес
+        #sub Найдите сторону, противоположную входу в лагерь
+    Убей {kill|Алиру Мракоглас}, подбери {quest_text|Амулет Алиры}
+        #sub Иди {dir|180} ищи факел, касающийся дороги
+        #sub Следуй по тропе в направлении факела
+    Убей {kill|Трибуна Артемия}
+        #sub Следуй по дороге {dir|225}
+    Возьми {quest_text|Волшебный символ}, активируй {quest_text|Волшебную печать}
     {logout}
-    {waypoint|1_1_town} #Lioneye's Watch
-    Hand in {quest|a1q9} #The Way Forward
-    {waypoint|1_2_3} #The Crossroads
-    ➞ {enter|1_2_4} #The Broken Bridge
-        #sub Go {dir|45}
-    Help {kill|Kraityn, Scarbearer}, take {quest_text|The Apex}
-        #sub Follow the road
+    {waypoint|1_1_town} #Застава Львиного глаза
+    Сдай квест {quest|a1q9} #Путь вперёд
+    {waypoint|1_2_3} #Перекрёсток
+    ➞ {enter|1_2_4} #Разрушенный мост
+        #sub Иди {dir|45}
+    Помоги {kill|Крайтину, Меченному}, подбери {quest_text|Верхушку}
+        #sub Следуй по дороге
     {logout}
-    {waypoint|1_2_12} #The Wetlands
-    Poison the {quest_text|Tree Roots} ➞ {enter|1_2_11} #The Vaal Ruins
+    {waypoint|1_2_12} #Топь
+    Отрави {quest_text|Корни Дерева} ➞ {enter|1_2_11} #Руины ваал
 #endif
 #ifdef BANDIT_OAK
-    {waypoint|1_2_3} #The Crossroads
-    ➞ {enter|1_2_4} #The Broken Bridge
-        #sub Go {dir|45}
-    Kill {kill|Kraityn, Scarbearer}, take {quest_text|Kraityn's Amulet}
-        #sub Follow the road
+    {waypoint|1_2_3} #Перекрёсток
+    ➞ {enter|1_2_4} #Разрушенный мост
+        #sub Иди {dir|45}
+    Убей {kill|Крайтина, Меченного}, подбери {quest_text|Амулет Крайтина}
+        #sub Следуй по дороге
     {logout}
-    {waypoint|1_2_9} #The Western Forest
-    Kill {kill|Alira Darktongue}, take {quest_text|Alira's Amulet}
-        #sub Go {dir|180} look for the torch touching the road
-        #sub Follow the trail in the direction of the torch
-    Kill {kill|Captain Arteri}
-        #sub Follow the road {dir|225}
-    Take {quest_text|Thaumetic Emblem}, activate {quest_text|Thaumetic Seal}
+    {waypoint|1_2_9} #Западный лес
+    Убей {kill|Алиру Мракоглас}, подбери {quest_text|Амулет Алиры}
+        #sub Иди {dir|180} ищи факел, касающийся дороги
+        #sub Следуй по тропе в направлении факела
+    Убей {kill|Трибуна Артемия}
+        #sub Следуй по дороге {dir|225}
+    Возьми {quest_text|Волшебный символ}, активируй {quest_text|Волшебную печать}
     {logout}
-    {waypoint|1_1_town} #Lioneye's Watch
-    Hand in {quest|a1q9} #The Way Forward
-    {waypoint|1_2_7} #The Riverways
-    ➞ {enter|1_2_12} #The Wetlands
-        #sub Look for 2 pillars near {waypoint}, follow the trail
-    Find and help {kill|Oak, Skullbreaker}, take {quest_text|The Apex}
-    Poison the {quest_text|Tree Roots} ➞ {enter|1_2_11} #The Vaal Ruins
-        #sub Search opposite direction of the encampment entrance
+    {waypoint|1_1_town} #Застава Львиного глаза
+    Сдай квест {quest|a1q9} #Путь вперёд
+    {waypoint|1_2_7} #Пойма реки
+    ➞ {enter|1_2_12} #Топь
+        #sub Найдите 2 столба рядом с {waypoint}, иди по следу
+    Найди и помоги {kill|Дубу, Череполому}, подбери {quest_text|Верхушку}
+    Отрави {quest_text|Корни Дерева} ➞ {enter|1_2_11} #Руины ваал
+        #sub Найдите сторону, противоположную входу в лагерь
 #endif
-➞ {enter|1_2_8} #The Northern Forest
-    #sub S shape or L shape leads to exit
-➞ {enter|1_2_14_2} #The Caverns
-Get {crafting}
-➞ {enter|1_2_14_3} #The Ancient Pyramid
-➞ {arena|Pyramid Apex}, kill {kill|Vaal Oversoul}
-    #sub First floor exit will be in one of the 3 corners
-    #sub Remaining floors will have the exit diagonally across from the entrance
-Get {crafting}
+➞ {enter|1_2_8} #Северный лес
+    #sub Форма S или L приведёт к выходу
+➞ {enter|1_2_14_2} #Пещеры
+Возьми {crafting}
+➞ {enter|1_2_14_3} #Древняя пирамида
+➞ {arena|Вершина пирамиды}, убей {kill|Вседушу ваал}
+    #sub Выход на первый этаж будет в одном из трех углов
+    #sub На остальных этажах выход будет по диагонали напротив входа
+Возьми {crafting}

@@ -7,8 +7,7 @@ import { PassiveTreeViewer } from "../PassiveTreeViewer";
 import { SearchStrings } from "../SearchStrings";
 import styles from "./styles.module.css";
 import classNames from "classnames";
-import { useMemo, useState } from "react";
-import React from "react";
+import React, {useMemo, useState} from "react";
 import { FaLink, FaListUl } from "react-icons/fa";
 import { FiChevronLeft, FiChevronRight, FiSearch } from "react-icons/fi";
 import { TbHierarchy } from "react-icons/tb";
@@ -72,7 +71,7 @@ function useSections() {
         tab: (
           <>
             <TbHierarchy className={classNames("inlineIcon")} />
-            Tree
+            Дерево
           </>
         ),
         content: <PassiveTreeViewer urlTrees={urlTrees} />,
@@ -84,7 +83,7 @@ function useSections() {
         tab: (
           <>
             <FaLink className={classNames("inlineIcon")} />
-            Gems
+            Камни
           </>
         ),
         content: <GemLinkViewer gemLinks={gemLinks} />,
@@ -96,7 +95,7 @@ function useSections() {
         tab: (
           <>
             <FiSearch className={classNames("inlineIcon")} />
-            Search
+            Поиск
           </>
         ),
         content: <SearchStrings values={searchStrings} />,
@@ -148,7 +147,7 @@ function Header({
             }}
           >
             <FaListUl className={classNames("inlineIcon")} />
-            All
+            Дерево + Камни
           </button>
         </>
       )}

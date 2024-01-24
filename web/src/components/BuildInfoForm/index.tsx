@@ -12,7 +12,7 @@ export function BuildInfoForm({ buildData, onSubmit }: BuildInfoFormProps) {
   return (
     <div className={classNames(styles.form)}>
       <SplitRow
-        left={<div className={classNames(styles.label)}>Class</div>}
+        left={<div className={classNames(styles.label)}>Класс</div>}
         right={
           <div className={classNames(styles.value)}>
             {buildData.characterClass}
@@ -20,15 +20,15 @@ export function BuildInfoForm({ buildData, onSubmit }: BuildInfoFormProps) {
         }
       />
       <SplitRow
-        left={<div className={classNames(styles.label)}>Bandits</div>}
+        left={<div className={classNames(styles.label)}>Бандиты</div>}
         right={
           <div className={classNames(styles.value)}>
-            {buildData.bandit == "None" ? "Kill All" : buildData.bandit}
+            {buildData.bandit == "None" ? "Убить всех" : buildData.bandit}
           </div>
         }
       />
       <SplitRow
-        left={<div className={classNames(styles.label)}>League Start</div>}
+        left={<div className={classNames(styles.label)}>Старт лиги</div>}
         right={
           <div className={classNames(styles.value)}>
             <input
@@ -46,7 +46,7 @@ export function BuildInfoForm({ buildData, onSubmit }: BuildInfoFormProps) {
         }
       />
       <SplitRow
-        left={<div className={classNames(styles.label)}>Library</div>}
+        left={<div className={classNames(styles.label)}>Библиотека</div>}
         right={
           <div className={classNames(styles.value)}>
             <input

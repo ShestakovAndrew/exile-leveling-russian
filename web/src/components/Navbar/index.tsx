@@ -93,7 +93,7 @@ export function Navbar({}: NavbarProps) {
             })}
           >
             <NavbarItem
-              label="Route"
+              label="Путь"
               expand={navExpand}
               icon={<FaMap className={classNames("inlineIcon")} />}
               onClick={() => {
@@ -102,7 +102,7 @@ export function Navbar({}: NavbarProps) {
               }}
             />
             <NavbarItem
-              label="Build"
+              label="Билд"
               expand={navExpand}
               icon={<FaTools className={classNames("inlineIcon")} />}
               onClick={() => {
@@ -110,7 +110,7 @@ export function Navbar({}: NavbarProps) {
                 setNavExpand(false);
               }}
             />
-            <NavAccordion label="Sections" navExpand={navExpand}>
+            <NavAccordion label="Список Актов" navExpand={navExpand}>
               {routeFiles.map((x, i) => (
                 <NavbarItem
                   key={i}
@@ -124,7 +124,7 @@ export function Navbar({}: NavbarProps) {
               ))}
             </NavAccordion>
             <NavbarItem
-              label={`Edit Route`}
+              label={`Редактировать маршрут`}
               expand={navExpand}
               icon={<FaTools className={classNames("inlineIcon")} />}
               onClick={() => {
@@ -133,7 +133,7 @@ export function Navbar({}: NavbarProps) {
               }}
             />
             <NavbarItem
-              label="Reset Progress"
+              label="Сбросить прогресс"
               expand={navExpand}
               icon={<FaUndoAlt className={classNames("inlineIcon")} />}
               onClick={() => {
@@ -153,13 +153,13 @@ export function Navbar({}: NavbarProps) {
               }}
             />
             <NavbarItem
-              label="Project on Github"
+              label="Проект на Github"
               expand={navExpand}
               icon={<FaGithub className={classNames("inlineIcon")} />}
               onClick={() => {
                 window
                   .open(
-                    "https://github.com/HeartofPhos/exile-leveling",
+                    "https://github.com/ShestakovAndrew/exile-leveling-russian",
                     "_blank"
                   )
                   ?.focus();

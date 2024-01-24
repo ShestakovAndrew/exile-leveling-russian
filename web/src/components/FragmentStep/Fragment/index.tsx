@@ -92,7 +92,7 @@ function TrialComponent() {
         className={classNames("inlineIcon")}
         alt=""
       />
-      <span className={classNames(styles.trial)}>Trial of Ascendancy</span>
+      <span className={classNames(styles.trial)}>Испытание господства</span>
     </div>
   );
 }
@@ -100,7 +100,7 @@ function TrialComponent() {
 function LogoutComponent(area: GameData.Area) {
   return (
     <>
-      {GenericComponent("Logout")}
+      {GenericComponent("Выйди")}
       <span> ➞ </span>
       {AreaComponent(area.name, area.is_town_area)}
     </>
@@ -176,7 +176,7 @@ function AscendComponent(version: string): [React.ReactNode, React.ReactNode] {
         className={classNames("inlineIcon")}
         alt=""
       />
-      <span className={classNames(styles.trial)}>Ascend</span>
+      <span className={classNames(styles.trial)}>Восхождение</span>
     </div>,
     <a
       href={GUIDE_URL_LOOKUP[version]}

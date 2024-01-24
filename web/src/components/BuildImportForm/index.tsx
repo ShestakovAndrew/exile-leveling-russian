@@ -78,7 +78,7 @@ export function BuildImportForm({ onSubmit, onReset }: BuildImportFormProps) {
             onReset();
           }}
         >
-          Reset Build
+          Сбросить билд
         </button>
         <button
           className={classNames(formStyles.formButton)}
@@ -86,7 +86,7 @@ export function BuildImportForm({ onSubmit, onReset }: BuildImportFormProps) {
             setIsOpen(true);
           }}
         >
-          Import Build
+          Импортировать билд
         </button>
       </div>
     </>

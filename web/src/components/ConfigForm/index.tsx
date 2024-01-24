@@ -12,7 +12,7 @@ export function ConfigForm({ config, onSubmit }: ConfigFormProps) {
   return (
     <div className={classNames(styles.form)}>
       <SplitRow
-        left={<div className={classNames(styles.label)}>Gems Only</div>}
+        left={<div className={classNames(styles.label)}>Только камни</div>}
         right={
           <div className={classNames(styles.value)}>
             <input
@@ -30,7 +30,7 @@ export function ConfigForm({ config, onSubmit }: ConfigFormProps) {
         }
       />
       <SplitRow
-        left={<div className={classNames(styles.label)}>Show All Hints</div>}
+        left={<div className={classNames(styles.label)}>Показать все подсказки</div>}
         right={
           <div className={classNames(styles.value)}>
             <input

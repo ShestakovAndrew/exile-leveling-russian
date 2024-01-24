@@ -16,7 +16,7 @@ export function SearchStringsEditor() {
   return (
     <div className={classNames(formStyles.formRow)}>
       <label>
-        Search Strings {"("}
+          Поиск строк {"("}
         <a href="https://poe.re/" target="_blank">
           Path of Exile Regex
         </a>
