@@ -100,7 +100,7 @@ function TrialComponent() {
 function LogoutComponent(area: GameData.Area) {
   return (
     <>
-      {GenericComponent("Выйди")}
+      {GenericComponent("Logout")}
       <span> ➞ </span>
       {AreaComponent(area.name, area.is_town_area)}
     </>
