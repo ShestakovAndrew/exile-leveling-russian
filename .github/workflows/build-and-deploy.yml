@@ -32,3 +32,4 @@ jobs:
         with:
           folder: web/dist
           single-commit: true
+          branch: gh-pages
