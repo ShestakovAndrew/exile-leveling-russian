@@ -92,7 +92,7 @@ function TrialComponent() {
         className={classNames("inlineIcon")}
         alt=""
       />
-      <span className={classNames(styles.trial)}>Испытание господства</span>
+      <span className={classNames(styles.trial)}>Испытание восхождения</span>
     </div>
   );
 }
