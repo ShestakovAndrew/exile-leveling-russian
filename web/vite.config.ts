@@ -4,7 +4,7 @@ import { VitePWA } from "vite-plugin-pwa";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/exile-leveling/",
+  base: "/exile-leveling-russian/",
   server: {
     host: true,
   },
@@ -13,10 +13,10 @@ export default defineConfig({
     VitePWA({
       registerType: "autoUpdate",
       manifest: {
-        name: "Exile Leveling",
-        short_name: "Exile Leveling",
+        name: "Exile Leveling Russian",
+        short_name: "Exile Leveling Russian",
         description:
-          "Exile Leveling is a Path of Exile leveling guide with Path of Building integration",
+          "Exile Leveling Russian is a Path of Exile leveling guide with Path of Building integration",
         theme_color: "#000000",
         background_color: "#000000",
         icons: [
