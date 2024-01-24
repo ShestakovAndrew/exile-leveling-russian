@@ -1,3 +1,5 @@
+https://shestakovandrew.github.io/exile-leveling-russian/
+
 ## Getting Started
 
 - `npm i`
