@@ -1,7 +1,7 @@
 {
   "Metadata/Items/Gems/SkillGemFireball": {
     "id": "Metadata/Items/Gems/SkillGemFireball",
-    "name": "Fireball",
+    "name": "Огненный шар",
     "primary_attribute": "intelligence",
     "required_level": 1,
     "is_support": false,
@@ -9,7 +9,7 @@
   },
   "Metadata/Items/Gems/SkillGemVaalFireball": {
     "id": "Metadata/Items/Gems/SkillGemVaalFireball",
-    "name": "Vaal Fireball",
+    "name": "Огненный шар ваал",
     "primary_attribute": "intelligence",
     "required_level": 1,
     "is_support": false,
@@ -17,7 +17,7 @@
   },
   "Metadata/Items/Gems/SkillGemIceNova": {
     "id": "Metadata/Items/Gems/SkillGemIceNova",
-    "name": "Ice Nova",
+    "name": "Кольцо льда",
     "primary_attribute": "intelligence",
     "required_level": 12,
     "is_support": false,
@@ -25,7 +25,7 @@
   },
   "Metadata/Items/Gems/SkillGemVaalIceNova": {
     "id": "Metadata/Items/Gems/SkillGemVaalIceNova",
-    "name": "Vaal Ice Nova",
+    "name": "Кольцо льда ваал",
     "primary_attribute": "intelligence",
     "required_level": 12,
     "is_support": false,
@@ -33,7 +33,7 @@
   },
   "Metadata/Items/Gems/SkillGemLeapSlam": {
     "id": "Metadata/Items/Gems/SkillGemLeapSlam",
-    "name": "Leap Slam",
+    "name": "Наскок",
     "primary_attribute": "strength",
     "required_level": 10,
     "is_support": false,
@@ -41,7 +41,7 @@
   },
   "Metadata/Items/Gems/SkillGemChargedDash": {
     "id": "Metadata/Items/Gems/SkillGemChargedDash",
-    "name": "Charged Dash",
+    "name": "Заряженный рывок",
     "primary_attribute": "dexterity",
     "required_level": 28,
     "is_support": false,
@@ -49,7 +49,7 @@
   },
   "Metadata/Items/Gems/SkillGemChargedAttack": {
     "id": "Metadata/Items/Gems/SkillGemChargedAttack",
-    "name": "Blade Flurry",
+    "name": "Порыв клинков",
     "primary_attribute": "dexterity",
     "required_level": 28,
     "is_support": false,
@@ -57,7 +57,7 @@
   },
   "Metadata/Items/Gems/SkillGemSweep": {
     "id": "Metadata/Items/Gems/SkillGemSweep",
-    "name": "Sweep",
+    "name": "Круговой взмах",
     "primary_attribute": "strength",
     "required_level": 12,
     "is_support": false,
@@ -65,7 +65,7 @@
   },
   "Metadata/Items/Gems/SkillGemGroundSlam": {
     "id": "Metadata/Items/Gems/SkillGemGroundSlam",
-    "name": "Ground Slam",
+    "name": "Сотрясение",
     "primary_attribute": "strength",
     "required_level": 1,
     "is_support": false,
@@ -73,7 +73,7 @@
   },
   "Metadata/Items/Gems/SkillGemVaalGroundSlam": {
     "id": "Metadata/Items/Gems/SkillGemVaalGroundSlam",
-    "name": "Vaal Ground Slam",
+    "name": "Сотрясение ваал",
     "primary_attribute": "strength",
     "required_level": 1,
     "is_support": false,
@@ -81,7 +81,7 @@
   },
   "Metadata/Items/Gems/SkillGemCleave": {
     "id": "Metadata/Items/Gems/SkillGemCleave",
-    "name": "Cleave",
+    "name": "Рассечение",
     "primary_attribute": "strength",
     "required_level": 1,
     "is_support": false,
@@ -89,7 +89,7 @@
   },
   "Metadata/Items/Gems/SkillGemShieldCharge": {
     "id": "Metadata/Items/Gems/SkillGemShieldCharge",
-    "name": "Shield Charge",
+    "name": "Удар щитом",
     "primary_attribute": "strength",
     "required_level": 10,
     "is_support": false,
@@ -97,7 +97,7 @@
   },
   "Metadata/Items/Gems/SkillGemEnduringCry": {
     "id": "Metadata/Items/Gems/SkillGemEnduringCry",
-    "name": "Enduring Cry",
+    "name": "Клич стойкости",
     "primary_attribute": "strength",
     "required_level": 10,
     "is_support": false,
@@ -105,7 +105,7 @@
   },
   "Metadata/Items/Gems/SkillGemDoubleStrike": {
     "id": "Metadata/Items/Gems/SkillGemDoubleStrike",
-    "name": "Double Strike",
+    "name": "Двойной удар",
     "primary_attribute": "dexterity",
     "required_level": 1,
     "is_support": false,
@@ -113,7 +113,7 @@
   },
   "Metadata/Items/Gems/SkillGemVaalDoubleStrike": {
     "id": "Metadata/Items/Gems/SkillGemVaalDoubleStrike",
-    "name": "Vaal Double Strike",
+    "name": "Двойной удар ваал",
     "primary_attribute": "dexterity",
     "required_level": 1,
     "is_support": false,
@@ -121,7 +121,7 @@
   },
   "Metadata/Items/Gems/SkillGemLacerate": {
     "id": "Metadata/Items/Gems/SkillGemLacerate",
-    "name": "Lacerate",
+    "name": "Разрубание",
     "primary_attribute": "dexterity",
     "required_level": 12,
     "is_support": false,
@@ -129,7 +129,7 @@
   },
   "Metadata/Items/Gems/SkillGemElementalHit": {
     "id": "Metadata/Items/Gems/SkillGemElementalHit",
-    "name": "Elemental Hit",
+    "name": "Удар стихии",
     "primary_attribute": "dexterity",
     "required_level": 12,
     "is_support": false,
@@ -137,7 +137,7 @@
   },
   "Metadata/Items/Gems/SkillGemImmortalCall": {
     "id": "Metadata/Items/Gems/SkillGemImmortalCall",
-    "name": "Immortal Call",
+    "name": "Призыв к бессмертию",
     "primary_attribute": "strength",
     "required_level": 34,
     "is_support": false,
@@ -145,7 +145,7 @@
   },
   "Metadata/Items/Gems/SkillGemVaalImmortalCall": {
     "id": "Metadata/Items/Gems/SkillGemVaalImmortalCall",
-    "name": "Vaal Immortal Call",
+    "name": "Призыв к бессмертию ваал",
     "primary_attribute": "strength",
     "required_level": 34,
     "is_support": false,
@@ -153,7 +153,7 @@
   },
   "Metadata/Items/Gems/SkillGemDualStrike": {
     "id": "Metadata/Items/Gems/SkillGemDualStrike",
-    "name": "Dual Strike",
+    "name": "Парный удар",
     "primary_attribute": "dexterity",
     "required_level": 1,
     "is_support": false,
@@ -161,7 +161,7 @@
   },
   "Metadata/Items/Gems/SkillGemWhirlingBlades": {
     "id": "Metadata/Items/Gems/SkillGemWhirlingBlades",
-    "name": "Whirling Blades",
+    "name": "Шквал клинков",
     "primary_attribute": "dexterity",
     "required_level": 10,
     "is_support": false,
@@ -169,7 +169,7 @@
   },
   "Metadata/Items/Gems/SkillGemFrenzy": {
     "id": "Metadata/Items/Gems/SkillGemFrenzy",
-    "name": "Frenzy",
+    "name": "Бешенство",
     "primary_attribute": "dexterity",
     "required_level": 16,
     "is_support": false,
@@ -177,7 +177,7 @@
   },
   "Metadata/Items/Gems/SkillGemDetonateDead": {
     "id": "Metadata/Items/Gems/SkillGemDetonateDead",
-    "name": "Detonate Dead",
+    "name": "Подрыв трупа",
     "primary_attribute": "dexterity",
     "required_level": 4,
     "is_support": false,
@@ -185,7 +185,7 @@
   },
   "Metadata/Items/Gems/SkillGemVaalDetonateDead": {
     "id": "Metadata/Items/Gems/SkillGemVaalDetonateDead",
-    "name": "Vaal Detonate Dead",
+    "name": "Подрыв трупа ваал",
     "primary_attribute": "dexterity",
     "required_level": 4,
     "is_support": false,
@@ -193,7 +193,7 @@
   },
   "Metadata/Items/Gems/SkillGemVolatileDead": {
     "id": "Metadata/Items/Gems/SkillGemVolatileDead",
-    "name": "Volatile Dead",
+    "name": "Нестабильный труп",
     "primary_attribute": "dexterity",
     "required_level": 12,
     "is_support": false,
@@ -201,7 +201,7 @@
   },
   "Metadata/Items/Gems/SkillGemBoneLance": {
     "id": "Metadata/Items/Gems/SkillGemBoneLance",
-    "name": "Unearth",
+    "name": "Эксгумация",
     "primary_attribute": "dexterity",
     "required_level": 10,
     "is_support": false,
@@ -209,7 +209,7 @@
   },
   "Metadata/Items/Gems/SkillGemSplitArrow": {
     "id": "Metadata/Items/Gems/SkillGemSplitArrow",
-    "name": "Split Arrow",
+    "name": "Расколотая стрела",
     "primary_attribute": "dexterity",
     "required_level": 1,
     "is_support": false,
@@ -217,7 +217,7 @@
   },
   "Metadata/Items/Gems/SupportGemAddedFireDamage": {
     "id": "Metadata/Items/Gems/SupportGemAddedFireDamage",
-    "name": "Added Fire Damage Support",
+    "name": "Урон огнём",
     "primary_attribute": "strength",
     "required_level": 8,
     "is_support": true,
@@ -225,7 +225,7 @@
   },
   "Metadata/Items/Gems/SupportGemFasterAttack": {
     "id": "Metadata/Items/Gems/SupportGemFasterAttack",
-    "name": "Faster Attacks Support",
+    "name": "Ускорение атак",
     "primary_attribute": "dexterity",
     "required_level": 8,
     "is_support": true,
@@ -233,7 +233,7 @@
   },
   "Metadata/Items/Gems/SupportGemGreaterMultipleProjectiles": {
     "id": "Metadata/Items/Gems/SupportGemGreaterMultipleProjectiles",
-    "name": "Greater Multiple Projectiles Support",
+    "name": "Много дополнительных снарядов",
     "primary_attribute": "dexterity",
     "required_level": 38,
     "is_support": true,
@@ -241,7 +241,7 @@
   },
   "Metadata/Items/Gems/SupportGemLesserMultipleProjectiles": {
     "id": "Metadata/Items/Gems/SupportGemLesserMultipleProjectiles",
-    "name": "Lesser Multiple Projectiles Support",
+    "name": "Дополнительные снаряды",
     "primary_attribute": "dexterity",
     "required_level": 8,
     "is_support": true,
@@ -249,7 +249,7 @@
   },
   "Metadata/Items/Gems/SupportGemFasterProjectiles": {
     "id": "Metadata/Items/Gems/SupportGemFasterProjectiles",
-    "name": "Faster Projectiles Support",
+    "name": "Ускорение снарядов",
     "primary_attribute": "dexterity",
     "required_level": 31,
     "is_support": true,
@@ -257,7 +257,7 @@
   },
   "Metadata/Items/Gems/SupportGemAddedColdDamage": {
     "id": "Metadata/Items/Gems/SupportGemAddedColdDamage",
-    "name": "Added Cold Damage Support",
+    "name": "Урон холодом",
     "primary_attribute": "dexterity",
     "required_level": 8,
     "is_support": true,
@@ -265,7 +265,7 @@
   },
   "Metadata/Items/Gems/SupportGemAdditionalAccuracy": {
     "id": "Metadata/Items/Gems/SupportGemAdditionalAccuracy",
-    "name": "Additional Accuracy Support",
+    "name": "Меткость",
     "primary_attribute": "dexterity",
     "required_level": 8,
     "is_support": true,
@@ -273,7 +273,7 @@
   },
   "Metadata/Items/Gems/SupportGemIncreasedAreaOfEffect": {
     "id": "Metadata/Items/Gems/SupportGemIncreasedAreaOfEffect",
-    "name": "Increased Area of Effect Support",
+    "name": "Расширенная область действия",
     "primary_attribute": "intelligence",
     "required_level": 38,
     "is_support": true,
@@ -281,7 +281,7 @@
   },
   "Metadata/Items/Gems/SupportGemAddedLightningDamage": {
     "id": "Metadata/Items/Gems/SupportGemAddedLightningDamage",
-    "name": "Added Lightning Damage Support",
+    "name": "Урон молнией",
     "primary_attribute": "intelligence",
     "required_level": 8,
     "is_support": true,
@@ -289,7 +289,7 @@
   },
   "Metadata/Items/Gems/SkillGemColdSnap": {
     "id": "Metadata/Items/Gems/SkillGemColdSnap",
-    "name": "Cold Snap",
+    "name": "Укус стужи",
     "primary_attribute": "intelligence",
     "required_level": 16,
     "is_support": false,
@@ -297,7 +297,7 @@
   },
   "Metadata/Items/Gems/SkillGemVaalColdSnap": {
     "id": "Metadata/Items/Gems/SkillGemVaalColdSnap",
-    "name": "Vaal Cold Snap",
+    "name": "Укус стужи ваал",
     "primary_attribute": "intelligence",
     "required_level": 16,
     "is_support": false,
@@ -305,7 +305,7 @@
   },
   "Metadata/Items/Gems/SkillGemRaiseZombie": {
     "id": "Metadata/Items/Gems/SkillGemRaiseZombie",
-    "name": "Raise Zombie",
+    "name": "Поднятие зомби",
     "primary_attribute": "intelligence",
     "required_level": 1,
     "is_support": false,
@@ -313,7 +313,7 @@
   },
   "Metadata/Items/Gems/SkillGemPoisonArrow": {
     "id": "Metadata/Items/Gems/SkillGemPoisonArrow",
-    "name": "Caustic Arrow",
+    "name": "Едкая стрела",
     "primary_attribute": "dexterity",
     "required_level": 1,
     "is_support": false,
@@ -321,7 +321,7 @@
   },
   "Metadata/Items/Gems/SkillGemBloodRage": {
     "id": "Metadata/Items/Gems/SkillGemBloodRage",
-    "name": "Blood Rage",
+    "name": "Кровавый угар",
     "primary_attribute": "dexterity",
     "required_level": 16,
     "is_support": false,
@@ -329,7 +329,7 @@
   },
   "Metadata/Items/Gems/SkillGemRighteousFire": {
     "id": "Metadata/Items/Gems/SkillGemRighteousFire",
-    "name": "Righteous Fire",
+    "name": "Праведный огонь",
     "primary_attribute": "intelligence",
     "required_level": 16,
     "is_support": false,
@@ -337,7 +337,7 @@
   },
   "Metadata/Items/Gems/SkillGemVaalRighteousFire": {
     "id": "Metadata/Items/Gems/SkillGemVaalRighteousFire",
-    "name": "Vaal Righteous Fire",
+    "name": "Праведный огонь ваал",
     "primary_attribute": "intelligence",
     "required_level": 16,
     "is_support": false,
@@ -345,7 +345,7 @@
   },
   "Metadata/Items/Gems/SkillGemDischarge": {
     "id": "Metadata/Items/Gems/SkillGemDischarge",
-    "name": "Discharge",
+    "name": "Разряд",
     "primary_attribute": "intelligence",
     "required_level": 28,
     "is_support": false,
@@ -353,7 +353,7 @@
   },
   "Metadata/Items/Gems/SkillGemPortal": {
     "id": "Metadata/Items/Gems/SkillGemPortal",
-    "name": "Portal",
+    "name": "Портал",
     "primary_attribute": "none",
     "required_level": 10,
     "is_support": false,
@@ -361,7 +361,7 @@
   },
   "Metadata/Items/Gems/SkillGemVaalPortal": {
     "id": "Metadata/Items/Gems/SkillGemVaalPortal",
-    "name": "Vaal Breach",
+    "name": "Разлом ваал",
     "primary_attribute": "none",
     "required_level": 10,
     "is_support": false,
@@ -369,7 +369,7 @@
   },
   "Metadata/Items/Gems/SupportGemReducedMana": {
     "id": "Metadata/Items/Gems/SupportGemReducedMana",
-    "name": "Inspiration Support",
+    "name": "Вдохновение",
     "primary_attribute": "strength",
     "required_level": 31,
     "is_support": true,
@@ -377,7 +377,7 @@
   },
   "Metadata/Items/Gems/SupportGemIncreasedCriticalStrikes": {
     "id": "Metadata/Items/Gems/SupportGemIncreasedCriticalStrikes",
-    "name": "Increased Critical Strikes Support",
+    "name": "Учащение критических ударов",
     "primary_attribute": "intelligence",
     "required_level": 8,
     "is_support": true,
@@ -385,7 +385,7 @@
   },
   "Metadata/Items/Gems/SupportGemIncreasedCriticalDamage": {
     "id": "Metadata/Items/Gems/SupportGemIncreasedCriticalDamage",
-    "name": "Increased Critical Damage Support",
+    "name": "Усиление критических ударов",
     "primary_attribute": "intelligence",
     "required_level": 18,
     "is_support": true,
@@ -393,7 +393,7 @@
   },
   "Metadata/Items/Gems/SupportGemKnockback": {
     "id": "Metadata/Items/Gems/SupportGemKnockback",
-    "name": "Knockback Support",
+    "name": "Отбрасывание",
     "primary_attribute": "strength",
     "required_level": 8,
     "is_support": true,
@@ -401,7 +401,7 @@
   },
   "Metadata/Items/Gems/SupportGemLifeLeech": {
     "id": "Metadata/Items/Gems/SupportGemLifeLeech",
-    "name": "Life Leech Support",
+    "name": "Вытягивание здоровья",
     "primary_attribute": "strength",
     "required_level": 31,
     "is_support": true,
@@ -409,7 +409,7 @@
   },
   "Metadata/Items/Gems/SupportGemManaLeech": {
     "id": "Metadata/Items/Gems/SupportGemManaLeech",
-    "name": "Mana Leech Support",
+    "name": "Вытягивание маны",
     "primary_attribute": "dexterity",
     "required_level": 31,
     "is_support": true,
@@ -417,7 +417,7 @@
   },
   "Metadata/Items/Gems/SupportGemAddedChaosDamage": {
     "id": "Metadata/Items/Gems/SupportGemAddedChaosDamage",
-    "name": "Added Chaos Damage Support",
+    "name": "Урон хаосом",
     "primary_attribute": "intelligence",
     "required_level": 31,
     "is_support": true,
@@ -425,7 +425,7 @@
   },
   "Metadata/Items/Gems/SkillGemFlickerStrike": {
     "id": "Metadata/Items/Gems/SkillGemFlickerStrike",
-    "name": "Flicker Strike",
+    "name": "Внезапный удар",
     "primary_attribute": "dexterity",
     "required_level": 10,
     "is_support": false,
@@ -433,7 +433,7 @@
   },
   "Metadata/Items/Gems/SkillGemVaalFlickerStrike": {
     "id": "Metadata/Items/Gems/SkillGemVaalFlickerStrike",
-    "name": "Vaal Flicker Strike",
+    "name": "Внезапный удар ваал",
     "primary_attribute": "dexterity",
     "required_level": 10,
     "is_support": false,
@@ -441,7 +441,7 @@
   },
   "Metadata/Items/Gems/SkillGemSpark": {
     "id": "Metadata/Items/Gems/SkillGemSpark",
-    "name": "Spark",
+    "name": "Искра",
     "primary_attribute": "intelligence",
     "required_level": 1,
     "is_support": false,
@@ -449,7 +449,7 @@
   },
   "Metadata/Items/Gems/SkillGemVaalSpark": {
     "id": "Metadata/Items/Gems/SkillGemVaalSpark",
-    "name": "Vaal Spark",
+    "name": "Искра ваал",
     "primary_attribute": "intelligence",
     "required_level": 1,
     "is_support": false,
@@ -457,7 +457,7 @@
   },
   "Metadata/Items/Gems/SupportGemStun": {
     "id": "Metadata/Items/Gems/SupportGemStun",
-    "name": "Stun Support",
+    "name": "Оглушение",
     "primary_attribute": "strength",
     "required_level": 8,
     "is_support": true,
@@ -465,7 +465,7 @@
   },
   "Metadata/Items/Gems/SkillGemIceSpear": {
     "id": "Metadata/Items/Gems/SkillGemIceSpear",
-    "name": "Ice Spear",
+    "name": "Ледяное копьё",
     "primary_attribute": "intelligence",
     "required_level": 12,
     "is_support": false,
@@ -473,7 +473,7 @@
   },
   "Metadata/Items/Gems/SupportGemPierce": {
     "id": "Metadata/Items/Gems/SupportGemPierce",
-    "name": "Pierce Support",
+    "name": "Пронзание",
     "primary_attribute": "dexterity",
     "required_level": 4,
     "is_support": true,
@@ -481,7 +481,7 @@
   },
   "Metadata/Items/Gems/SupportGemTrap": {
     "id": "Metadata/Items/Gems/SupportGemTrap",
-    "name": "Trap Support",
+    "name": "Ловушка",
     "primary_attribute": "dexterity",
     "required_level": 8,
     "is_support": true,
@@ -489,7 +489,7 @@
   },
   "Metadata/Items/Gems/SkillGemRaiseSpectre": {
     "id": "Metadata/Items/Gems/SkillGemRaiseSpectre",
-    "name": "Raise Spectre",
+    "name": "Сотворение призрака",
     "primary_attribute": "intelligence",
     "required_level": 28,
     "is_support": false,
@@ -497,7 +497,7 @@
   },
   "Metadata/Items/Gems/SkillGemInfernalBlow": {
     "id": "Metadata/Items/Gems/SkillGemInfernalBlow",
-    "name": "Infernal Blow",
+    "name": "Удар преисподней",
     "primary_attribute": "strength",
     "required_level": 12,
     "is_support": false,
@@ -505,7 +505,7 @@
   },
   "Metadata/Items/Gems/SkillGemGlacialHammer": {
     "id": "Metadata/Items/Gems/SkillGemGlacialHammer",
-    "name": "Glacial Hammer",
+    "name": "Леденящий молот",
     "primary_attribute": "strength",
     "required_level": 1,
     "is_support": false,
@@ -513,7 +513,7 @@
   },
   "Metadata/Items/Gems/SkillGemVaalGlacialHammer": {
     "id": "Metadata/Items/Gems/SkillGemVaalGlacialHammer",
-    "name": "Vaal Glacial Hammer",
+    "name": "Леденящий молот ваал",
     "primary_attribute": "strength",
     "required_level": 1,
     "is_support": false,
@@ -521,7 +521,7 @@
   },
   "Metadata/Items/Gems/SkillGemFrostWall": {
     "id": "Metadata/Items/Gems/SkillGemFrostWall",
-    "name": "Frost Wall",
+    "name": "Стена льда",
     "primary_attribute": "intelligence",
     "required_level": 4,
     "is_support": false,
@@ -529,7 +529,7 @@
   },
   "Metadata/Items/Gems/SkillGemFreezingPulse": {
     "id": "Metadata/Items/Gems/SkillGemFreezingPulse",
-    "name": "Freezing Pulse",
+    "name": "Волна холода",
     "primary_attribute": "intelligence",
     "required_level": 1,
     "is_support": false,
@@ -537,7 +537,7 @@
   },
   "Metadata/Items/Gems/SkillGemShockNova": {
     "id": "Metadata/Items/Gems/SkillGemShockNova",
-    "name": "Shock Nova",
+    "name": "Кольцо молний",
     "primary_attribute": "intelligence",
     "required_level": 28,
     "is_support": false,
@@ -545,7 +545,7 @@
   },
   "Metadata/Items/Gems/SkillGemViperStrike": {
     "id": "Metadata/Items/Gems/SkillGemViperStrike",
-    "name": "Viper Strike",
+    "name": "Удар гадюки",
     "primary_attribute": "dexterity",
     "required_level": 1,
     "is_support": false,
@@ -553,7 +553,7 @@
   },
   "Metadata/Items/Gems/SkillGemPhaseRun": {
     "id": "Metadata/Items/Gems/SkillGemPhaseRun",
-    "name": "Phase Run",
+    "name": "Призрачный бег",
     "primary_attribute": "dexterity",
     "required_level": 34,
     "is_support": false,
@@ -561,7 +561,7 @@
   },
   "Metadata/Items/Gems/SupportGemMeleePhysicalDamage": {
     "id": "Metadata/Items/Gems/SupportGemMeleePhysicalDamage",
-    "name": "Melee Physical Damage Support",
+    "name": "Физический урон ближнего боя",
     "primary_attribute": "strength",
     "required_level": 18,
     "is_support": true,
@@ -569,7 +569,7 @@
   },
   "Metadata/Items/Gems/SupportGemItemRarity": {
     "id": "Metadata/Items/Gems/SupportGemItemRarity",
-    "name": "Item Rarity Support",
+    "name": "Редкость предметов",
     "primary_attribute": "intelligence",
     "required_level": 31,
     "is_support": true,
@@ -577,7 +577,7 @@
   },
   "Metadata/Items/Gems/SupportGemFasterCast": {
     "id": "Metadata/Items/Gems/SupportGemFasterCast",
-    "name": "Faster Casting Support",
+    "name": "Ускоренное сотворение чар",
     "primary_attribute": "intelligence",
     "required_level": 18,
     "is_support": true,
@@ -585,7 +585,7 @@
   },
   "Metadata/Items/Gems/SkillGemExplosiveArrow": {
     "id": "Metadata/Items/Gems/SkillGemExplosiveArrow",
-    "name": "Explosive Arrow",
+    "name": "Взрывная стрела",
     "primary_attribute": "dexterity",
     "required_level": 28,
     "is_support": false,
@@ -593,7 +593,7 @@
   },
   "Metadata/Items/Gems/SkillGemTemporalChains": {
     "id": "Metadata/Items/Gems/SkillGemTemporalChains",
-    "name": "Temporal Chains",
+    "name": "Путы времени",
     "primary_attribute": "dexterity",
     "required_level": 24,
     "is_support": false,
@@ -601,7 +601,7 @@
   },
   "Metadata/Items/Gems/SkillGemElementalWeakness": {
     "id": "Metadata/Items/Gems/SkillGemElementalWeakness",
-    "name": "Elemental Weakness",
+    "name": "Уязвимость к стихиям",
     "primary_attribute": "intelligence",
     "required_level": 24,
     "is_support": false,
@@ -609,7 +609,7 @@
   },
   "Metadata/Items/Gems/SkillGemWarlordsMark": {
     "id": "Metadata/Items/Gems/SkillGemWarlordsMark",
-    "name": "Warlord's Mark",
+    "name": "Метка вождя",
     "primary_attribute": "strength",
     "required_level": 16,
     "is_support": false,
@@ -617,7 +617,7 @@
   },
   "Metadata/Items/Gems/SkillGemPunishment": {
     "id": "Metadata/Items/Gems/SkillGemPunishment",
-    "name": "Punishment",
+    "name": "Наказание",
     "primary_attribute": "strength",
     "required_level": 24,
     "is_support": false,
@@ -625,7 +625,7 @@
   },
   "Metadata/Items/Gems/SkillGemEnfeeble": {
     "id": "Metadata/Items/Gems/SkillGemEnfeeble",
-    "name": "Enfeeble",
+    "name": "Слабость",
     "primary_attribute": "intelligence",
     "required_level": 24,
     "is_support": false,
@@ -633,7 +633,7 @@
   },
   "Metadata/Items/Gems/SkillGemCriticalWeakness": {
     "id": "Metadata/Items/Gems/SkillGemCriticalWeakness",
-    "name": "Assassin's Mark",
+    "name": "Метка убийцы",
     "primary_attribute": "intelligence",
     "required_level": 16,
     "is_support": false,
@@ -641,7 +641,7 @@
   },
   "Metadata/Items/Gems/SkillGemProjectileWeakness": {
     "id": "Metadata/Items/Gems/SkillGemProjectileWeakness",
-    "name": "Sniper's Mark",
+    "name": "Метка снайпера",
     "primary_attribute": "dexterity",
     "required_level": 4,
     "is_support": false,
@@ -649,7 +649,7 @@
   },
   "Metadata/Items/Gems/SkillGemVulnerability": {
     "id": "Metadata/Items/Gems/SkillGemVulnerability",
-    "name": "Despair",
+    "name": "Отчаяние",
     "primary_attribute": "intelligence",
     "required_level": 24,
     "is_support": false,
@@ -657,7 +657,7 @@
   },
   "Metadata/Items/Gems/SkillGemLightningWarp": {
     "id": "Metadata/Items/Gems/SkillGemLightningWarp",
-    "name": "Lightning Warp",
+    "name": "Грозовой переход",
     "primary_attribute": "intelligence",
     "required_level": 10,
     "is_support": false,
@@ -665,7 +665,7 @@
   },
   "Metadata/Items/Gems/SkillGemSummonSkeletons": {
     "id": "Metadata/Items/Gems/SkillGemSummonSkeletons",
-    "name": "Summon Skeletons",
+    "name": "Сотворение скелетов",
     "primary_attribute": "intelligence",
     "required_level": 10,
     "is_support": false,
@@ -673,7 +673,7 @@
   },
   "Metadata/Items/Gems/SkillGemVaalSummonSkeletons": {
     "id": "Metadata/Items/Gems/SkillGemVaalSummonSkeletons",
-    "name": "Vaal Summon Skeletons",
+    "name": "Сотворение скелетов ваал",
     "primary_attribute": "intelligence",
     "required_level": 10,
     "is_support": false,
@@ -681,7 +681,7 @@
   },
   "Metadata/Items/Gems/SkillGemHeavyStrike": {
     "id": "Metadata/Items/Gems/SkillGemHeavyStrike",
-    "name": "Heavy Strike",
+    "name": "Тяжёлый удар",
     "primary_attribute": "strength",
     "required_level": 1,
     "is_support": false,
@@ -689,7 +689,7 @@
   },
   "Metadata/Items/Gems/SkillGemDominatingBlow": {
     "id": "Metadata/Items/Gems/SkillGemDominatingBlow",
-    "name": "Dominating Blow",
+    "name": "Удар власти",
     "primary_attribute": "strength",
     "required_level": 28,
     "is_support": false,
@@ -697,7 +697,7 @@
   },
   "Metadata/Items/Gems/SkillGemRainOfArrows": {
     "id": "Metadata/Items/Gems/SkillGemRainOfArrows",
-    "name": "Rain of Arrows",
+    "name": "Ливень стрел",
     "primary_attribute": "dexterity",
     "required_level": 12,
     "is_support": false,
@@ -705,7 +705,7 @@
   },
   "Metadata/Items/Gems/SkillGemVaalRainOfArrows": {
     "id": "Metadata/Items/Gems/SkillGemVaalRainOfArrows",
-    "name": "Vaal Rain of Arrows",
+    "name": "Ливень стрел ваал",
     "primary_attribute": "dexterity",
     "required_level": 12,
     "is_support": false,
@@ -713,7 +713,7 @@
   },
   "Metadata/Items/Gems/SupportGemConcentratedEffect": {
     "id": "Metadata/Items/Gems/SupportGemConcentratedEffect",
-    "name": "Concentrated Effect Support",
+    "name": "Средоточие",
     "primary_attribute": "intelligence",
     "required_level": 18,
     "is_support": true,
@@ -721,7 +721,7 @@
   },
   "Metadata/Items/Gems/SupportGemMinionDamage": {
     "id": "Metadata/Items/Gems/SupportGemMinionDamage",
-    "name": "Minion Damage Support",
+    "name": "Урон приспешников",
     "primary_attribute": "intelligence",
     "required_level": 8,
     "is_support": true,
@@ -729,7 +729,7 @@
   },
   "Metadata/Items/Gems/SupportGemIncreasedDuration": {
     "id": "Metadata/Items/Gems/SupportGemIncreasedDuration",
-    "name": "Increased Duration Support",
+    "name": "Продление",
     "primary_attribute": "strength",
     "required_level": 31,
     "is_support": true,
@@ -737,7 +737,7 @@
   },
   "Metadata/Items/Gems/SupportGemColdToFire": {
     "id": "Metadata/Items/Gems/SupportGemColdToFire",
-    "name": "Cold to Fire Support",
+    "name": "Холод в огонь",
     "primary_attribute": "strength",
     "required_level": 18,
     "is_support": true,
@@ -745,7 +745,7 @@
   },
   "Metadata/Items/Gems/SupportGemChanceToIgnite": {
     "id": "Metadata/Items/Gems/SupportGemChanceToIgnite",
-    "name": "Combustion Support",
+    "name": "Воспламенение",
     "primary_attribute": "intelligence",
     "required_level": 8,
     "is_support": true,
@@ -753,7 +753,7 @@
   },
   "Metadata/Items/Gems/SupportGemMinionSpeed": {
     "id": "Metadata/Items/Gems/SupportGemMinionSpeed",
-    "name": "Minion Speed Support",
+    "name": "Скорость приспешников",
     "primary_attribute": "intelligence",
     "required_level": 18,
     "is_support": true,
@@ -761,7 +761,7 @@
   },
   "Metadata/Items/Gems/SupportGemMinionLife": {
     "id": "Metadata/Items/Gems/SupportGemMinionLife",
-    "name": "Minion Life Support",
+    "name": "Здоровье приспешников",
     "primary_attribute": "intelligence",
     "required_level": 18,
     "is_support": true,
@@ -769,7 +769,7 @@
   },
   "Metadata/Items/Gems/SupportGemWeaponElementalDamage": {
     "id": "Metadata/Items/Gems/SupportGemWeaponElementalDamage",
-    "name": "Elemental Damage with Attacks Support",
+    "name": "Урон от стихий атаками",
     "primary_attribute": "strength",
     "required_level": 18,
     "is_support": true,
@@ -777,7 +777,7 @@
   },
   "Metadata/Items/Gems/SupportGemBloodlust": {
     "id": "Metadata/Items/Gems/SupportGemBloodlust",
-    "name": "Bloodlust Support",
+    "name": "Кровожадность",
     "primary_attribute": "strength",
     "required_level": 18,
     "is_support": true,
@@ -785,7 +785,7 @@
   },
   "Metadata/Items/Gems/SupportGemLifeGainOnHit": {
     "id": "Metadata/Items/Gems/SupportGemLifeGainOnHit",
-    "name": "Life Gain on Hit Support",
+    "name": "Здоровье за удар",
     "primary_attribute": "strength",
     "required_level": 8,
     "is_support": true,
@@ -793,7 +793,7 @@
   },
   "Metadata/Items/Gems/SkillGemFirestorm": {
     "id": "Metadata/Items/Gems/SkillGemFirestorm",
-    "name": "Firestorm",
+    "name": "Огненный шторм",
     "primary_attribute": "intelligence",
     "required_level": 28,
     "is_support": false,
@@ -801,7 +801,7 @@
   },
   "Metadata/Items/Gems/SkillGemLightningStrike": {
     "id": "Metadata/Items/Gems/SkillGemLightningStrike",
-    "name": "Lightning Strike",
+    "name": "Удар молнии",
     "primary_attribute": "dexterity",
     "required_level": 12,
     "is_support": false,
@@ -809,7 +809,7 @@
   },
   "Metadata/Items/Gems/SkillGemVaalLightningStrike": {
     "id": "Metadata/Items/Gems/SkillGemVaalLightningStrike",
-    "name": "Vaal Lightning Strike",
+    "name": "Удар молнии ваал",
     "primary_attribute": "dexterity",
     "required_level": 12,
     "is_support": false,
@@ -817,7 +817,7 @@
   },
   "Metadata/Items/Gems/SkillGemTempestShield": {
     "id": "Metadata/Items/Gems/SkillGemTempestShield",
-    "name": "Tempest Shield",
+    "name": "Щит бури",
     "primary_attribute": "intelligence",
     "required_level": 16,
     "is_support": false,
@@ -825,7 +825,7 @@
   },
   "Metadata/Items/Gems/SkillGemMoltenShell": {
     "id": "Metadata/Items/Gems/SkillGemMoltenShell",
-    "name": "Molten Shell",
+    "name": "Расплавленный панцирь",
     "primary_attribute": "strength",
     "required_level": 4,
     "is_support": false,
@@ -833,7 +833,7 @@
   },
   "Metadata/Items/Gems/SkillGemVaalMoltenShell": {
     "id": "Metadata/Items/Gems/SkillGemVaalMoltenShell",
-    "name": "Vaal Molten Shell",
+    "name": "Расплавленный панцирь ваал",
     "primary_attribute": "strength",
     "required_level": 4,
     "is_support": false,
@@ -841,7 +841,7 @@
   },
   "Metadata/Items/Gems/SkillGemPowerSiphon": {
     "id": "Metadata/Items/Gems/SkillGemPowerSiphon",
-    "name": "Power Siphon",
+    "name": "Перелив энергии",
     "primary_attribute": "intelligence",
     "required_level": 12,
     "is_support": false,
@@ -849,7 +849,7 @@
   },
   "Metadata/Items/Gems/SkillGemVaalPowerSiphon": {
     "id": "Metadata/Items/Gems/SkillGemVaalPowerSiphon",
-    "name": "Vaal Power Siphon",
+    "name": "Перелив энергии ваал",
     "primary_attribute": "intelligence",
     "required_level": 12,
     "is_support": false,
@@ -857,7 +857,7 @@
   },
   "Metadata/Items/Gems/SkillGemPuncture": {
     "id": "Metadata/Items/Gems/SkillGemPuncture",
-    "name": "Puncture",
+    "name": "Надрез",
     "primary_attribute": "dexterity",
     "required_level": 4,
     "is_support": false,
@@ -865,7 +865,7 @@
   },
   "Metadata/Items/Gems/SkillGemLightningArrow": {
     "id": "Metadata/Items/Gems/SkillGemLightningArrow",
-    "name": "Lightning Arrow",
+    "name": "Стрела молнии",
     "primary_attribute": "dexterity",
     "required_level": 12,
     "is_support": false,
@@ -873,7 +873,7 @@
   },
   "Metadata/Items/Gems/SkillGemHaste": {
     "id": "Metadata/Items/Gems/SkillGemHaste",
-    "name": "Haste",
+    "name": "Спешка",
     "primary_attribute": "dexterity",
     "required_level": 24,
     "is_support": false,
@@ -881,7 +881,7 @@
   },
   "Metadata/Items/Gems/SkillGemVaalHaste": {
     "id": "Metadata/Items/Gems/SkillGemVaalHaste",
-    "name": "Vaal Haste",
+    "name": "Спешка ваал",
     "primary_attribute": "dexterity",
     "required_level": 24,
     "is_support": false,
@@ -889,7 +889,7 @@
   },
   "Metadata/Items/Gems/SkillGemPurity": {
     "id": "Metadata/Items/Gems/SkillGemPurity",
-    "name": "Purity of Elements",
+    "name": "Спасение от стихий",
     "primary_attribute": "intelligence",
     "required_level": 24,
     "is_support": false,
@@ -897,7 +897,7 @@
   },
   "Metadata/Items/Gems/SkillGemVitality": {
     "id": "Metadata/Items/Gems/SkillGemVitality",
-    "name": "Vitality",
+    "name": "Живучесть",
     "primary_attribute": "strength",
     "required_level": 10,
     "is_support": false,
@@ -905,7 +905,7 @@
   },
   "Metadata/Items/Gems/SkillGemDiscipline": {
     "id": "Metadata/Items/Gems/SkillGemDiscipline",
-    "name": "Discipline",
+    "name": "Дисциплина",
     "primary_attribute": "intelligence",
     "required_level": 24,
     "is_support": false,
@@ -913,7 +913,7 @@
   },
   "Metadata/Items/Gems/SkillGemVaalDiscipline": {
     "id": "Metadata/Items/Gems/SkillGemVaalDiscipline",
-    "name": "Vaal Discipline",
+    "name": "Дисциплина ваал",
     "primary_attribute": "intelligence",
     "required_level": 24,
     "is_support": false,
@@ -921,7 +921,7 @@
   },
   "Metadata/Items/Gems/SkillGemGrace": {
     "id": "Metadata/Items/Gems/SkillGemGrace",
-    "name": "Grace",
+    "name": "Грация",
     "primary_attribute": "dexterity",
     "required_level": 24,
     "is_support": false,
@@ -929,7 +929,7 @@
   },
   "Metadata/Items/Gems/SkillGemVaalGrace": {
     "id": "Metadata/Items/Gems/SkillGemVaalGrace",
-    "name": "Vaal Grace",
+    "name": "Грация ваал",
     "primary_attribute": "dexterity",
     "required_level": 24,
     "is_support": false,
@@ -937,7 +937,7 @@
   },
   "Metadata/Items/Gems/SkillGemDetermination": {
     "id": "Metadata/Items/Gems/SkillGemDetermination",
-    "name": "Determination",
+    "name": "Решимость",
     "primary_attribute": "strength",
     "required_level": 24,
     "is_support": false,
@@ -945,7 +945,7 @@
   },
   "Metadata/Items/Gems/SkillGemAnger": {
     "id": "Metadata/Items/Gems/SkillGemAnger",
-    "name": "Anger",
+    "name": "Жгучая злоба",
     "primary_attribute": "strength",
     "required_level": 24,
     "is_support": false,
@@ -953,7 +953,7 @@
   },
   "Metadata/Items/Gems/SkillGemHatred": {
     "id": "Metadata/Items/Gems/SkillGemHatred",
-    "name": "Hatred",
+    "name": "Холодная ненависть",
     "primary_attribute": "dexterity",
     "required_level": 24,
     "is_support": false,
@@ -961,7 +961,7 @@
   },
   "Metadata/Items/Gems/SkillGemWrath": {
     "id": "Metadata/Items/Gems/SkillGemWrath",
-    "name": "Wrath",
+    "name": "Грозный гнев",
     "primary_attribute": "intelligence",
     "required_level": 24,
     "is_support": false,
@@ -969,7 +969,7 @@
   },
   "Metadata/Items/Gems/SkillGemBurningArrow": {
     "id": "Metadata/Items/Gems/SkillGemBurningArrow",
-    "name": "Burning Arrow",
+    "name": "Горящая стрела",
     "primary_attribute": "dexterity",
     "required_level": 1,
     "is_support": false,
@@ -977,7 +977,7 @@
   },
   "Metadata/Items/Gems/SkillGemVaalBurningArrow": {
     "id": "Metadata/Items/Gems/SkillGemVaalBurningArrow",
-    "name": "Vaal Burning Arrow",
+    "name": "Горящая стрела ваал",
     "primary_attribute": "dexterity",
     "required_level": 1,
     "is_support": false,
@@ -985,7 +985,7 @@
   },
   "Metadata/Items/Gems/SupportGemElementalProliferation": {
     "id": "Metadata/Items/Gems/SupportGemElementalProliferation",
-    "name": "Elemental Proliferation Support",
+    "name": "Разгул стихий",
     "primary_attribute": "intelligence",
     "required_level": 1,
     "is_support": true,
@@ -993,7 +993,7 @@
   },
   "Metadata/Items/Gems/SupportGemBloodMagic": {
     "id": "Metadata/Items/Gems/SupportGemBloodMagic",
-    "name": "Arrogance Support",
+    "name": "Заносчивость",
     "primary_attribute": "strength",
     "required_level": 31,
     "is_support": true,
@@ -1001,7 +1001,7 @@
   },
   "Metadata/Items/Gems/SkillGemClarity": {
     "id": "Metadata/Items/Gems/SkillGemClarity",
-    "name": "Clarity",
+    "name": "Ясность ума",
     "primary_attribute": "intelligence",
     "required_level": 10,
     "is_support": false,
@@ -1009,7 +1009,7 @@
   },
   "Metadata/Items/Gems/SkillGemVaalClarity": {
     "id": "Metadata/Items/Gems/SkillGemVaalClarity",
-    "name": "Vaal Clarity",
+    "name": "Ясность ума ваал",
     "primary_attribute": "intelligence",
     "required_level": 10,
     "is_support": false,
@@ -1017,7 +1017,7 @@
   },
   "Metadata/Items/Gems/SupportGemCullingStrike": {
     "id": "Metadata/Items/Gems/SupportGemCullingStrike",
-    "name": "Culling Strike Support",
+    "name": "Добивание",
     "primary_attribute": "dexterity",
     "required_level": 18,
     "is_support": true,
@@ -1025,7 +1025,7 @@
   },
   "Metadata/Items/Gems/SupportGemPointBlank": {
     "id": "Metadata/Items/Gems/SupportGemPointBlank",
-    "name": "Point Blank Support",
+    "name": "Стрельба в упор",
     "primary_attribute": "dexterity",
     "required_level": 18,
     "is_support": true,
@@ -1033,7 +1033,7 @@
   },
   "Metadata/Items/Gems/SupportGemIronGrip": {
     "id": "Metadata/Items/Gems/SupportGemIronGrip",
-    "name": "Iron Grip Support",
+    "name": "Железная хватка",
     "primary_attribute": "strength",
     "required_level": 18,
     "is_support": true,
@@ -1041,7 +1041,7 @@
   },
   "Metadata/Items/Gems/SupportGemIronWill": {
     "id": "Metadata/Items/Gems/SupportGemIronWill",
-    "name": "Iron Will Support",
+    "name": "Железная воля",
     "primary_attribute": "strength",
     "required_level": 18,
     "is_support": true,
@@ -1049,7 +1049,7 @@
   },
   "Metadata/Items/Gems/SupportGemMeleeDamageOnFullLife": {
     "id": "Metadata/Items/Gems/SupportGemMeleeDamageOnFullLife",
-    "name": "Damage on Full Life Support",
+    "name": "Урон при полном здоровье",
     "primary_attribute": "strength",
     "required_level": 18,
     "is_support": true,
@@ -1057,7 +1057,7 @@
   },
   "Metadata/Items/Gems/SupportGemSpellTotem": {
     "id": "Metadata/Items/Gems/SupportGemSpellTotem",
-    "name": "Spell Totem Support",
+    "name": "Колдующий тотем",
     "primary_attribute": "strength",
     "required_level": 8,
     "is_support": true,
@@ -1065,7 +1065,7 @@
   },
   "Metadata/Items/Gems/SupportGemRemoteMine": {
     "id": "Metadata/Items/Gems/SupportGemRemoteMine",
-    "name": "Blastchain Mine Support",
+    "name": "Цепной подрыв",
     "primary_attribute": "intelligence",
     "required_level": 8,
     "is_support": true,
@@ -1073,7 +1073,7 @@
   },
   "Metadata/Items/Gems/SkillGemDetonateMines": {
     "id": "Metadata/Items/Gems/SkillGemDetonateMines",
-    "name": "Detonate Mines",
+    "name": "Подрыв мин",
     "primary_attribute": "none",
     "required_level": 8,
     "is_support": false,
@@ -1081,7 +1081,7 @@
   },
   "Metadata/Items/Gems/SkillGemShockwaveTotem": {
     "id": "Metadata/Items/Gems/SkillGemShockwaveTotem",
-    "name": "Shockwave Totem",
+    "name": "Сотрясающий тотем",
     "primary_attribute": "strength",
     "required_level": 28,
     "is_support": false,
@@ -1089,7 +1089,7 @@
   },
   "Metadata/Items/Gems/SkillGemRejuvenationTotem": {
     "id": "Metadata/Items/Gems/SkillGemRejuvenationTotem",
-    "name": "Rejuvenation Totem",
+    "name": "Восполняющий тотем",
     "primary_attribute": "strength",
     "required_level": 4,
     "is_support": false,
@@ -1097,7 +1097,7 @@
   },
   "Metadata/Items/Gems/SkillGemFreezeMine": {
     "id": "Metadata/Items/Gems/SkillGemFreezeMine",
-    "name": "Icicle Mine",
+    "name": "Шквальная мина",
     "primary_attribute": "intelligence",
     "required_level": 12,
     "is_support": false,
@@ -1105,7 +1105,7 @@
   },
   "Metadata/Items/Gems/SkillGemConversionTrap": {
     "id": "Metadata/Items/Gems/SkillGemConversionTrap",
-    "name": "Conversion Trap",
+    "name": "Ловушка переманивания",
     "primary_attribute": "intelligence",
     "required_level": 4,
     "is_support": false,
@@ -1113,7 +1113,7 @@
   },
   "Metadata/Items/Gems/SkillGemBearTrap": {
     "id": "Metadata/Items/Gems/SkillGemBearTrap",
-    "name": "Bear Trap",
+    "name": "Медвежий капкан",
     "primary_attribute": "dexterity",
     "required_level": 4,
     "is_support": false,
@@ -1121,7 +1121,7 @@
   },
   "Metadata/Items/Gems/SupportGemChanceToFlee": {
     "id": "Metadata/Items/Gems/SupportGemChanceToFlee",
-    "name": "Chance to Flee Support",
+    "name": "Паника",
     "primary_attribute": "dexterity",
     "required_level": 8,
     "is_support": true,
@@ -1129,7 +1129,7 @@
   },
   "Metadata/Items/Gems/SkillGemFireTrap": {
     "id": "Metadata/Items/Gems/SkillGemFireTrap",
-    "name": "Fire Trap",
+    "name": "Огненная ловушка",
     "primary_attribute": "dexterity",
     "required_level": 12,
     "is_support": false,
@@ -1137,7 +1137,7 @@
   },
   "Metadata/Items/Gems/SkillGemDecoyTotem": {
     "id": "Metadata/Items/Gems/SkillGemDecoyTotem",
-    "name": "Decoy Totem",
+    "name": "Тотем-приманка",
     "primary_attribute": "strength",
     "required_level": 4,
     "is_support": false,
@@ -1145,7 +1145,7 @@
   },
   "Metadata/Items/Gems/SkillGemDevouringTotem": {
     "id": "Metadata/Items/Gems/SkillGemDevouringTotem",
-    "name": "Devouring Totem",
+    "name": "Поглощающий тотем",
     "primary_attribute": "strength",
     "required_level": 4,
     "is_support": false,
@@ -1153,7 +1153,7 @@
   },
   "Metadata/Items/Gems/SkillGemEtherealKnives": {
     "id": "Metadata/Items/Gems/SkillGemEtherealKnives",
-    "name": "Ethereal Knives",
+    "name": "Бесплотные ножи",
     "primary_attribute": "dexterity",
     "required_level": 1,
     "is_support": false,
@@ -1161,7 +1161,7 @@
   },
   "Metadata/Items/Gems/SupportGemBlind": {
     "id": "Metadata/Items/Gems/SupportGemBlind",
-    "name": "Blind Support",
+    "name": "Ослепление",
     "primary_attribute": "dexterity",
     "required_level": 8,
     "is_support": true,
@@ -1169,7 +1169,7 @@
   },
   "Metadata/Items/Gems/SkillGemIceShot": {
     "id": "Metadata/Items/Gems/SkillGemIceShot",
-    "name": "Ice Shot",
+    "name": "Ледяной выстрел",
     "primary_attribute": "dexterity",
     "required_level": 1,
     "is_support": false,
@@ -1177,7 +1177,7 @@
   },
   "Metadata/Items/Gems/SkillGemArcticBreath": {
     "id": "Metadata/Items/Gems/SkillGemArcticBreath",
-    "name": "Creeping Frost",
+    "name": "Ползучий мороз",
     "primary_attribute": "intelligence",
     "required_level": 12,
     "is_support": false,
@@ -1185,7 +1185,7 @@
   },
   "Metadata/Items/Gems/SkillGemArc": {
     "id": "Metadata/Items/Gems/SkillGemArc",
-    "name": "Arc",
+    "name": "Цепь молний",
     "primary_attribute": "intelligence",
     "required_level": 12,
     "is_support": false,
@@ -1193,7 +1193,7 @@
   },
   "Metadata/Items/Gems/SkillGemVaalArc": {
     "id": "Metadata/Items/Gems/SkillGemVaalArc",
-    "name": "Vaal Arc",
+    "name": "Цепь молний ваал",
     "primary_attribute": "intelligence",
     "required_level": 12,
     "is_support": false,
@@ -1201,7 +1201,7 @@
   },
   "Metadata/Items/Gems/SkillGemArcticArmour": {
     "id": "Metadata/Items/Gems/SkillGemArcticArmour",
-    "name": "Arctic Armour",
+    "name": "Северная броня",
     "primary_attribute": "dexterity",
     "required_level": 16,
     "is_support": false,
@@ -1209,7 +1209,7 @@
   },
   "Metadata/Items/Gems/SkillGemVaalArcticArmour": {
     "id": "Metadata/Items/Gems/SkillGemVaalArcticArmour",
-    "name": "Vaal Arctic Armour",
+    "name": "Северная броня ваал",
     "primary_attribute": "dexterity",
     "required_level": 16,
     "is_support": false,
@@ -1217,7 +1217,7 @@
   },
   "Metadata/Items/Gems/SkillGemFlameTotem": {
     "id": "Metadata/Items/Gems/SkillGemFlameTotem",
-    "name": "Holy Flame Totem",
+    "name": "Тотем священного огня",
     "primary_attribute": "strength",
     "required_level": 4,
     "is_support": false,
@@ -1225,7 +1225,7 @@
   },
   "Metadata/Items/Gems/SupportGemRangedAttackTotem": {
     "id": "Metadata/Items/Gems/SupportGemRangedAttackTotem",
-    "name": "Ballista Totem Support",
+    "name": "Тотем-баллиста",
     "primary_attribute": "strength",
     "required_level": 8,
     "is_support": true,
@@ -1233,7 +1233,7 @@
   },
   "Metadata/Items/Gems/SupportGemFirePenetration": {
     "id": "Metadata/Items/Gems/SupportGemFirePenetration",
-    "name": "Fire Penetration Support",
+    "name": "Пронизывающий жар",
     "primary_attribute": "strength",
     "required_level": 31,
     "is_support": true,
@@ -1241,7 +1241,7 @@
   },
   "Metadata/Items/Gems/SupportGemColdPenetration": {
     "id": "Metadata/Items/Gems/SupportGemColdPenetration",
-    "name": "Cold Penetration Support",
+    "name": "Пронизывающий холод",
     "primary_attribute": "dexterity",
     "required_level": 31,
     "is_support": true,
@@ -1249,7 +1249,7 @@
   },
   "Metadata/Items/Gems/SupportGemLightningPenetration": {
     "id": "Metadata/Items/Gems/SupportGemLightningPenetration",
-    "name": "Lightning Penetration Support",
+    "name": "Пронизывающие молнии",
     "primary_attribute": "intelligence",
     "required_level": 31,
     "is_support": true,
@@ -1257,7 +1257,7 @@
   },
   "Metadata/Items/Gems/SupportGemElementalPenetration": {
     "id": "Metadata/Items/Gems/SupportGemElementalPenetration",
-    "name": "Elemental Penetration Support",
+    "name": "Пронизывающие стихии",
     "primary_attribute": "intelligence",
     "required_level": 31,
     "is_support": true,
@@ -1265,7 +1265,7 @@
   },
   "Metadata/Items/Gems/SupportGemChain": {
     "id": "Metadata/Items/Gems/SupportGemChain",
-    "name": "Chain Support",
+    "name": "Цепь",
     "primary_attribute": "dexterity",
     "required_level": 38,
     "is_support": true,
@@ -1273,7 +1273,7 @@
   },
   "Metadata/Items/Gems/SupportGemFork": {
     "id": "Metadata/Items/Gems/SupportGemFork",
-    "name": "Fork Support",
+    "name": "Разветвление",
     "primary_attribute": "dexterity",
     "required_level": 31,
     "is_support": true,
@@ -1281,7 +1281,7 @@
   },
   "Metadata/Items/Gems/SupportGemReturningProjectiles": {
     "id": "Metadata/Items/Gems/SupportGemReturningProjectiles",
-    "name": "Returning Projectiles Support",
+    "name": "Возвращающиеся снаряды",
     "primary_attribute": "dexterity",
     "required_level": 38,
     "is_support": true,
@@ -1289,7 +1289,7 @@
   },
   "Metadata/Items/Gems/SkillGemFlammability": {
     "id": "Metadata/Items/Gems/SkillGemFlammability",
-    "name": "Flammability",
+    "name": "Горючесть",
     "primary_attribute": "intelligence",
     "required_level": 24,
     "is_support": false,
@@ -1297,7 +1297,7 @@
   },
   "Metadata/Items/Gems/SkillGemFrostbite": {
     "id": "Metadata/Items/Gems/SkillGemFrostbite",
-    "name": "Frostbite",
+    "name": "Обморожение",
     "primary_attribute": "intelligence",
     "required_level": 24,
     "is_support": false,
@@ -1305,7 +1305,7 @@
   },
   "Metadata/Items/Gems/SkillGemConductivity": {
     "id": "Metadata/Items/Gems/SkillGemConductivity",
-    "name": "Conductivity",
+    "name": "Проводимость",
     "primary_attribute": "intelligence",
     "required_level": 24,
     "is_support": false,
@@ -1313,7 +1313,7 @@
   },
   "Metadata/Items/Gems/SkillGemStormBurst": {
     "id": "Metadata/Items/Gems/SkillGemStormBurst",
-    "name": "Storm Burst",
+    "name": "Грозовой взрыв",
     "primary_attribute": "intelligence",
     "required_level": 12,
     "is_support": false,
@@ -1321,7 +1321,7 @@
   },
   "Metadata/Items/Gems/SkillGemIncinerate": {
     "id": "Metadata/Items/Gems/SkillGemIncinerate",
-    "name": "Incinerate",
+    "name": "Испепеление",
     "primary_attribute": "intelligence",
     "required_level": 12,
     "is_support": false,
@@ -1329,7 +1329,7 @@
   },
   "Metadata/Items/Gems/SkillGemCyclone": {
     "id": "Metadata/Items/Gems/SkillGemCyclone",
-    "name": "Cyclone",
+    "name": "Вихрь",
     "primary_attribute": "dexterity",
     "required_level": 28,
     "is_support": false,
@@ -1337,7 +1337,7 @@
   },
   "Metadata/Items/Gems/SkillGemVaalCyclone": {
     "id": "Metadata/Items/Gems/SkillGemVaalCyclone",
-    "name": "Vaal Cyclone",
+    "name": "Вихрь ваал",
     "primary_attribute": "dexterity",
     "required_level": 28,
     "is_support": false,
@@ -1345,7 +1345,7 @@
   },
   "Metadata/Items/Gems/SupportGemMultistrike": {
     "id": "Metadata/Items/Gems/SupportGemMultistrike",
-    "name": "Multistrike Support",
+    "name": "Град ударов",
     "primary_attribute": "strength",
     "required_level": 38,
     "is_support": true,
@@ -1353,7 +1353,7 @@
   },
   "Metadata/Items/Gems/SupportGemMulticast": {
     "id": "Metadata/Items/Gems/SupportGemMulticast",
-    "name": "Spell Echo Support",
+    "name": "Эхо магии",
     "primary_attribute": "intelligence",
     "required_level": 38,
     "is_support": true,
@@ -1361,7 +1361,7 @@
   },
   "Metadata/Items/Gems/SupportGemMeleeSplash": {
     "id": "Metadata/Items/Gems/SupportGemMeleeSplash",
-    "name": "Melee Splash Support",
+    "name": "Раскатистый удар",
     "primary_attribute": "strength",
     "required_level": 8,
     "is_support": true,
@@ -1369,7 +1369,7 @@
   },
   "Metadata/Items/Gems/SupportGemPowerChargeOnCrit": {
     "id": "Metadata/Items/Gems/SupportGemPowerChargeOnCrit",
-    "name": "Power Charge On Critical Support",
+    "name": "Заряд энергии при критическом ударе",
     "primary_attribute": "intelligence",
     "required_level": 18,
     "is_support": true,
@@ -1377,7 +1377,7 @@
   },
   "Metadata/Items/Gems/SkillGemSearingBond": {
     "id": "Metadata/Items/Gems/SkillGemSearingBond",
-    "name": "Searing Bond",
+    "name": "Обжигающие узы",
     "primary_attribute": "strength",
     "required_level": 12,
     "is_support": false,
@@ -1385,7 +1385,7 @@
   },
   "Metadata/Items/Gems/SupportGemIncreasedBurningDamage": {
     "id": "Metadata/Items/Gems/SupportGemIncreasedBurningDamage",
-    "name": "Burning Damage Support",
+    "name": "Урон от горения",
     "primary_attribute": "strength",
     "required_level": 31,
     "is_support": true,
@@ -1393,7 +1393,7 @@
   },
   "Metadata/Items/Gems/SupportGemSummonElementalResistance": {
     "id": "Metadata/Items/Gems/SupportGemSummonElementalResistance",
-    "name": "Elemental Army Support",
+    "name": "Стихийное войско",
     "primary_attribute": "intelligence",
     "required_level": 31,
     "is_support": true,
@@ -1401,7 +1401,7 @@
   },
   "Metadata/Items/Gems/SupportGemCurseOnHit": {
     "id": "Metadata/Items/Gems/SupportGemCurseOnHit",
-    "name": "Hextouch Support",
+    "name": "Касание порчи",
     "primary_attribute": "intelligence",
     "required_level": 38,
     "is_support": true,
@@ -1409,7 +1409,7 @@
   },
   "Metadata/Items/Gems/SkillGemReave": {
     "id": "Metadata/Items/Gems/SkillGemReave",
-    "name": "Reave",
+    "name": "Опустошение",
     "primary_attribute": "dexterity",
     "required_level": 12,
     "is_support": false,
@@ -1417,7 +1417,7 @@
   },
   "Metadata/Items/Gems/SkillGemVaalReave": {
     "id": "Metadata/Items/Gems/SkillGemVaalReave",
-    "name": "Vaal Reave",
+    "name": "Опустошение ваал",
     "primary_attribute": "dexterity",
     "required_level": 12,
     "is_support": false,
@@ -1425,7 +1425,7 @@
   },
   "Metadata/Items/Gems/SupportGemCastOnCrit": {
     "id": "Metadata/Items/Gems/SupportGemCastOnCrit",
-    "name": "Cast On Critical Strike Support",
+    "name": "Сотворение чар при критическом ударе",
     "primary_attribute": "dexterity",
     "required_level": 38,
     "is_support": true,
@@ -1433,7 +1433,7 @@
   },
   "Metadata/Items/Gems/SupportGemCastOnKill": {
     "id": "Metadata/Items/Gems/SupportGemCastOnKill",
-    "name": "Cast on Melee Kill Support",
+    "name": "Сотворение чар при убийстве в ближнем бою",
     "primary_attribute": "strength",
     "required_level": 38,
     "is_support": true,
@@ -1441,7 +1441,7 @@
   },
   "Metadata/Items/Gems/SupportGemMultiTrap": {
     "id": "Metadata/Items/Gems/SupportGemMultiTrap",
-    "name": "Multiple Traps Support",
+    "name": "Дополнительные ловушки",
     "primary_attribute": "dexterity",
     "required_level": 8,
     "is_support": true,
@@ -1449,7 +1449,7 @@
   },
   "Metadata/Items/Gems/SupportGemAdditionalLevel": {
     "id": "Metadata/Items/Gems/SupportGemAdditionalLevel",
-    "name": "Empower Support",
+    "name": "Усилитель",
     "primary_attribute": "strength",
     "required_level": 1,
     "is_support": true,
@@ -1457,7 +1457,7 @@
   },
   "Metadata/Items/Gems/SkillGemLightningTrap": {
     "id": "Metadata/Items/Gems/SkillGemLightningTrap",
-    "name": "Lightning Trap",
+    "name": "Ловушка молний",
     "primary_attribute": "intelligence",
     "required_level": 12,
     "is_support": false,
@@ -1465,7 +1465,7 @@
   },
   "Metadata/Items/Gems/SkillGemVaalLightningTrap": {
     "id": "Metadata/Items/Gems/SkillGemVaalLightningTrap",
-    "name": "Vaal Lightning Trap",
+    "name": "Ловушка молний ваал",
     "primary_attribute": "intelligence",
     "required_level": 12,
     "is_support": false,
@@ -1473,7 +1473,7 @@
   },
   "Metadata/Items/Gems/SkillGemSmokeMine": {
     "id": "Metadata/Items/Gems/SkillGemSmokeMine",
-    "name": "Smoke Mine",
+    "name": "Дымовая мина",
     "primary_attribute": "dexterity",
     "required_level": 10,
     "is_support": false,
@@ -1481,7 +1481,7 @@
   },
   "Metadata/Items/Gems/SupportGemEnduranceChargeOnMeleeStun": {
     "id": "Metadata/Items/Gems/SupportGemEnduranceChargeOnMeleeStun",
-    "name": "Endurance Charge on Melee Stun Support",
+    "name": "Заряд выносливости при оглушении в ближнем бою",
     "primary_attribute": "strength",
     "required_level": 18,
     "is_support": true,
@@ -1489,7 +1489,7 @@
   },
   "Metadata/Items/Gems/SkillGemAnimateArmour": {
     "id": "Metadata/Items/Gems/SkillGemAnimateArmour",
-    "name": "Animate Guardian",
+    "name": "Аниматрон",
     "primary_attribute": "strength",
     "required_level": 28,
     "is_support": false,
@@ -1497,7 +1497,7 @@
   },
   "Metadata/Items/Gems/SkillGemThrownShieldProjectile": {
     "id": "Metadata/Items/Gems/SkillGemThrownShieldProjectile",
-    "name": "Spectral Shield Throw",
+    "name": "Бросок призрачного щита",
     "primary_attribute": "dexterity",
     "required_level": 28,
     "is_support": false,
@@ -1505,7 +1505,7 @@
   },
   "Metadata/Items/Gems/SkillGemThrownWeapon": {
     "id": "Metadata/Items/Gems/SkillGemThrownWeapon",
-    "name": "Spectral Throw",
+    "name": "Призрачный бросок",
     "primary_attribute": "dexterity",
     "required_level": 1,
     "is_support": false,
@@ -1513,7 +1513,7 @@
   },
   "Metadata/Items/Gems/SkillGemVaalThrownWeapon": {
     "id": "Metadata/Items/Gems/SkillGemVaalThrownWeapon",
-    "name": "Vaal Spectral Throw",
+    "name": "Призрачный бросок ваал",
     "primary_attribute": "dexterity",
     "required_level": 1,
     "is_support": false,
@@ -1521,7 +1521,7 @@
   },
   "Metadata/Items/Gems/SupportGemSlowerProjectiles": {
     "id": "Metadata/Items/Gems/SupportGemSlowerProjectiles",
-    "name": "Slower Projectiles Support",
+    "name": "Замедленные снаряды",
     "primary_attribute": "dexterity",
     "required_level": 31,
     "is_support": true,
@@ -1529,7 +1529,7 @@
   },
   "Metadata/Items/Gems/SupportGemReducedDuration": {
     "id": "Metadata/Items/Gems/SupportGemReducedDuration",
-    "name": "Less Duration Support",
+    "name": "Сокращение",
     "primary_attribute": "strength",
     "required_level": 31,
     "is_support": true,
@@ -1537,7 +1537,7 @@
   },
   "Metadata/Items/Gems/SupportGemCastOnDeath": {
     "id": "Metadata/Items/Gems/SupportGemCastOnDeath",
-    "name": "Cast on Death Support",
+    "name": "Сотворение чар при смерти",
     "primary_attribute": "dexterity",
     "required_level": 38,
     "is_support": true,
@@ -1545,7 +1545,7 @@
   },
   "Metadata/Items/Gems/SupportGemCastOnDamageTaken": {
     "id": "Metadata/Items/Gems/SupportGemCastOnDamageTaken",
-    "name": "Cast when Damage Taken Support",
+    "name": "Сотворение чар при получении урона",
     "primary_attribute": "strength",
     "required_level": 38,
     "is_support": true,
@@ -1553,7 +1553,7 @@
   },
   "Metadata/Items/Gems/SupportGemCastOnStunned": {
     "id": "Metadata/Items/Gems/SupportGemCastOnStunned",
-    "name": "Cast when Stunned Support",
+    "name": "Сотворение чар при оглушении",
     "primary_attribute": "intelligence",
     "required_level": 38,
     "is_support": true,
@@ -1561,7 +1561,7 @@
   },
   "Metadata/Items/Gems/SkillGemAnimateWeapon": {
     "id": "Metadata/Items/Gems/SkillGemAnimateWeapon",
-    "name": "Animate Weapon",
+    "name": "Живое оружие",
     "primary_attribute": "dexterity",
     "required_level": 4,
     "is_support": false,
@@ -1569,7 +1569,7 @@
   },
   "Metadata/Items/Gems/SupportGemAdditionalQuality": {
     "id": "Metadata/Items/Gems/SupportGemAdditionalQuality",
-    "name": "Enhance Support",
+    "name": "Улучшитель",
     "primary_attribute": "dexterity",
     "required_level": 1,
     "is_support": true,
@@ -1577,7 +1577,7 @@
   },
   "Metadata/Items/Gems/SkillGemFireResistAura": {
     "id": "Metadata/Items/Gems/SkillGemFireResistAura",
-    "name": "Purity of Fire",
+    "name": "Спасение от огня",
     "primary_attribute": "strength",
     "required_level": 24,
     "is_support": false,
@@ -1585,7 +1585,7 @@
   },
   "Metadata/Items/Gems/SkillGemVaalFireResistAura": {
     "id": "Metadata/Items/Gems/SkillGemVaalFireResistAura",
-    "name": "Vaal Impurity of Fire",
+    "name": "Погибель от огня ваал",
     "primary_attribute": "strength",
     "required_level": 24,
     "is_support": false,
@@ -1593,7 +1593,7 @@
   },
   "Metadata/Items/Gems/SkillGemColdResistAura": {
     "id": "Metadata/Items/Gems/SkillGemColdResistAura",
-    "name": "Purity of Ice",
+    "name": "Спасение от холода",
     "primary_attribute": "dexterity",
     "required_level": 24,
     "is_support": false,
@@ -1601,7 +1601,7 @@
   },
   "Metadata/Items/Gems/SkillGemVaalColdResistAura": {
     "id": "Metadata/Items/Gems/SkillGemVaalColdResistAura",
-    "name": "Vaal Impurity of Ice",
+    "name": "Погибель от холода ваал",
     "primary_attribute": "dexterity",
     "required_level": 24,
     "is_support": false,
@@ -1609,7 +1609,7 @@
   },
   "Metadata/Items/Gems/SkillGemLightningResistAura": {
     "id": "Metadata/Items/Gems/SkillGemLightningResistAura",
-    "name": "Purity of Lightning",
+    "name": "Спасение от молний",
     "primary_attribute": "intelligence",
     "required_level": 24,
     "is_support": false,
@@ -1617,7 +1617,7 @@
   },
   "Metadata/Items/Gems/SkillGemVaalLightningResistAura": {
     "id": "Metadata/Items/Gems/SkillGemVaalLightningResistAura",
-    "name": "Vaal Impurity of Lightning",
+    "name": "Погибель от молнии ваал",
     "primary_attribute": "intelligence",
     "required_level": 24,
     "is_support": false,
@@ -1625,7 +1625,7 @@
   },
   "Metadata/Items/Gems/SkillGemStormCall": {
     "id": "Metadata/Items/Gems/SkillGemStormCall",
-    "name": "Storm Call",
+    "name": "Призыв бури",
     "primary_attribute": "intelligence",
     "required_level": 12,
     "is_support": false,
@@ -1633,7 +1633,7 @@
   },
   "Metadata/Items/Gems/SkillGemVaalStormCall": {
     "id": "Metadata/Items/Gems/SkillGemVaalStormCall",
-    "name": "Vaal Storm Call",
+    "name": "Призыв бури ваал",
     "primary_attribute": "intelligence",
     "required_level": 12,
     "is_support": false,
@@ -1641,7 +1641,7 @@
   },
   "Metadata/Items/Gems/SkillGemFlameblast": {
     "id": "Metadata/Items/Gems/SkillGemFlameblast",
-    "name": "Flameblast",
+    "name": "Пламенный взрыв",
     "primary_attribute": "intelligence",
     "required_level": 28,
     "is_support": false,
@@ -1649,7 +1649,7 @@
   },
   "Metadata/Items/Gems/SkillGemVaalFlameblast": {
     "id": "Metadata/Items/Gems/SkillGemVaalFlameblast",
-    "name": "Vaal Flameblast",
+    "name": "Пламенный взрыв ваал",
     "primary_attribute": "intelligence",
     "required_level": 28,
     "is_support": false,
@@ -1657,7 +1657,7 @@
   },
   "Metadata/Items/Gems/SkillGemBarrage": {
     "id": "Metadata/Items/Gems/SkillGemBarrage",
-    "name": "Barrage",
+    "name": "Очередь",
     "primary_attribute": "dexterity",
     "required_level": 12,
     "is_support": false,
@@ -1665,7 +1665,7 @@
   },
   "Metadata/Items/Gems/SkillGemBallLightning": {
     "id": "Metadata/Items/Gems/SkillGemBallLightning",
-    "name": "Ball Lightning",
+    "name": "Шаровая молния",
     "primary_attribute": "intelligence",
     "required_level": 28,
     "is_support": false,
@@ -1673,7 +1673,7 @@
   },
   "Metadata/Items/Gems/SupportGemPhysicalProjectileAttackDamage": {
     "id": "Metadata/Items/Gems/SupportGemPhysicalProjectileAttackDamage",
-    "name": "Vicious Projectiles Support",
+    "name": "Яростные снаряды",
     "primary_attribute": "dexterity",
     "required_level": 18,
     "is_support": true,
@@ -1681,7 +1681,7 @@
   },
   "Metadata/Items/Gems/SkillGemSummonRagingSpirit": {
     "id": "Metadata/Items/Gems/SkillGemSummonRagingSpirit",
-    "name": "Summon Raging Spirit",
+    "name": "Призыв неистового духа",
     "primary_attribute": "intelligence",
     "required_level": 4,
     "is_support": false,
@@ -1689,7 +1689,7 @@
   },
   "Metadata/Items/Gems/SkillGemFlameWhip": {
     "id": "Metadata/Items/Gems/SkillGemFlameWhip",
-    "name": "Flame Surge",
+    "name": "Выброс пламени",
     "primary_attribute": "intelligence",
     "required_level": 12,
     "is_support": false,
@@ -1697,7 +1697,7 @@
   },
   "Metadata/Items/Gems/SupportGemAdditionalXP": {
     "id": "Metadata/Items/Gems/SupportGemAdditionalXP",
-    "name": "Enlighten Support",
+    "name": "Наставник",
     "primary_attribute": "intelligence",
     "required_level": 1,
     "is_support": true,
@@ -1705,7 +1705,7 @@
   },
   "Metadata/Items/Gems/SkillGemDesecrate": {
     "id": "Metadata/Items/Gems/SkillGemDesecrate",
-    "name": "Desecrate",
+    "name": "Осквернение",
     "primary_attribute": "dexterity",
     "required_level": 16,
     "is_support": false,
@@ -1713,7 +1713,7 @@
   },
   "Metadata/Items/Gems/SkillGemFleshOffering": {
     "id": "Metadata/Items/Gems/SkillGemFleshOffering",
-    "name": "Flesh Offering",
+    "name": "Подношение плоти",
     "primary_attribute": "intelligence",
     "required_level": 12,
     "is_support": false,
@@ -1721,7 +1721,7 @@
   },
   "Metadata/Items/Gems/SkillGemBoneOffering": {
     "id": "Metadata/Items/Gems/SkillGemBoneOffering",
-    "name": "Bone Offering",
+    "name": "Подношение костей",
     "primary_attribute": "intelligence",
     "required_level": 12,
     "is_support": false,
@@ -1729,7 +1729,7 @@
   },
   "Metadata/Items/Gems/SkillGemSpiritOffering": {
     "id": "Metadata/Items/Gems/SkillGemSpiritOffering",
-    "name": "Spirit Offering",
+    "name": "Подношение духа",
     "primary_attribute": "intelligence",
     "required_level": 12,
     "is_support": false,
@@ -1737,7 +1737,7 @@
   },
   "Metadata/Items/Gems/SkillGemGlacialCascade": {
     "id": "Metadata/Items/Gems/SkillGemGlacialCascade",
-    "name": "Glacial Cascade",
+    "name": "Ледяной каскад",
     "primary_attribute": "intelligence",
     "required_level": 28,
     "is_support": false,
@@ -1745,7 +1745,7 @@
   },
   "Metadata/Items/Gems/SupportGemBlockChanceReduction": {
     "id": "Metadata/Items/Gems/SupportGemBlockChanceReduction",
-    "name": "Block Chance Reduction Support",
+    "name": "Затруднение блока",
     "primary_attribute": "dexterity",
     "required_level": 18,
     "is_support": true,
@@ -1753,7 +1753,7 @@
   },
   "Metadata/Items/Gems/SkillGemMoltenStrike": {
     "id": "Metadata/Items/Gems/SkillGemMoltenStrike",
-    "name": "Molten Strike",
+    "name": "Магмовый удар",
     "primary_attribute": "strength",
     "required_level": 1,
     "is_support": false,
@@ -1761,7 +1761,7 @@
   },
   "Metadata/Items/Gems/SkillGemConvocation": {
     "id": "Metadata/Items/Gems/SkillGemConvocation",
-    "name": "Convocation",
+    "name": "Сбор",
     "primary_attribute": "intelligence",
     "required_level": 24,
     "is_support": false,
@@ -1769,7 +1769,7 @@
   },
   "Metadata/Items/Gems/SkillGemFireNovaMine": {
     "id": "Metadata/Items/Gems/SkillGemFireNovaMine",
-    "name": "Pyroclast Mine",
+    "name": "Пирокластовая мина",
     "primary_attribute": "intelligence",
     "required_level": 28,
     "is_support": false,
@@ -1777,7 +1777,7 @@
   },
   "Metadata/Items/Gems/SkillGemTornadoShot": {
     "id": "Metadata/Items/Gems/SkillGemTornadoShot",
-    "name": "Tornado Shot",
+    "name": "Вихрь стрел",
     "primary_attribute": "dexterity",
     "required_level": 28,
     "is_support": false,
@@ -1785,7 +1785,7 @@
   },
   "Metadata/Items/Gems/SupportGemGenerosity": {
     "id": "Metadata/Items/Gems/SupportGemGenerosity",
-    "name": "Generosity Support",
+    "name": "Щедрость",
     "primary_attribute": "strength",
     "required_level": 31,
     "is_support": true,
@@ -1793,7 +1793,7 @@
   },
   "Metadata/Items/Gems/SkillGemHeraldOfAsh": {
     "id": "Metadata/Items/Gems/SkillGemHeraldOfAsh",
-    "name": "Herald of Ash",
+    "name": "Вестник пепла",
     "primary_attribute": "strength",
     "required_level": 16,
     "is_support": false,
@@ -1801,7 +1801,7 @@
   },
   "Metadata/Items/Gems/SkillGemHeraldOfIce": {
     "id": "Metadata/Items/Gems/SkillGemHeraldOfIce",
-    "name": "Herald of Ice",
+    "name": "Вестник льда",
     "primary_attribute": "dexterity",
     "required_level": 16,
     "is_support": false,
@@ -1809,7 +1809,7 @@
   },
   "Metadata/Items/Gems/SkillGemHeraldOfThunder": {
     "id": "Metadata/Items/Gems/SkillGemHeraldOfThunder",
-    "name": "Herald of Thunder",
+    "name": "Вестник грома",
     "primary_attribute": "intelligence",
     "required_level": 16,
     "is_support": false,
@@ -1817,7 +1817,7 @@
   },
   "Metadata/Items/Gems/SkillGemHeraldOfAgony": {
     "id": "Metadata/Items/Gems/SkillGemHeraldOfAgony",
-    "name": "Herald of Agony",
+    "name": "Вестник агонии",
     "primary_attribute": "dexterity",
     "required_level": 16,
     "is_support": false,
@@ -1825,7 +1825,7 @@
   },
   "Metadata/Items/Gems/SkillGemHeraldOfPurity": {
     "id": "Metadata/Items/Gems/SkillGemHeraldOfPurity",
-    "name": "Herald of Purity",
+    "name": "Вестник чистоты",
     "primary_attribute": "strength",
     "required_level": 16,
     "is_support": false,
@@ -1833,7 +1833,7 @@
   },
   "Metadata/Items/Gems/SkillGemPoachersMark": {
     "id": "Metadata/Items/Gems/SkillGemPoachersMark",
-    "name": "Poacher's Mark",
+    "name": "Метка браконьера",
     "primary_attribute": "dexterity",
     "required_level": 16,
     "is_support": false,
@@ -1841,7 +1841,7 @@
   },
   "Metadata/Items/Gems/SkillGemLightningTendrils": {
     "id": "Metadata/Items/Gems/SkillGemLightningTendrils",
-    "name": "Lightning Tendrils",
+    "name": "Побеги молний",
     "primary_attribute": "intelligence",
     "required_level": 1,
     "is_support": false,
@@ -1849,7 +1849,7 @@
   },
   "Metadata/Items/Gems/SkillGemKineticBlast": {
     "id": "Metadata/Items/Gems/SkillGemKineticBlast",
-    "name": "Kinetic Blast",
+    "name": "Кинетический взрыв",
     "primary_attribute": "intelligence",
     "required_level": 28,
     "is_support": false,
@@ -1857,7 +1857,7 @@
   },
   "Metadata/Items/Gems/SkillGemBlinkArrow": {
     "id": "Metadata/Items/Gems/SkillGemBlinkArrow",
-    "name": "Blink Arrow",
+    "name": "Стрела-телепорт",
     "primary_attribute": "dexterity",
     "required_level": 10,
     "is_support": false,
@@ -1865,7 +1865,7 @@
   },
   "Metadata/Items/Gems/SkillGemMirrorArrow": {
     "id": "Metadata/Items/Gems/SkillGemMirrorArrow",
-    "name": "Mirror Arrow",
+    "name": "Стрела-двойник",
     "primary_attribute": "dexterity",
     "required_level": 10,
     "is_support": false,
@@ -1873,7 +1873,7 @@
   },
   "Metadata/Items/Gems/SkillGemRiposte": {
     "id": "Metadata/Items/Gems/SkillGemRiposte",
-    "name": "Riposte",
+    "name": "Парирование",
     "primary_attribute": "dexterity",
     "required_level": 4,
     "is_support": false,
@@ -1881,7 +1881,7 @@
   },
   "Metadata/Items/Gems/SkillGemReckoning": {
     "id": "Metadata/Items/Gems/SkillGemReckoning",
-    "name": "Reckoning",
+    "name": "Возмездие",
     "primary_attribute": "strength",
     "required_level": 4,
     "is_support": false,
@@ -1889,7 +1889,7 @@
   },
   "Metadata/Items/Gems/SkillGemStaticStrike": {
     "id": "Metadata/Items/Gems/SkillGemStaticStrike",
-    "name": "Static Strike",
+    "name": "Статичный разряд",
     "primary_attribute": "strength",
     "required_level": 12,
     "is_support": false,
@@ -1897,7 +1897,7 @@
   },
   "Metadata/Items/Gems/SupportGemPhysicalToLightning": {
     "id": "Metadata/Items/Gems/SupportGemPhysicalToLightning",
-    "name": "Physical to Lightning Support",
+    "name": "Физический урон в молнии",
     "primary_attribute": "intelligence",
     "required_level": 18,
     "is_support": true,
@@ -1905,7 +1905,7 @@
   },
   "Metadata/Items/Gems/SkillGemVengeance": {
     "id": "Metadata/Items/Gems/SkillGemVengeance",
-    "name": "Vengeance",
+    "name": "Отмщение",
     "primary_attribute": "strength",
     "required_level": 24,
     "is_support": false,
@@ -1913,7 +1913,7 @@
   },
   "Metadata/Items/Gems/SkillGemSummonChaosGolem": {
     "id": "Metadata/Items/Gems/SkillGemSummonChaosGolem",
-    "name": "Summon Chaos Golem",
+    "name": "Призыв голема хаоса",
     "primary_attribute": "intelligence",
     "required_level": 34,
     "is_support": false,
@@ -1921,7 +1921,7 @@
   },
   "Metadata/Items/Gems/SkillGemSummonIceGolem": {
     "id": "Metadata/Items/Gems/SkillGemSummonIceGolem",
-    "name": "Summon Ice Golem",
+    "name": "Призыв голема льда",
     "primary_attribute": "dexterity",
     "required_level": 34,
     "is_support": false,
@@ -1929,7 +1929,7 @@
   },
   "Metadata/Items/Gems/SkillGemSummonFlameGolem": {
     "id": "Metadata/Items/Gems/SkillGemSummonFlameGolem",
-    "name": "Summon Flame Golem",
+    "name": "Призыв голема огня",
     "primary_attribute": "strength",
     "required_level": 34,
     "is_support": false,
@@ -1937,7 +1937,7 @@
   },
   "Metadata/Items/Gems/SkillGemSummonLightningGolem": {
     "id": "Metadata/Items/Gems/SkillGemSummonLightningGolem",
-    "name": "Summon Lightning Golem",
+    "name": "Призыв голема молнии",
     "primary_attribute": "intelligence",
     "required_level": 34,
     "is_support": false,
@@ -1945,7 +1945,7 @@
   },
   "Metadata/Items/Gems/SupportGemBlasphemy": {
     "id": "Metadata/Items/Gems/SupportGemBlasphemy",
-    "name": "Blasphemy Support",
+    "name": "Богохульство",
     "primary_attribute": "intelligence",
     "required_level": 31,
     "is_support": true,
@@ -1953,7 +1953,7 @@
   },
   "Metadata/Items/Gems/SkillGemIceCrash": {
     "id": "Metadata/Items/Gems/SkillGemIceCrash",
-    "name": "Ice Crash",
+    "name": "Ледяное сокрушение",
     "primary_attribute": "strength",
     "required_level": 28,
     "is_support": false,
@@ -1961,7 +1961,7 @@
   },
   "Metadata/Items/Gems/SkillGemRallyingCry": {
     "id": "Metadata/Items/Gems/SkillGemRallyingCry",
-    "name": "Rallying Cry",
+    "name": "Клич сплочения",
     "primary_attribute": "strength",
     "required_level": 24,
     "is_support": false,
@@ -1969,7 +1969,7 @@
   },
   "Metadata/Items/Gems/SkillGemAbyssalCry": {
     "id": "Metadata/Items/Gems/SkillGemAbyssalCry",
-    "name": "Infernal Cry",
+    "name": "Клич преисподней",
     "primary_attribute": "strength",
     "required_level": 24,
     "is_support": false,
@@ -1977,7 +1977,7 @@
   },
   "Metadata/Items/Gems/SkillGemFlameDash": {
     "id": "Metadata/Items/Gems/SkillGemFlameDash",
-    "name": "Flame Dash",
+    "name": "Огненный рывок",
     "primary_attribute": "intelligence",
     "required_level": 10,
     "is_support": false,
@@ -1985,7 +1985,7 @@
   },
   "Metadata/Items/Gems/SkillGemVigilantStrike": {
     "id": "Metadata/Items/Gems/SkillGemVigilantStrike",
-    "name": "Vigilant Strike",
+    "name": "Расчётливый удар",
     "primary_attribute": "strength",
     "required_level": 4,
     "is_support": false,
@@ -1993,7 +1993,7 @@
   },
   "Metadata/Items/Gems/SupportGemFortify": {
     "id": "Metadata/Items/Gems/SupportGemFortify",
-    "name": "Fortify Support",
+    "name": "Укрепление",
     "primary_attribute": "strength",
     "required_level": 31,
     "is_support": true,
@@ -2001,7 +2001,7 @@
   },
   "Metadata/Items/Gems/SkillGemFrostBlades": {
     "id": "Metadata/Items/Gems/SkillGemFrostBlades",
-    "name": "Frost Blades",
+    "name": "Ледяные клинки",
     "primary_attribute": "dexterity",
     "required_level": 1,
     "is_support": false,
@@ -2009,7 +2009,7 @@
   },
   "Metadata/Items/Gems/SupportGemFrenzyChargeOnSlayingFrozenEnemy": {
     "id": "Metadata/Items/Gems/SupportGemFrenzyChargeOnSlayingFrozenEnemy",
-    "name": "Ice Bite Support",
+    "name": "Укус льда",
     "primary_attribute": "dexterity",
     "required_level": 31,
     "is_support": true,
@@ -2017,7 +2017,7 @@
   },
   "Metadata/Items/Gems/SupportGemDamageAgainstChilled": {
     "id": "Metadata/Items/Gems/SupportGemDamageAgainstChilled",
-    "name": "Hypothermia Support",
+    "name": "Переохлаждение",
     "primary_attribute": "dexterity",
     "required_level": 31,
     "is_support": true,
@@ -2025,7 +2025,7 @@
   },
   "Metadata/Items/Gems/SupportGemOnslaughtOnSlayingShockedEnemy": {
     "id": "Metadata/Items/Gems/SupportGemOnslaughtOnSlayingShockedEnemy",
-    "name": "Innervate Support",
+    "name": "Возбуждение",
     "primary_attribute": "intelligence",
     "required_level": 31,
     "is_support": true,
@@ -2033,7 +2033,7 @@
   },
   "Metadata/Items/Gems/SkillGemMagmaOrb": {
     "id": "Metadata/Items/Gems/SkillGemMagmaOrb",
-    "name": "Rolling Magma",
+    "name": "Ползучая магма",
     "primary_attribute": "intelligence",
     "required_level": 1,
     "is_support": false,
@@ -2041,7 +2041,7 @@
   },
   "Metadata/Items/Gems/SupportGemTrapAndMineDamage": {
     "id": "Metadata/Items/Gems/SupportGemTrapAndMineDamage",
-    "name": "Trap and Mine Damage Support",
+    "name": "Урон ловушек и мин",
     "primary_attribute": "dexterity",
     "required_level": 18,
     "is_support": true,
@@ -2049,7 +2049,7 @@
   },
   "Metadata/Items/Gems/SkillGemWildStrike": {
     "id": "Metadata/Items/Gems/SkillGemWildStrike",
-    "name": "Wild Strike",
+    "name": "Шальной удар",
     "primary_attribute": "dexterity",
     "required_level": 28,
     "is_support": false,
@@ -2057,7 +2057,7 @@
   },
   "Metadata/Items/Gems/SkillGemIceTrap": {
     "id": "Metadata/Items/Gems/SkillGemIceTrap",
-    "name": "Ice Trap",
+    "name": "Ледяная ловушка",
     "primary_attribute": "dexterity",
     "required_level": 28,
     "is_support": false,
@@ -2065,7 +2065,7 @@
   },
   "Metadata/Items/Gems/SkillGemBlastRain": {
     "id": "Metadata/Items/Gems/SkillGemBlastRain",
-    "name": "Blast Rain",
+    "name": "Дождь взрывов",
     "primary_attribute": "dexterity",
     "required_level": 28,
     "is_support": false,
@@ -2073,7 +2073,7 @@
   },
   "Metadata/Items/Gems/SkillGemShrapnelShot": {
     "id": "Metadata/Items/Gems/SkillGemShrapnelShot",
-    "name": "Galvanic Arrow",
+    "name": "Электризующая стрела",
     "primary_attribute": "dexterity",
     "required_level": 1,
     "is_support": false,
@@ -2081,7 +2081,7 @@
   },
   "Metadata/Items/Gems/SkillGemBladefall": {
     "id": "Metadata/Items/Gems/SkillGemBladefall",
-    "name": "Bladefall",
+    "name": "Мечепад",
     "primary_attribute": "dexterity",
     "required_level": 28,
     "is_support": false,
@@ -2089,7 +2089,7 @@
   },
   "Metadata/Items/Gems/SkillGemBladeVortex": {
     "id": "Metadata/Items/Gems/SkillGemBladeVortex",
-    "name": "Blade Vortex",
+    "name": "Вихрь клинков",
     "primary_attribute": "dexterity",
     "required_level": 12,
     "is_support": false,
@@ -2097,7 +2097,7 @@
   },
   "Metadata/Items/Gems/SkillGemVaalBladeVortex": {
     "id": "Metadata/Items/Gems/SkillGemVaalBladeVortex",
-    "name": "Vaal Blade Vortex",
+    "name": "Вихрь клинков ваал",
     "primary_attribute": "dexterity",
     "required_level": 12,
     "is_support": false,
@@ -2105,7 +2105,7 @@
   },
   "Metadata/Items/Gems/SkillGemFrostBomb": {
     "id": "Metadata/Items/Gems/SkillGemFrostBomb",
-    "name": "Frost Bomb",
+    "name": "Морозная бомба",
     "primary_attribute": "intelligence",
     "required_level": 4,
     "is_support": false,
@@ -2113,7 +2113,7 @@
   },
   "Metadata/Items/Gems/SkillGemSiegeBallista": {
     "id": "Metadata/Items/Gems/SkillGemSiegeBallista",
-    "name": "Siege Ballista",
+    "name": "Осадная баллиста",
     "primary_attribute": "dexterity",
     "required_level": 12,
     "is_support": false,
@@ -2121,7 +2121,7 @@
   },
   "Metadata/Items/Gems/SkillGemOrbOfStorms": {
     "id": "Metadata/Items/Gems/SkillGemOrbOfStorms",
-    "name": "Orb of Storms",
+    "name": "Сфера бурь",
     "primary_attribute": "intelligence",
     "required_level": 4,
     "is_support": false,
@@ -2129,7 +2129,7 @@
   },
   "Metadata/Items/Gems/SkillGemSummonRockGolem": {
     "id": "Metadata/Items/Gems/SkillGemSummonRockGolem",
-    "name": "Summon Stone Golem",
+    "name": "Призыв каменного голема",
     "primary_attribute": "strength",
     "required_level": 34,
     "is_support": false,
@@ -2137,7 +2137,7 @@
   },
   "Metadata/Items/Gems/SkillGemEarthquake": {
     "id": "Metadata/Items/Gems/SkillGemEarthquake",
-    "name": "Earthquake",
+    "name": "Землетрясение",
     "primary_attribute": "strength",
     "required_level": 28,
     "is_support": false,
@@ -2145,7 +2145,7 @@
   },
   "Metadata/Items/Gems/SupportGemPoison": {
     "id": "Metadata/Items/Gems/SupportGemPoison",
-    "name": "Critical Strike Affliction Support",
+    "name": "Критические удары состояниями",
     "primary_attribute": "dexterity",
     "required_level": 31,
     "is_support": true,
@@ -2153,7 +2153,7 @@
   },
   "Metadata/Items/Gems/SkillGemContagion": {
     "id": "Metadata/Items/Gems/SkillGemContagion",
-    "name": "Contagion",
+    "name": "Инфекция",
     "primary_attribute": "intelligence",
     "required_level": 4,
     "is_support": false,
@@ -2161,7 +2161,7 @@
   },
   "Metadata/Items/Gems/SkillGemWither": {
     "id": "Metadata/Items/Gems/SkillGemWither",
-    "name": "Wither",
+    "name": "Увядание",
     "primary_attribute": "intelligence",
     "required_level": 10,
     "is_support": false,
@@ -2169,7 +2169,7 @@
   },
   "Metadata/Items/Gems/SkillGemBlight": {
     "id": "Metadata/Items/Gems/SkillGemBlight",
-    "name": "Blight",
+    "name": "Мор",
     "primary_attribute": "intelligence",
     "required_level": 1,
     "is_support": false,
@@ -2177,7 +2177,7 @@
   },
   "Metadata/Items/Gems/SkillGemEssenceDrain": {
     "id": "Metadata/Items/Gems/SkillGemEssenceDrain",
-    "name": "Essence Drain",
+    "name": "Похищение сущности",
     "primary_attribute": "intelligence",
     "required_level": 12,
     "is_support": false,
@@ -2185,7 +2185,7 @@
   },
   "Metadata/Items/Gems/SupportGemVoidManipulation": {
     "id": "Metadata/Items/Gems/SupportGemVoidManipulation",
-    "name": "Void Manipulation Support",
+    "name": "Манипуляция пустотой",
     "primary_attribute": "dexterity",
     "required_level": 8,
     "is_support": true,
@@ -2193,7 +2193,7 @@
   },
   "Metadata/Items/Gems/SupportGemControlledDestruction": {
     "id": "Metadata/Items/Gems/SupportGemControlledDestruction",
-    "name": "Controlled Destruction Support",
+    "name": "Контролируемое разрушение",
     "primary_attribute": "intelligence",
     "required_level": 18,
     "is_support": true,
@@ -2201,7 +2201,7 @@
   },
   "Metadata/Items/Gems/SupportGemRapidDecay": {
     "id": "Metadata/Items/Gems/SupportGemRapidDecay",
-    "name": "Swift Affliction Support",
+    "name": "Стремительный недуг",
     "primary_attribute": "dexterity",
     "required_level": 31,
     "is_support": true,
@@ -2209,7 +2209,7 @@
   },
   "Metadata/Items/Gems/SupportGemClusterTrap": {
     "id": "Metadata/Items/Gems/SupportGemClusterTrap",
-    "name": "Cluster Traps Support",
+    "name": "Кассетные ловушки",
     "primary_attribute": "dexterity",
     "required_level": 38,
     "is_support": true,
@@ -2217,7 +2217,7 @@
   },
   "Metadata/Items/Gems/SkillGemMeleeTotem": {
     "id": "Metadata/Items/Gems/SkillGemMeleeTotem",
-    "name": "Ancestral Protector",
+    "name": "Защитник предков",
     "primary_attribute": "strength",
     "required_level": 4,
     "is_support": false,
@@ -2225,7 +2225,7 @@
   },
   "Metadata/Items/Gems/SkillGemAncestralWarchief": {
     "id": "Metadata/Items/Gems/SkillGemAncestralWarchief",
-    "name": "Ancestral Warchief",
+    "name": "Вождь предков",
     "primary_attribute": "strength",
     "required_level": 28,
     "is_support": false,
@@ -2233,7 +2233,7 @@
   },
   "Metadata/Items/Gems/SkillGemSunder": {
     "id": "Metadata/Items/Gems/SkillGemSunder",
-    "name": "Sunder",
+    "name": "Раскол",
     "primary_attribute": "strength",
     "required_level": 12,
     "is_support": false,
@@ -2241,7 +2241,7 @@
   },
   "Metadata/Items/Gems/SkillGemFrostBolt": {
     "id": "Metadata/Items/Gems/SkillGemFrostBolt",
-    "name": "Frostbolt",
+    "name": "Морозный шар",
     "primary_attribute": "intelligence",
     "required_level": 1,
     "is_support": false,
@@ -2249,7 +2249,7 @@
   },
   "Metadata/Items/Gems/SkillGemFrostBoltNova": {
     "id": "Metadata/Items/Gems/SkillGemFrostBoltNova",
-    "name": "Vortex",
+    "name": "Пурга",
     "primary_attribute": "intelligence",
     "required_level": 28,
     "is_support": false,
@@ -2257,7 +2257,7 @@
   },
   "Metadata/Items/Gems/SupportGemElementalFocus": {
     "id": "Metadata/Items/Gems/SupportGemElementalFocus",
-    "name": "Elemental Focus Support",
+    "name": "Концентрация стихий",
     "primary_attribute": "intelligence",
     "required_level": 18,
     "is_support": true,
@@ -2265,7 +2265,7 @@
   },
   "Metadata/Items/Gems/SupportGemMinefield": {
     "id": "Metadata/Items/Gems/SupportGemMinefield",
-    "name": "Minefield Support",
+    "name": "Минное поле",
     "primary_attribute": "intelligence",
     "required_level": 38,
     "is_support": true,
@@ -2273,7 +2273,7 @@
   },
   "Metadata/Items/Gems/SupportGemTrapCooldown": {
     "id": "Metadata/Items/Gems/SupportGemTrapCooldown",
-    "name": "Advanced Traps Support",
+    "name": "Улучшенные ловушки",
     "primary_attribute": "dexterity",
     "required_level": 31,
     "is_support": true,
@@ -2281,7 +2281,7 @@
   },
   "Metadata/Items/Gems/SkillGemDarkPact": {
     "id": "Metadata/Items/Gems/SkillGemDarkPact",
-    "name": "Dark Pact",
+    "name": "Тёмный договор",
     "primary_attribute": "intelligence",
     "required_level": 28,
     "is_support": false,
@@ -2289,7 +2289,7 @@
   },
   "Metadata/Items/Gems/SkillGemFireBeam": {
     "id": "Metadata/Items/Gems/SkillGemFireBeam",
-    "name": "Scorching Ray",
+    "name": "Опаляющий луч",
     "primary_attribute": "intelligence",
     "required_level": 12,
     "is_support": false,
@@ -2297,7 +2297,7 @@
   },
   "Metadata/Items/Gems/SupportGemCastWhileChannelling": {
     "id": "Metadata/Items/Gems/SupportGemCastWhileChannelling",
-    "name": "Cast while Channelling Support",
+    "name": "Сотворение чар при поддержании",
     "primary_attribute": "intelligence",
     "required_level": 38,
     "is_support": true,
@@ -2305,7 +2305,7 @@
   },
   "Metadata/Items/Gems/SupportGemIgniteProliferation": {
     "id": "Metadata/Items/Gems/SupportGemIgniteProliferation",
-    "name": "Ignite Proliferation Support",
+    "name": "Распространение поджога",
     "primary_attribute": "intelligence",
     "required_level": 38,
     "is_support": true,
@@ -2313,7 +2313,7 @@
   },
   "Metadata/Items/Gems/SupportGemChanceToBleed": {
     "id": "Metadata/Items/Gems/SupportGemChanceToBleed",
-    "name": "Chance to Bleed Support",
+    "name": "Шанс кровотечения",
     "primary_attribute": "strength",
     "required_level": 1,
     "is_support": true,
@@ -2321,7 +2321,7 @@
   },
   "Metadata/Items/Gems/SupportGemLesserPoison": {
     "id": "Metadata/Items/Gems/SupportGemLesserPoison",
-    "name": "Chance to Poison Support",
+    "name": "Шанс отравить",
     "primary_attribute": "dexterity",
     "required_level": 1,
     "is_support": true,
@@ -2329,7 +2329,7 @@
   },
   "Metadata/Items/Gems/SupportGemDeadlyAilments": {
     "id": "Metadata/Items/Gems/SupportGemDeadlyAilments",
-    "name": "Deadly Ailments Support",
+    "name": "Смертельные состояния",
     "primary_attribute": "dexterity",
     "required_level": 18,
     "is_support": true,
@@ -2337,7 +2337,7 @@
   },
   "Metadata/Items/Gems/SupportGemDecay": {
     "id": "Metadata/Items/Gems/SupportGemDecay",
-    "name": "Decay Support",
+    "name": "Разложение",
     "primary_attribute": "intelligence",
     "required_level": 38,
     "is_support": true,
@@ -2345,7 +2345,7 @@
   },
   "Metadata/Items/Gems/SupportGemEfficacy": {
     "id": "Metadata/Items/Gems/SupportGemEfficacy",
-    "name": "Efficacy Support",
+    "name": "Эффективность",
     "primary_attribute": "intelligence",
     "required_level": 8,
     "is_support": true,
@@ -2353,7 +2353,7 @@
   },
   "Metadata/Items/Gems/SupportGemVileToxins": {
     "id": "Metadata/Items/Gems/SupportGemVileToxins",
-    "name": "Vile Toxins Support",
+    "name": "Едкие токсины",
     "primary_attribute": "dexterity",
     "required_level": 38,
     "is_support": true,
@@ -2361,7 +2361,7 @@
   },
   "Metadata/Items/Gems/SupportGemMaim": {
     "id": "Metadata/Items/Gems/SupportGemMaim",
-    "name": "Maim Support",
+    "name": "Увечье",
     "primary_attribute": "strength",
     "required_level": 8,
     "is_support": true,
@@ -2369,7 +2369,7 @@
   },
   "Metadata/Items/Gems/SupportGemImmolate": {
     "id": "Metadata/Items/Gems/SupportGemImmolate",
-    "name": "Immolate Support",
+    "name": "Жертвенность",
     "primary_attribute": "intelligence",
     "required_level": 38,
     "is_support": true,
@@ -2377,7 +2377,7 @@
   },
   "Metadata/Items/Gems/SupportGemUnboundAilments": {
     "id": "Metadata/Items/Gems/SupportGemUnboundAilments",
-    "name": "Unbound Ailments Support",
+    "name": "Безграничные состояния",
     "primary_attribute": "intelligence",
     "required_level": 8,
     "is_support": true,
@@ -2385,7 +2385,7 @@
   },
   "Metadata/Items/Gems/SupportGemBrutality": {
     "id": "Metadata/Items/Gems/SupportGemBrutality",
-    "name": "Brutality Support",
+    "name": "Жестокость",
     "primary_attribute": "strength",
     "required_level": 38,
     "is_support": true,
@@ -2393,7 +2393,7 @@
   },
   "Metadata/Items/Gems/SupportGemRuthless": {
     "id": "Metadata/Items/Gems/SupportGemRuthless",
-    "name": "Ruthless Support",
+    "name": "Беспощадность",
     "primary_attribute": "strength",
     "required_level": 1,
     "is_support": true,
@@ -2401,7 +2401,7 @@
   },
   "Metadata/Items/Gems/SupportGemOnslaught": {
     "id": "Metadata/Items/Gems/SupportGemOnslaught",
-    "name": "Momentum Support",
+    "name": "Импульс",
     "primary_attribute": "dexterity",
     "required_level": 1,
     "is_support": true,
@@ -2409,7 +2409,7 @@
   },
   "Metadata/Items/Gems/SupportGemArcaneSurge": {
     "id": "Metadata/Items/Gems/SupportGemArcaneSurge",
-    "name": "Arcane Surge Support",
+    "name": "Колдовской выброс",
     "primary_attribute": "intelligence",
     "required_level": 1,
     "is_support": true,
@@ -2417,7 +2417,7 @@
   },
   "Metadata/Items/Gems/SkillGemCorpseEruption": {
     "id": "Metadata/Items/Gems/SkillGemCorpseEruption",
-    "name": "Cremation",
+    "name": "Кремация",
     "primary_attribute": "dexterity",
     "required_level": 28,
     "is_support": false,
@@ -2425,7 +2425,7 @@
   },
   "Metadata/Items/Gems/SkillGemCorpseWarp": {
     "id": "Metadata/Items/Gems/SkillGemCorpseWarp",
-    "name": "Bodyswap",
+    "name": "Обмен телами",
     "primary_attribute": "intelligence",
     "required_level": 10,
     "is_support": false,
@@ -2433,7 +2433,7 @@
   },
   "Metadata/Items/Gems/SkillGemTectonicSlam": {
     "id": "Metadata/Items/Gems/SkillGemTectonicSlam",
-    "name": "Tectonic Slam",
+    "name": "Тектонический удар",
     "primary_attribute": "strength",
     "required_level": 28,
     "is_support": false,
@@ -2441,7 +2441,7 @@
   },
   "Metadata/Items/Gems/SupportGemStormBarrier": {
     "id": "Metadata/Items/Gems/SupportGemStormBarrier",
-    "name": "Infused Channelling Support",
+    "name": "Усиленное поддержание",
     "primary_attribute": "intelligence",
     "required_level": 4,
     "is_support": true,
@@ -2449,7 +2449,7 @@
   },
   "Metadata/Items/Gems/SupportGemParallelProjectiles": {
     "id": "Metadata/Items/Gems/SupportGemParallelProjectiles",
-    "name": "Volley Support",
+    "name": "Залп",
     "primary_attribute": "dexterity",
     "required_level": 4,
     "is_support": true,
@@ -2457,7 +2457,7 @@
   },
   "Metadata/Items/Gems/SupportGemSpellCascade": {
     "id": "Metadata/Items/Gems/SupportGemSpellCascade",
-    "name": "Spell Cascade Support",
+    "name": "Каскад чар",
     "primary_attribute": "intelligence",
     "required_level": 4,
     "is_support": true,
@@ -2465,7 +2465,7 @@
   },
   "Metadata/Items/Gems/SupportGemSpiritStrike": {
     "id": "Metadata/Items/Gems/SupportGemSpiritStrike",
-    "name": "Ancestral Call Support",
+    "name": "Зов предков",
     "primary_attribute": "strength",
     "required_level": 4,
     "is_support": true,
@@ -2473,7 +2473,7 @@
   },
   "Metadata/Items/Gems/SupportGemSummonGhostOnKill": {
     "id": "Metadata/Items/Gems/SupportGemSummonGhostOnKill",
-    "name": "Summon Phantasm Support",
+    "name": "Призыв фантома",
     "primary_attribute": "intelligence",
     "required_level": 4,
     "is_support": true,
@@ -2481,7 +2481,7 @@
   },
   "Metadata/Items/Gems/SupportGemMirageArcher": {
     "id": "Metadata/Items/Gems/SupportGemMirageArcher",
-    "name": "Mirage Archer Support",
+    "name": "Призрачный лучник",
     "primary_attribute": "dexterity",
     "required_level": 4,
     "is_support": true,
@@ -2489,7 +2489,7 @@
   },
   "Metadata/Items/Gems/SkillGemNewVulnerability": {
     "id": "Metadata/Items/Gems/SkillGemNewVulnerability",
-    "name": "Vulnerability",
+    "name": "Беззащитность",
     "primary_attribute": "strength",
     "required_level": 24,
     "is_support": false,
@@ -2497,7 +2497,7 @@
   },
   "Metadata/Items/Gems/SkillGemShrapnelTrap": {
     "id": "Metadata/Items/Gems/SkillGemShrapnelTrap",
-    "name": "Explosive Trap",
+    "name": "Взрывная ловушка",
     "primary_attribute": "dexterity",
     "required_level": 1,
     "is_support": false,
@@ -2505,7 +2505,7 @@
   },
   "Metadata/Items/Gems/SkillGemIceSiphonTrap": {
     "id": "Metadata/Items/Gems/SkillGemIceSiphonTrap",
-    "name": "Siphoning Trap",
+    "name": "Ловушка переливания",
     "primary_attribute": "intelligence",
     "required_level": 10,
     "is_support": false,
@@ -2513,7 +2513,7 @@
   },
   "Metadata/Items/Gems/SkillGemFlamethrowerTrap": {
     "id": "Metadata/Items/Gems/SkillGemFlamethrowerTrap",
-    "name": "Flamethrower Trap",
+    "name": "Ловушка-огнемёт",
     "primary_attribute": "dexterity",
     "required_level": 28,
     "is_support": false,
@@ -2521,7 +2521,7 @@
   },
   "Metadata/Items/Gems/SkillGemLightningTowerTrap": {
     "id": "Metadata/Items/Gems/SkillGemLightningTowerTrap",
-    "name": "Lightning Spire Trap",
+    "name": "Ловушка шпиля молний",
     "primary_attribute": "intelligence",
     "required_level": 28,
     "is_support": false,
@@ -2529,7 +2529,7 @@
   },
   "Metadata/Items/Gems/SkillGemPhysCascadeTrap": {
     "id": "Metadata/Items/Gems/SkillGemPhysCascadeTrap",
-    "name": "Seismic Trap",
+    "name": "Сейсмическая ловушка",
     "primary_attribute": "dexterity",
     "required_level": 28,
     "is_support": false,
@@ -2537,7 +2537,7 @@
   },
   "Metadata/Items/Gems/SkillGemVaalEarthquake": {
     "id": "Metadata/Items/Gems/SkillGemVaalEarthquake",
-    "name": "Vaal Earthquake",
+    "name": "Землетрясение ваал",
     "primary_attribute": "strength",
     "required_level": 28,
     "is_support": false,
@@ -2545,7 +2545,7 @@
   },
   "Metadata/Items/Gems/SkillGemVaalBlight": {
     "id": "Metadata/Items/Gems/SkillGemVaalBlight",
-    "name": "Vaal Blight",
+    "name": "Мор ваал",
     "primary_attribute": "intelligence",
     "required_level": 1,
     "is_support": false,
@@ -2553,7 +2553,7 @@
   },
   "Metadata/Items/Gems/SupportGemFrenzyPowerOnTrapTrigger": {
     "id": "Metadata/Items/Gems/SupportGemFrenzyPowerOnTrapTrigger",
-    "name": "Charged Traps Support",
+    "name": "Заряженные ловушки",
     "primary_attribute": "dexterity",
     "required_level": 31,
     "is_support": true,
@@ -2561,7 +2561,7 @@
   },
   "Metadata/Items/Gems/SupportGemChargedMines": {
     "id": "Metadata/Items/Gems/SupportGemChargedMines",
-    "name": "Charged Mines Support",
+    "name": "Заряженные мины",
     "primary_attribute": "intelligence",
     "required_level": 31,
     "is_support": true,
@@ -2569,7 +2569,7 @@
   },
   "Metadata/Items/Gems/SkillGemVaalAncestralWarchief": {
     "id": "Metadata/Items/Gems/SkillGemVaalAncestralWarchief",
-    "name": "Vaal Ancestral Warchief",
+    "name": "Вождь предков ваал",
     "primary_attribute": "strength",
     "required_level": 28,
     "is_support": false,
@@ -2577,7 +2577,7 @@
   },
   "Metadata/Items/Gems/SkillGemConsecratedPath": {
     "id": "Metadata/Items/Gems/SkillGemConsecratedPath",
-    "name": "Consecrated Path",
+    "name": "Освящённый путь",
     "primary_attribute": "strength",
     "required_level": 28,
     "is_support": false,
@@ -2585,7 +2585,7 @@
   },
   "Metadata/Items/Gems/SkillGemSmite": {
     "id": "Metadata/Items/Gems/SkillGemSmite",
-    "name": "Smite",
+    "name": "Кара",
     "primary_attribute": "strength",
     "required_level": 1,
     "is_support": false,
@@ -2593,7 +2593,7 @@
   },
   "Metadata/Items/Gems/SkillGemScourgeArrow": {
     "id": "Metadata/Items/Gems/SkillGemScourgeArrow",
-    "name": "Scourge Arrow",
+    "name": "Стрела скверны",
     "primary_attribute": "dexterity",
     "required_level": 28,
     "is_support": false,
@@ -2601,7 +2601,7 @@
   },
   "Metadata/Items/Gems/SkillGemToxicRain": {
     "id": "Metadata/Items/Gems/SkillGemToxicRain",
-    "name": "Toxic Rain",
+    "name": "Токсичный дождь",
     "primary_attribute": "dexterity",
     "required_level": 12,
     "is_support": false,
@@ -2609,7 +2609,7 @@
   },
   "Metadata/Items/Gems/SkillGemSummonRelic": {
     "id": "Metadata/Items/Gems/SkillGemSummonRelic",
-    "name": "Summon Holy Relic",
+    "name": "Призыв священной реликвии",
     "primary_attribute": "intelligence",
     "required_level": 4,
     "is_support": false,
@@ -2617,7 +2617,7 @@
   },
   "Metadata/Items/Gems/SupportGemChaosAttacks": {
     "id": "Metadata/Items/Gems/SupportGemChaosAttacks",
-    "name": "Withering Touch Support",
+    "name": "Губительное прикосновение",
     "primary_attribute": "dexterity",
     "required_level": 38,
     "is_support": true,
@@ -2625,7 +2625,7 @@
   },
   "Metadata/Items/Gems/SupportGemBonechill": {
     "id": "Metadata/Items/Gems/SupportGemBonechill",
-    "name": "Bonechill Support",
+    "name": "Леденящее охлаждение",
     "primary_attribute": "intelligence",
     "required_level": 38,
     "is_support": true,
@@ -2633,7 +2633,7 @@
   },
   "Metadata/Items/Gems/SkillGemWinterOrb": {
     "id": "Metadata/Items/Gems/SkillGemWinterOrb",
-    "name": "Winter Orb",
+    "name": "Зимняя сфера",
     "primary_attribute": "intelligence",
     "required_level": 28,
     "is_support": false,
@@ -2641,7 +2641,7 @@
   },
   "Metadata/Items/Gems/SkillGemRendingSteel": {
     "id": "Metadata/Items/Gems/SkillGemRendingSteel",
-    "name": "Rending Steel",
+    "name": "Раздирающая сталь",
     "primary_attribute": "strength",
     "required_level": 12,
     "is_support": false,
@@ -2649,7 +2649,7 @@
   },
   "Metadata/Items/Gems/SkillGemLancingSteel": {
     "id": "Metadata/Items/Gems/SkillGemLancingSteel",
-    "name": "Lancing Steel",
+    "name": "Пронзающая сталь",
     "primary_attribute": "dexterity",
     "required_level": 28,
     "is_support": false,
@@ -2657,7 +2657,7 @@
   },
   "Metadata/Items/Gems/SkillGemStormBrand": {
     "id": "Metadata/Items/Gems/SkillGemStormBrand",
-    "name": "Storm Brand",
+    "name": "Клеймо бури",
     "primary_attribute": "intelligence",
     "required_level": 12,
     "is_support": false,
@@ -2665,7 +2665,7 @@
   },
   "Metadata/Items/Gems/SkillGemWarBanner": {
     "id": "Metadata/Items/Gems/SkillGemWarBanner",
-    "name": "War Banner",
+    "name": "Знамя войны",
     "primary_attribute": "strength",
     "required_level": 4,
     "is_support": false,
@@ -2673,7 +2673,7 @@
   },
   "Metadata/Items/Gems/SkillGemDreadBanner": {
     "id": "Metadata/Items/Gems/SkillGemDreadBanner",
-    "name": "Dread Banner",
+    "name": "Знамя страха",
     "primary_attribute": "strength",
     "required_level": 24,
     "is_support": false,
@@ -2681,7 +2681,7 @@
   },
   "Metadata/Items/Gems/SkillGemShatteringSteel": {
     "id": "Metadata/Items/Gems/SkillGemShatteringSteel",
-    "name": "Shattering Steel",
+    "name": "Дробящая сталь",
     "primary_attribute": "dexterity",
     "required_level": 12,
     "is_support": false,
@@ -2689,7 +2689,7 @@
   },
   "Metadata/Items/Gems/SupportGemMultiTotem": {
     "id": "Metadata/Items/Gems/SupportGemMultiTotem",
-    "name": "Multiple Totems Support",
+    "name": "Множество тотемов",
     "primary_attribute": "strength",
     "required_level": 38,
     "is_support": true,
@@ -2697,7 +2697,7 @@
   },
   "Metadata/Items/Gems/SkillGemArmageddonBrand": {
     "id": "Metadata/Items/Gems/SkillGemArmageddonBrand",
-    "name": "Armageddon Brand",
+    "name": "Клеймо Армагеддона",
     "primary_attribute": "intelligence",
     "required_level": 28,
     "is_support": false,
@@ -2705,7 +2705,7 @@
   },
   "Metadata/Items/Gems/SkillGemRecallBrands": {
     "id": "Metadata/Items/Gems/SkillGemRecallBrands",
-    "name": "Brand Recall",
+    "name": "Возврат клейм",
     "primary_attribute": "intelligence",
     "required_level": 16,
     "is_support": false,
@@ -2713,7 +2713,7 @@
   },
   "Metadata/Items/Gems/SkillGemSanctify": {
     "id": "Metadata/Items/Gems/SkillGemSanctify",
-    "name": "Purifying Flame",
+    "name": "Очищающее пламя",
     "primary_attribute": "intelligence",
     "required_level": 1,
     "is_support": false,
@@ -2721,7 +2721,7 @@
   },
   "Metadata/Items/Gems/SkillGemSoulrend": {
     "id": "Metadata/Items/Gems/SkillGemSoulrend",
-    "name": "Soulrend",
+    "name": "Разрыв души",
     "primary_attribute": "intelligence",
     "required_level": 28,
     "is_support": false,
@@ -2729,7 +2729,7 @@
   },
   "Metadata/Items/Gems/SkillGemDarkRitual": {
     "id": "Metadata/Items/Gems/SkillGemDarkRitual",
-    "name": "Bane",
+    "name": "Погибель",
     "primary_attribute": "intelligence",
     "required_level": 24,
     "is_support": false,
@@ -2737,7 +2737,7 @@
   },
   "Metadata/Items/Gems/SupportGemEnergyShieldLeech": {
     "id": "Metadata/Items/Gems/SupportGemEnergyShieldLeech",
-    "name": "Energy Leech Support",
+    "name": "Похищение энергетического щита",
     "primary_attribute": "intelligence",
     "required_level": 31,
     "is_support": true,
@@ -2745,7 +2745,7 @@
   },
   "Metadata/Items/Gems/SkillGemPurge": {
     "id": "Metadata/Items/Gems/SkillGemPurge",
-    "name": "Wave of Conviction",
+    "name": "Волна осуждения",
     "primary_attribute": "intelligence",
     "required_level": 16,
     "is_support": false,
@@ -2753,7 +2753,7 @@
   },
   "Metadata/Items/Gems/SkillGemSpellDamageAura": {
     "id": "Metadata/Items/Gems/SkillGemSpellDamageAura",
-    "name": "Zealotry",
+    "name": "Фанатизм",
     "primary_attribute": "intelligence",
     "required_level": 24,
     "is_support": false,
@@ -2761,7 +2761,7 @@
   },
   "Metadata/Items/Gems/SkillGemDivineTempest": {
     "id": "Metadata/Items/Gems/SkillGemDivineTempest",
-    "name": "Divine Ire",
+    "name": "Божественный гнев",
     "primary_attribute": "intelligence",
     "required_level": 28,
     "is_support": false,
@@ -2769,7 +2769,7 @@
   },
   "Metadata/Items/Gems/SkillGemDamageOverTimeAura": {
     "id": "Metadata/Items/Gems/SkillGemDamageOverTimeAura",
-    "name": "Malevolence",
+    "name": "Злорадство",
     "primary_attribute": "intelligence",
     "required_level": 24,
     "is_support": false,
@@ -2777,7 +2777,7 @@
   },
   "Metadata/Items/Gems/SupportGemHandcastSpellBoost": {
     "id": "Metadata/Items/Gems/SupportGemHandcastSpellBoost",
-    "name": "Intensify Support",
+    "name": "Интенсивность",
     "primary_attribute": "intelligence",
     "required_level": 31,
     "is_support": true,
@@ -2785,7 +2785,7 @@
   },
   "Metadata/Items/Gems/SupportGemHandcastAnticipation": {
     "id": "Metadata/Items/Gems/SupportGemHandcastAnticipation",
-    "name": "Unleash Support",
+    "name": "Высвобождение",
     "primary_attribute": "intelligence",
     "required_level": 38,
     "is_support": true,
@@ -2793,7 +2793,7 @@
   },
   "Metadata/Items/Gems/SkillGemSteelskin": {
     "id": "Metadata/Items/Gems/SkillGemSteelskin",
-    "name": "Steelskin",
+    "name": "Стальная кожа",
     "primary_attribute": "strength",
     "required_level": 4,
     "is_support": false,
@@ -2801,7 +2801,7 @@
   },
   "Metadata/Items/Gems/SkillGemDash": {
     "id": "Metadata/Items/Gems/SkillGemDash",
-    "name": "Dash",
+    "name": "Рывок",
     "primary_attribute": "dexterity",
     "required_level": 4,
     "is_support": false,
@@ -2809,7 +2809,7 @@
   },
   "Metadata/Items/Gems/SkillGemBladestorm": {
     "id": "Metadata/Items/Gems/SkillGemBladestorm",
-    "name": "Bladestorm",
+    "name": "Ураган лезвий",
     "primary_attribute": "strength",
     "required_level": 28,
     "is_support": false,
@@ -2817,7 +2817,7 @@
   },
   "Metadata/Items/Gems/SkillGemBloodAndSand": {
     "id": "Metadata/Items/Gems/SkillGemBloodAndSand",
-    "name": "Blood and Sand",
+    "name": "Кровь и песок",
     "primary_attribute": "strength",
     "required_level": 4,
     "is_support": false,
@@ -2825,7 +2825,7 @@
   },
   "Metadata/Items/Gems/SkillGemBerserk": {
     "id": "Metadata/Items/Gems/SkillGemBerserk",
-    "name": "Berserk",
+    "name": "Боевое безумие",
     "primary_attribute": "strength",
     "required_level": 34,
     "is_support": false,
@@ -2833,7 +2833,7 @@
   },
   "Metadata/Items/Gems/SkillGemPerforate": {
     "id": "Metadata/Items/Gems/SkillGemPerforate",
-    "name": "Perforate",
+    "name": "Пронзающие шипы",
     "primary_attribute": "strength",
     "required_level": 1,
     "is_support": false,
@@ -2841,7 +2841,7 @@
   },
   "Metadata/Items/Gems/SkillGemChainHook": {
     "id": "Metadata/Items/Gems/SkillGemChainHook",
-    "name": "Chain Hook",
+    "name": "Цепной крюк",
     "primary_attribute": "strength",
     "required_level": 12,
     "is_support": false,
@@ -2849,7 +2849,7 @@
   },
   "Metadata/Items/Gems/SupportGemCloseCombat": {
     "id": "Metadata/Items/Gems/SupportGemCloseCombat",
-    "name": "Close Combat Support",
+    "name": "Бой вплотную",
     "primary_attribute": "dexterity",
     "required_level": 18,
     "is_support": true,
@@ -2857,7 +2857,7 @@
   },
   "Metadata/Items/Gems/SupportGemShockwave": {
     "id": "Metadata/Items/Gems/SupportGemShockwave",
-    "name": "Shockwave Support",
+    "name": "Ударная волна",
     "primary_attribute": "strength",
     "required_level": 18,
     "is_support": true,
@@ -2865,7 +2865,7 @@
   },
   "Metadata/Items/Gems/SkillGemFrostblink": {
     "id": "Metadata/Items/Gems/SkillGemFrostblink",
-    "name": "Frostblink",
+    "name": "Ледяной скачок",
     "primary_attribute": "intelligence",
     "required_level": 4,
     "is_support": false,
@@ -2873,7 +2873,7 @@
   },
   "Metadata/Items/Gems/SkillGemPrecision": {
     "id": "Metadata/Items/Gems/SkillGemPrecision",
-    "name": "Precision",
+    "name": "Точность",
     "primary_attribute": "dexterity",
     "required_level": 10,
     "is_support": false,
@@ -2881,7 +2881,7 @@
   },
   "Metadata/Items/Gems/SkillGemFleshAndStone": {
     "id": "Metadata/Items/Gems/SkillGemFleshAndStone",
-    "name": "Flesh and Stone",
+    "name": "Камень и плоть",
     "primary_attribute": "strength",
     "required_level": 16,
     "is_support": false,
@@ -2889,7 +2889,7 @@
   },
   "Metadata/Items/Gems/SupportGemImpale": {
     "id": "Metadata/Items/Gems/SupportGemImpale",
-    "name": "Impale Support",
+    "name": "Прокол",
     "primary_attribute": "dexterity",
     "required_level": 31,
     "is_support": true,
@@ -2897,7 +2897,7 @@
   },
   "Metadata/Items/Gems/SkillGemPride": {
     "id": "Metadata/Items/Gems/SkillGemPride",
-    "name": "Pride",
+    "name": "Гордость",
     "primary_attribute": "strength",
     "required_level": 24,
     "is_support": false,
@@ -2905,7 +2905,7 @@
   },
   "Metadata/Items/Gems/SupportGemPulverise": {
     "id": "Metadata/Items/Gems/SupportGemPulverise",
-    "name": "Pulverise Support",
+    "name": "Распыление",
     "primary_attribute": "strength",
     "required_level": 31,
     "is_support": true,
@@ -2913,7 +2913,7 @@
   },
   "Metadata/Items/Gems/SupportGemRage": {
     "id": "Metadata/Items/Gems/SupportGemRage",
-    "name": "Rage Support",
+    "name": "Свирепость",
     "primary_attribute": "strength",
     "required_level": 18,
     "is_support": true,
@@ -2921,7 +2921,7 @@
   },
   "Metadata/Items/Gems/SkillGemCobraLash": {
     "id": "Metadata/Items/Gems/SkillGemCobraLash",
-    "name": "Cobra Lash",
+    "name": "Бросок кобры",
     "primary_attribute": "dexterity",
     "required_level": 1,
     "is_support": false,
@@ -2929,7 +2929,7 @@
   },
   "Metadata/Items/Gems/SkillGemSummonCarrionGolem": {
     "id": "Metadata/Items/Gems/SkillGemSummonCarrionGolem",
-    "name": "Summon Carrion Golem",
+    "name": "Призыв трупного голема",
     "primary_attribute": "intelligence",
     "required_level": 34,
     "is_support": false,
@@ -2937,7 +2937,7 @@
   },
   "Metadata/Items/Gems/SkillGemWitheringStep": {
     "id": "Metadata/Items/Gems/SkillGemWitheringStep",
-    "name": "Withering Step",
+    "name": "Губительный шаг",
     "primary_attribute": "dexterity",
     "required_level": 10,
     "is_support": false,
@@ -2945,7 +2945,7 @@
   },
   "Metadata/Items/Gems/SkillGemPlagueBearer": {
     "id": "Metadata/Items/Gems/SkillGemPlagueBearer",
-    "name": "Plague Bearer",
+    "name": "Носитель чумы",
     "primary_attribute": "dexterity",
     "required_level": 24,
     "is_support": false,
@@ -2953,7 +2953,7 @@
   },
   "Metadata/Items/Gems/SupportGemFeedingFrenzy": {
     "id": "Metadata/Items/Gems/SupportGemFeedingFrenzy",
-    "name": "Feeding Frenzy Support",
+    "name": "Голодное остервенение",
     "primary_attribute": "intelligence",
     "required_level": 31,
     "is_support": true,
@@ -2961,7 +2961,7 @@
   },
   "Metadata/Items/Gems/SupportGemDeathmark": {
     "id": "Metadata/Items/Gems/SupportGemDeathmark",
-    "name": "Predator Support",
+    "name": "Хищник",
     "primary_attribute": "intelligence",
     "required_level": 18,
     "is_support": true,
@@ -2969,7 +2969,7 @@
   },
   "Metadata/Items/Gems/SupportGemNightblade": {
     "id": "Metadata/Items/Gems/SupportGemNightblade",
-    "name": "Nightblade Support",
+    "name": "Клинок во тьме",
     "primary_attribute": "dexterity",
     "required_level": 18,
     "is_support": true,
@@ -2977,7 +2977,7 @@
   },
   "Metadata/Items/Gems/SupportGemMeatShield": {
     "id": "Metadata/Items/Gems/SupportGemMeatShield",
-    "name": "Meat Shield Support",
+    "name": "Живой щит",
     "primary_attribute": "intelligence",
     "required_level": 31,
     "is_support": true,
@@ -2985,7 +2985,7 @@
   },
   "Metadata/Items/Gems/SkillGemStormblastMine": {
     "id": "Metadata/Items/Gems/SkillGemStormblastMine",
-    "name": "Stormblast Mine",
+    "name": "Штормовая мина",
     "primary_attribute": "intelligence",
     "required_level": 1,
     "is_support": false,
@@ -2993,7 +2993,7 @@
   },
   "Metadata/Items/Gems/SkillGemSummonSkitterbots": {
     "id": "Metadata/Items/Gems/SkillGemSummonSkitterbots",
-    "name": "Summon Skitterbots",
+    "name": "Призыв мехаботов",
     "primary_attribute": "intelligence",
     "required_level": 16,
     "is_support": false,
@@ -3001,7 +3001,7 @@
   },
   "Metadata/Items/Gems/SupportGemHighImpactMineSupport": {
     "id": "Metadata/Items/Gems/SupportGemHighImpactMineSupport",
-    "name": "High-Impact Mine Support",
+    "name": "Усиленная мина",
     "primary_attribute": "intelligence",
     "required_level": 31,
     "is_support": true,
@@ -3009,7 +3009,7 @@
   },
   "Metadata/Items/Gems/SupportGemInfernalLegion": {
     "id": "Metadata/Items/Gems/SupportGemInfernalLegion",
-    "name": "Infernal Legion Support",
+    "name": "Пылающий легион",
     "primary_attribute": "intelligence",
     "required_level": 8,
     "is_support": true,
@@ -3017,7 +3017,7 @@
   },
   "Metadata/Items/Gems/SkillGemPestilentStrike": {
     "id": "Metadata/Items/Gems/SkillGemPestilentStrike",
-    "name": "Pestilent Strike",
+    "name": "Моровой удар",
     "primary_attribute": "dexterity",
     "required_level": 28,
     "is_support": false,
@@ -3025,7 +3025,7 @@
   },
   "Metadata/Items/Gems/SkillGemVenomGyre": {
     "id": "Metadata/Items/Gems/SkillGemVenomGyre",
-    "name": "Venom Gyre",
+    "name": "Круг яда",
     "primary_attribute": "dexterity",
     "required_level": 12,
     "is_support": false,
@@ -3033,7 +3033,7 @@
   },
   "Metadata/Items/Gems/SupportGemSwiftAssembly": {
     "id": "Metadata/Items/Gems/SupportGemSwiftAssembly",
-    "name": "Swift Assembly Support",
+    "name": "Быстрая сборка",
     "primary_attribute": "dexterity",
     "required_level": 4,
     "is_support": true,
@@ -3041,7 +3041,7 @@
   },
   "Metadata/Items/Gems/SkillGemShrapnelBallista": {
     "id": "Metadata/Items/Gems/SkillGemShrapnelBallista",
-    "name": "Shrapnel Ballista",
+    "name": "Осколочная баллиста",
     "primary_attribute": "dexterity",
     "required_level": 4,
     "is_support": false,
@@ -3049,7 +3049,7 @@
   },
   "Metadata/Items/Gems/SupportGemArrowNova": {
     "id": "Metadata/Items/Gems/SupportGemArrowNova",
-    "name": "Arrow Nova Support",
+    "name": "Кольцо стрел",
     "primary_attribute": "dexterity",
     "required_level": 8,
     "is_support": true,
@@ -3057,7 +3057,7 @@
   },
   "Metadata/Items/Gems/SupportGemBarrage": {
     "id": "Metadata/Items/Gems/SupportGemBarrage",
-    "name": "Barrage Support",
+    "name": "Стрельба очередями",
     "primary_attribute": "dexterity",
     "required_level": 38,
     "is_support": true,
@@ -3065,7 +3065,7 @@
   },
   "Metadata/Items/Gems/SkillGemEnsnaringArrow": {
     "id": "Metadata/Items/Gems/SkillGemEnsnaringArrow",
-    "name": "Ensnaring Arrow",
+    "name": "Стрела ловчего",
     "primary_attribute": "dexterity",
     "required_level": 16,
     "is_support": false,
@@ -3073,7 +3073,7 @@
   },
   "Metadata/Items/Gems/SkillGemArtilleryBallista": {
     "id": "Metadata/Items/Gems/SkillGemArtilleryBallista",
-    "name": "Artillery Ballista",
+    "name": "Артиллерийская баллиста",
     "primary_attribute": "dexterity",
     "required_level": 28,
     "is_support": false,
@@ -3081,7 +3081,7 @@
   },
   "Metadata/Items/Gems/SupportGemGreaterVolley": {
     "id": "Metadata/Items/Gems/SupportGemGreaterVolley",
-    "name": "Greater Volley Support",
+    "name": "Большой залп",
     "primary_attribute": "dexterity",
     "required_level": 38,
     "is_support": true,
@@ -3089,7 +3089,7 @@
   },
   "Metadata/Items/Gems/SupportGemAddedFireDamagePlus": {
     "id": "Metadata/Items/Gems/SupportGemAddedFireDamagePlus",
-    "name": "Awakened Added Fire Damage Support",
+    "name": "Пробужденный: Урон огнем",
     "primary_attribute": "strength",
     "required_level": 72,
     "is_support": true,
@@ -3097,7 +3097,7 @@
   },
   "Metadata/Items/Gems/SupportGemAncestralCallPlus": {
     "id": "Metadata/Items/Gems/SupportGemAncestralCallPlus",
-    "name": "Awakened Ancestral Call Support",
+    "name": "Пробужденный: Зов предков",
     "primary_attribute": "strength",
     "required_level": 72,
     "is_support": true,
@@ -3105,7 +3105,7 @@
   },
   "Metadata/Items/Gems/SupportGemBrutalityPlus": {
     "id": "Metadata/Items/Gems/SupportGemBrutalityPlus",
-    "name": "Awakened Brutality Support",
+    "name": "Пробужденный: Жестокость",
     "primary_attribute": "strength",
     "required_level": 72,
     "is_support": true,
@@ -3113,7 +3113,7 @@
   },
   "Metadata/Items/Gems/SupportGemBurningDamagePlus": {
     "id": "Metadata/Items/Gems/SupportGemBurningDamagePlus",
-    "name": "Awakened Burning Damage Support",
+    "name": "Пробужденный: Урон от горения",
     "primary_attribute": "strength",
     "required_level": 72,
     "is_support": true,
@@ -3121,7 +3121,7 @@
   },
   "Metadata/Items/Gems/SupportGemWeaponElementalDamagePlus": {
     "id": "Metadata/Items/Gems/SupportGemWeaponElementalDamagePlus",
-    "name": "Awakened Elemental Damage with Attacks Support",
+    "name": "Пробужденный: Урон от стихий атаками",
     "primary_attribute": "strength",
     "required_level": 72,
     "is_support": true,
@@ -3129,7 +3129,7 @@
   },
   "Metadata/Items/Gems/SupportGemFirePenetrationPlus": {
     "id": "Metadata/Items/Gems/SupportGemFirePenetrationPlus",
-    "name": "Awakened Fire Penetration Support",
+    "name": "Пробужденный: Пронизывающий жар",
     "primary_attribute": "strength",
     "required_level": 72,
     "is_support": true,
@@ -3137,7 +3137,7 @@
   },
   "Metadata/Items/Gems/SupportGemGenerosityPlus": {
     "id": "Metadata/Items/Gems/SupportGemGenerosityPlus",
-    "name": "Awakened Generosity Support",
+    "name": "Пробужденный: Щедрость",
     "primary_attribute": "strength",
     "required_level": 72,
     "is_support": true,
@@ -3145,7 +3145,7 @@
   },
   "Metadata/Items/Gems/SupportGemMeleePhysicalDamagePlus": {
     "id": "Metadata/Items/Gems/SupportGemMeleePhysicalDamagePlus",
-    "name": "Awakened Melee Physical Damage Support",
+    "name": "Пробужденный: Физический урон ближнего боя",
     "primary_attribute": "strength",
     "required_level": 72,
     "is_support": true,
@@ -3153,7 +3153,7 @@
   },
   "Metadata/Items/Gems/SupportGemMeleeSplashPlus": {
     "id": "Metadata/Items/Gems/SupportGemMeleeSplashPlus",
-    "name": "Awakened Melee Splash Support",
+    "name": "Пробужденный: Раскатистый удар",
     "primary_attribute": "strength",
     "required_level": 72,
     "is_support": true,
@@ -3161,7 +3161,7 @@
   },
   "Metadata/Items/Gems/SupportGemMultistrikePlus": {
     "id": "Metadata/Items/Gems/SupportGemMultistrikePlus",
-    "name": "Awakened Multistrike Support",
+    "name": "Пробужденный: Град ударов",
     "primary_attribute": "strength",
     "required_level": 72,
     "is_support": true,
@@ -3169,7 +3169,7 @@
   },
   "Metadata/Items/Gems/SupportGemAddedColdDamagePlus": {
     "id": "Metadata/Items/Gems/SupportGemAddedColdDamagePlus",
-    "name": "Awakened Added Cold Damage Support",
+    "name": "Пробужденный: Урон холодом",
     "primary_attribute": "dexterity",
     "required_level": 72,
     "is_support": true,
@@ -3177,7 +3177,7 @@
   },
   "Metadata/Items/Gems/SupportGemArrowNovaPlus": {
     "id": "Metadata/Items/Gems/SupportGemArrowNovaPlus",
-    "name": "Awakened Arrow Nova Support",
+    "name": "Пробужденный: Кольцо стрел",
     "primary_attribute": "dexterity",
     "required_level": 72,
     "is_support": true,
@@ -3185,7 +3185,7 @@
   },
   "Metadata/Items/Gems/SupportGemCastOnCritPlus": {
     "id": "Metadata/Items/Gems/SupportGemCastOnCritPlus",
-    "name": "Awakened Cast On Critical Strike Support",
+    "name": "Пробужденный: Сотворение чар при критическом ударе",
     "primary_attribute": "dexterity",
     "required_level": 72,
     "is_support": true,
@@ -3193,7 +3193,7 @@
   },
   "Metadata/Items/Gems/SupportGemChainPlus": {
     "id": "Metadata/Items/Gems/SupportGemChainPlus",
-    "name": "Awakened Chain Support",
+    "name": "Пробужденный: Цепь",
     "primary_attribute": "dexterity",
     "required_level": 72,
     "is_support": true,
@@ -3201,7 +3201,7 @@
   },
   "Metadata/Items/Gems/SupportGemColdPenetrationPlus": {
     "id": "Metadata/Items/Gems/SupportGemColdPenetrationPlus",
-    "name": "Awakened Cold Penetration Support",
+    "name": "Пробужденный: Пронизывающий холод",
     "primary_attribute": "dexterity",
     "required_level": 72,
     "is_support": true,
@@ -3209,7 +3209,7 @@
   },
   "Metadata/Items/Gems/SupportGemDeadlyAilmentsPlus": {
     "id": "Metadata/Items/Gems/SupportGemDeadlyAilmentsPlus",
-    "name": "Awakened Deadly Ailments Support",
+    "name": "Пробужденный: Смертельные состояния",
     "primary_attribute": "dexterity",
     "required_level": 72,
     "is_support": true,
@@ -3217,7 +3217,7 @@
   },
   "Metadata/Items/Gems/SupportGemForkPlus": {
     "id": "Metadata/Items/Gems/SupportGemForkPlus",
-    "name": "Awakened Fork Support",
+    "name": "Пробужденный: Разветвление",
     "primary_attribute": "dexterity",
     "required_level": 72,
     "is_support": true,
@@ -3225,7 +3225,7 @@
   },
   "Metadata/Items/Gems/SupportGemGreaterMultipleProjectilesPlus": {
     "id": "Metadata/Items/Gems/SupportGemGreaterMultipleProjectilesPlus",
-    "name": "Awakened Greater Multiple Projectiles Support",
+    "name": "Пробужденный: Много дополнительных снарядов",
     "primary_attribute": "dexterity",
     "required_level": 72,
     "is_support": true,
@@ -3233,7 +3233,7 @@
   },
   "Metadata/Items/Gems/SupportGemSwiftAfflictionPlus": {
     "id": "Metadata/Items/Gems/SupportGemSwiftAfflictionPlus",
-    "name": "Awakened Swift Affliction Support",
+    "name": "Пробужденный: Стремительный недуг",
     "primary_attribute": "dexterity",
     "required_level": 72,
     "is_support": true,
@@ -3241,7 +3241,7 @@
   },
   "Metadata/Items/Gems/SupportGemVoidManipulationPlus": {
     "id": "Metadata/Items/Gems/SupportGemVoidManipulationPlus",
-    "name": "Awakened Void Manipulation Support",
+    "name": "Пробужденный: Манипуляция пустотой",
     "primary_attribute": "dexterity",
     "required_level": 72,
     "is_support": true,
@@ -3249,7 +3249,7 @@
   },
   "Metadata/Items/Gems/SupportGemViciousProjectilesPlus": {
     "id": "Metadata/Items/Gems/SupportGemViciousProjectilesPlus",
-    "name": "Awakened Vicious Projectiles Support",
+    "name": "Пробужденный: Яростные снаряды",
     "primary_attribute": "dexterity",
     "required_level": 72,
     "is_support": true,
@@ -3257,7 +3257,7 @@
   },
   "Metadata/Items/Gems/SupportGemAddedChaosDamagePlus": {
     "id": "Metadata/Items/Gems/SupportGemAddedChaosDamagePlus",
-    "name": "Awakened Added Chaos Damage Support",
+    "name": "Пробужденный: Урон хаосом",
     "primary_attribute": "intelligence",
     "required_level": 72,
     "is_support": true,
@@ -3265,7 +3265,7 @@
   },
   "Metadata/Items/Gems/SupportGemAddedLightningDamagePlus": {
     "id": "Metadata/Items/Gems/SupportGemAddedLightningDamagePlus",
-    "name": "Awakened Added Lightning Damage Support",
+    "name": "Пробужденный: Урон молнией",
     "primary_attribute": "intelligence",
     "required_level": 72,
     "is_support": true,
@@ -3273,7 +3273,7 @@
   },
   "Metadata/Items/Gems/SupportGemBlasphemyPlus": {
     "id": "Metadata/Items/Gems/SupportGemBlasphemyPlus",
-    "name": "Awakened Blasphemy Support",
+    "name": "Пробужденный: Богохульство",
     "primary_attribute": "intelligence",
     "required_level": 72,
     "is_support": true,
@@ -3281,7 +3281,7 @@
   },
   "Metadata/Items/Gems/SupportGemCastWhileChannellingPlus": {
     "id": "Metadata/Items/Gems/SupportGemCastWhileChannellingPlus",
-    "name": "Awakened Cast While Channelling Support",
+    "name": "Пробужденный: Сотворение чар при поддержании",
     "primary_attribute": "intelligence",
     "required_level": 72,
     "is_support": true,
@@ -3289,7 +3289,7 @@
   },
   "Metadata/Items/Gems/SupportGemControlledDestructionPlus": {
     "id": "Metadata/Items/Gems/SupportGemControlledDestructionPlus",
-    "name": "Awakened Controlled Destruction Support",
+    "name": "Пробужденный: Контролируемое разрушение",
     "primary_attribute": "intelligence",
     "required_level": 72,
     "is_support": true,
@@ -3297,7 +3297,7 @@
   },
   "Metadata/Items/Gems/SupportGemCurseOnHitPlus": {
     "id": "Metadata/Items/Gems/SupportGemCurseOnHitPlus",
-    "name": "Awakened Hextouch Support",
+    "name": "Пробужденный: Касание порчи",
     "primary_attribute": "intelligence",
     "required_level": 72,
     "is_support": true,
@@ -3305,7 +3305,7 @@
   },
   "Metadata/Items/Gems/SupportGemElementalFocusPlus": {
     "id": "Metadata/Items/Gems/SupportGemElementalFocusPlus",
-    "name": "Awakened Elemental Focus Support",
+    "name": "Пробужденный: Концентрация стихий",
     "primary_attribute": "intelligence",
     "required_level": 72,
     "is_support": true,
@@ -3313,7 +3313,7 @@
   },
   "Metadata/Items/Gems/SupportGemIncreasedAreaOfEffectPlus": {
     "id": "Metadata/Items/Gems/SupportGemIncreasedAreaOfEffectPlus",
-    "name": "Awakened Increased Area of Effect Support",
+    "name": "Пробужденный: Расширенная область действия",
     "primary_attribute": "intelligence",
     "required_level": 72,
     "is_support": true,
@@ -3321,7 +3321,7 @@
   },
   "Metadata/Items/Gems/SupportGemLightningPenetrationPlus": {
     "id": "Metadata/Items/Gems/SupportGemLightningPenetrationPlus",
-    "name": "Awakened Lightning Penetration Support",
+    "name": "Пробужденный: Пронизывающие молнии",
     "primary_attribute": "intelligence",
     "required_level": 72,
     "is_support": true,
@@ -3329,7 +3329,7 @@
   },
   "Metadata/Items/Gems/SupportGemMinionDamagePlus": {
     "id": "Metadata/Items/Gems/SupportGemMinionDamagePlus",
-    "name": "Awakened Minion Damage Support",
+    "name": "Пробужденный: Урон приспешников",
     "primary_attribute": "intelligence",
     "required_level": 72,
     "is_support": true,
@@ -3337,7 +3337,7 @@
   },
   "Metadata/Items/Gems/SupportGemSpellCascadePlus": {
     "id": "Metadata/Items/Gems/SupportGemSpellCascadePlus",
-    "name": "Awakened Spell Cascade Support",
+    "name": "Пробужденный: Каскад чар",
     "primary_attribute": "intelligence",
     "required_level": 72,
     "is_support": true,
@@ -3345,7 +3345,7 @@
   },
   "Metadata/Items/Gems/SupportGemSpellEchoPlus": {
     "id": "Metadata/Items/Gems/SupportGemSpellEchoPlus",
-    "name": "Awakened Spell Echo Support",
+    "name": "Пробужденный: Эхо магии",
     "primary_attribute": "intelligence",
     "required_level": 72,
     "is_support": true,
@@ -3353,7 +3353,7 @@
   },
   "Metadata/Items/Gems/SupportGemUnboundAilmentsPlus": {
     "id": "Metadata/Items/Gems/SupportGemUnboundAilmentsPlus",
-    "name": "Awakened Unbound Ailments Support",
+    "name": "Пробужденный: Безграничные состояния",
     "primary_attribute": "intelligence",
     "required_level": 72,
     "is_support": true,
@@ -3361,7 +3361,7 @@
   },
   "Metadata/Items/Gems/SupportGemUnleashPlus": {
     "id": "Metadata/Items/Gems/SupportGemUnleashPlus",
-    "name": "Awakened Unleash Support",
+    "name": "Пробужденный: Высвобождение",
     "primary_attribute": "intelligence",
     "required_level": 72,
     "is_support": true,
@@ -3369,7 +3369,7 @@
   },
   "Metadata/Items/Gems/SupportGemEmpowerPlus": {
     "id": "Metadata/Items/Gems/SupportGemEmpowerPlus",
-    "name": "Awakened Empower Support",
+    "name": "Пробуждённый: Усилитель",
     "primary_attribute": "strength",
     "required_level": 72,
     "is_support": true,
@@ -3377,7 +3377,7 @@
   },
   "Metadata/Items/Gems/SupportGemEnlightenPlus": {
     "id": "Metadata/Items/Gems/SupportGemEnlightenPlus",
-    "name": "Awakened Enlighten Support",
+    "name": "Пробуждённый: Наставник",
     "primary_attribute": "intelligence",
     "required_level": 72,
     "is_support": true,
@@ -3385,7 +3385,7 @@
   },
   "Metadata/Items/Gems/SupportGemEnhancePlus": {
     "id": "Metadata/Items/Gems/SupportGemEnhancePlus",
-    "name": "Awakened Enhance Support",
+    "name": "Пробуждённый: Улучшитель",
     "primary_attribute": "dexterity",
     "required_level": 72,
     "is_support": true,
@@ -3393,7 +3393,7 @@
   },
   "Metadata/Items/Gems/SkillGemArcaneCloak": {
     "id": "Metadata/Items/Gems/SkillGemArcaneCloak",
-    "name": "Arcane Cloak",
+    "name": "Чародейский покров",
     "primary_attribute": "intelligence",
     "required_level": 16,
     "is_support": false,
@@ -3401,7 +3401,7 @@
   },
   "Metadata/Items/Gems/SkillGemStormBind": {
     "id": "Metadata/Items/Gems/SkillGemStormBind",
-    "name": "Stormbind",
+    "name": "Грозовые руны",
     "primary_attribute": "intelligence",
     "required_level": 28,
     "is_support": false,
@@ -3409,7 +3409,7 @@
   },
   "Metadata/Items/Gems/SkillGemKineticBolt": {
     "id": "Metadata/Items/Gems/SkillGemKineticBolt",
-    "name": "Kinetic Bolt",
+    "name": "Кинетический заряд",
     "primary_attribute": "intelligence",
     "required_level": 1,
     "is_support": false,
@@ -3417,7 +3417,7 @@
   },
   "Metadata/Items/Gems/SkillGemBladeBlast": {
     "id": "Metadata/Items/Gems/SkillGemBladeBlast",
-    "name": "Blade Blast",
+    "name": "Взрыв клинков",
     "primary_attribute": "dexterity",
     "required_level": 16,
     "is_support": false,
@@ -3425,7 +3425,7 @@
   },
   "Metadata/Items/Gems/SkillGemSpellslinger": {
     "id": "Metadata/Items/Gems/SkillGemSpellslinger",
-    "name": "Spellslinger",
+    "name": "Чароплёт",
     "primary_attribute": "intelligence",
     "required_level": 24,
     "is_support": false,
@@ -3433,7 +3433,7 @@
   },
   "Metadata/Items/Gems/SupportGemArchmage": {
     "id": "Metadata/Items/Gems/SupportGemArchmage",
-    "name": "Archmage Support",
+    "name": "Архимаг",
     "primary_attribute": "intelligence",
     "required_level": 31,
     "is_support": true,
@@ -3441,7 +3441,7 @@
   },
   "Metadata/Items/Gems/SupportGemSecondWind": {
     "id": "Metadata/Items/Gems/SupportGemSecondWind",
-    "name": "Second Wind Support",
+    "name": "Второе дыхание",
     "primary_attribute": "dexterity",
     "required_level": 31,
     "is_support": true,
@@ -3449,7 +3449,7 @@
   },
   "Metadata/Items/Gems/SkillGemArcanistBrand": {
     "id": "Metadata/Items/Gems/SkillGemArcanistBrand",
-    "name": "Arcanist Brand",
+    "name": "Клеймо чаротворца",
     "primary_attribute": "intelligence",
     "required_level": 38,
     "is_support": false,
@@ -3457,7 +3457,7 @@
   },
   "Metadata/Items/Gems/SkillGemIntimidatingCry": {
     "id": "Metadata/Items/Gems/SkillGemIntimidatingCry",
-    "name": "Intimidating Cry",
+    "name": "Устрашающий клич",
     "primary_attribute": "strength",
     "required_level": 10,
     "is_support": false,
@@ -3465,7 +3465,7 @@
   },
   "Metadata/Items/Gems/SkillGemSeismicCry": {
     "id": "Metadata/Items/Gems/SkillGemSeismicCry",
-    "name": "Seismic Cry",
+    "name": "Сейсмический клич",
     "primary_attribute": "strength",
     "required_level": 16,
     "is_support": false,
@@ -3473,7 +3473,7 @@
   },
   "Metadata/Items/Gems/SkillGemAncestralCry": {
     "id": "Metadata/Items/Gems/SkillGemAncestralCry",
-    "name": "Ancestral Cry",
+    "name": "Клич предков",
     "primary_attribute": "strength",
     "required_level": 16,
     "is_support": false,
@@ -3481,7 +3481,7 @@
   },
   "Metadata/Items/Gems/SkillGemPenanceBrand": {
     "id": "Metadata/Items/Gems/SkillGemPenanceBrand",
-    "name": "Penance Brand",
+    "name": "Клеймо покаяния",
     "primary_attribute": "intelligence",
     "required_level": 28,
     "is_support": false,
@@ -3489,7 +3489,7 @@
   },
   "Metadata/Items/Gems/SkillGemWintertideBrand": {
     "id": "Metadata/Items/Gems/SkillGemWintertideBrand",
-    "name": "Wintertide Brand",
+    "name": "Клеймо зимы",
     "primary_attribute": "intelligence",
     "required_level": 12,
     "is_support": false,
@@ -3497,7 +3497,7 @@
   },
   "Metadata/Items/Gems/SkillGemEarthshatter": {
     "id": "Metadata/Items/Gems/SkillGemEarthshatter",
-    "name": "Earthshatter",
+    "name": "Разлом земли",
     "primary_attribute": "strength",
     "required_level": 12,
     "is_support": false,
@@ -3505,7 +3505,7 @@
   },
   "Metadata/Items/Gems/SkillGemGeneralsCry": {
     "id": "Metadata/Items/Gems/SkillGemGeneralsCry",
-    "name": "General's Cry",
+    "name": "Клич полководца",
     "primary_attribute": "strength",
     "required_level": 24,
     "is_support": false,
@@ -3513,7 +3513,7 @@
   },
   "Metadata/Items/Gems/SupportGemFistOfWar": {
     "id": "Metadata/Items/Gems/SupportGemFistOfWar",
-    "name": "Fist of War Support",
+    "name": "Кулак войны",
     "primary_attribute": "strength",
     "required_level": 38,
     "is_support": true,
@@ -3521,7 +3521,7 @@
   },
   "Metadata/Items/Gems/SupportGemSwiftbrand": {
     "id": "Metadata/Items/Gems/SupportGemSwiftbrand",
-    "name": "Swiftbrand Support",
+    "name": "Быстрое клеймение",
     "primary_attribute": "intelligence",
     "required_level": 31,
     "is_support": true,
@@ -3529,7 +3529,7 @@
   },
   "Metadata/Items/Gems/SupportGemUrgentOrders": {
     "id": "Metadata/Items/Gems/SupportGemUrgentOrders",
-    "name": "Urgent Orders Support",
+    "name": "Срочные приказы",
     "primary_attribute": "strength",
     "required_level": 31,
     "is_support": true,
@@ -3537,7 +3537,7 @@
   },
   "Metadata/Items/Gems/SkillGemBlazingSalvo": {
     "id": "Metadata/Items/Gems/SkillGemBlazingSalvo",
-    "name": "Blazing Salvo",
+    "name": "Пылающий залп",
     "primary_attribute": "intelligence",
     "required_level": 12,
     "is_support": false,
@@ -3545,7 +3545,7 @@
   },
   "Metadata/Items/Gems/SkillGemVoidSphere": {
     "id": "Metadata/Items/Gems/SkillGemVoidSphere",
-    "name": "Void Sphere",
+    "name": "Сфера пустоты",
     "primary_attribute": "intelligence",
     "required_level": 34,
     "is_support": false,
@@ -3553,7 +3553,7 @@
   },
   "Metadata/Items/Gems/SkillGemCracklingLance": {
     "id": "Metadata/Items/Gems/SkillGemCracklingLance",
-    "name": "Crackling Lance",
+    "name": "Искрящееся копьё",
     "primary_attribute": "intelligence",
     "required_level": 28,
     "is_support": false,
@@ -3561,7 +3561,7 @@
   },
   "Metadata/Items/Gems/SkillGemFrostShield": {
     "id": "Metadata/Items/Gems/SkillGemFrostShield",
-    "name": "Frost Shield",
+    "name": "Морозный щит",
     "primary_attribute": "intelligence",
     "required_level": 34,
     "is_support": false,
@@ -3569,7 +3569,7 @@
   },
   "Metadata/Items/Gems/SkillGemSplittingSteel": {
     "id": "Metadata/Items/Gems/SkillGemSplittingSteel",
-    "name": "Splitting Steel",
+    "name": "Раскалывающая сталь",
     "primary_attribute": "dexterity",
     "required_level": 1,
     "is_support": false,
@@ -3577,7 +3577,7 @@
   },
   "Metadata/Items/Gems/SkillGemSigilOfPower": {
     "id": "Metadata/Items/Gems/SkillGemSigilOfPower",
-    "name": "Sigil of Power",
+    "name": "Печать силы",
     "primary_attribute": "intelligence",
     "required_level": 34,
     "is_support": false,
@@ -3585,7 +3585,7 @@
   },
   "Metadata/Items/Gems/SkillGemFlameWall": {
     "id": "Metadata/Items/Gems/SkillGemFlameWall",
-    "name": "Flame Wall",
+    "name": "Стена пламени",
     "primary_attribute": "intelligence",
     "required_level": 4,
     "is_support": false,
@@ -3593,7 +3593,7 @@
   },
   "Metadata/Items/Gems/SupportGemImpendingDoom": {
     "id": "Metadata/Items/Gems/SupportGemImpendingDoom",
-    "name": "Impending Doom Support",
+    "name": "Обречённость",
     "primary_attribute": "intelligence",
     "required_level": 31,
     "is_support": true,
@@ -3601,7 +3601,7 @@
   },
   "Metadata/Items/Gems/SkillGemHexblast": {
     "id": "Metadata/Items/Gems/SkillGemHexblast",
-    "name": "Hexblast",
+    "name": "Взрыв порчи",
     "primary_attribute": "intelligence",
     "required_level": 28,
     "is_support": false,
@@ -3609,7 +3609,7 @@
   },
   "Metadata/Items/Gems/SupportGemPinpoint": {
     "id": "Metadata/Items/Gems/SupportGemPinpoint",
-    "name": "Pinpoint Support",
+    "name": "Сосредоточение",
     "primary_attribute": "intelligence",
     "required_level": 31,
     "is_support": true,
@@ -3617,7 +3617,7 @@
   },
   "Metadata/Items/Gems/SkillGemHydrosphere": {
     "id": "Metadata/Items/Gems/SkillGemHydrosphere",
-    "name": "Hydrosphere",
+    "name": "Гидросфера",
     "primary_attribute": "intelligence",
     "required_level": 34,
     "is_support": false,
@@ -3625,7 +3625,7 @@
   },
   "Metadata/Items/Gems/SupportGemTrinity": {
     "id": "Metadata/Items/Gems/SupportGemTrinity",
-    "name": "Trinity Support",
+    "name": "Триединство",
     "primary_attribute": "intelligence",
     "required_level": 18,
     "is_support": true,
@@ -3633,7 +3633,7 @@
   },
   "Metadata/Items/Gems/SkillGemExsanguinate": {
     "id": "Metadata/Items/Gems/SkillGemExsanguinate",
-    "name": "Exsanguinate",
+    "name": "Обескровливание",
     "primary_attribute": "strength",
     "required_level": 12,
     "is_support": false,
@@ -3641,7 +3641,7 @@
   },
   "Metadata/Items/Gems/SkillGemCorruptingFever": {
     "id": "Metadata/Items/Gems/SkillGemCorruptingFever",
-    "name": "Corrupting Fever",
+    "name": "Разлагающая лихорадка",
     "primary_attribute": "strength",
     "required_level": 16,
     "is_support": false,
@@ -3649,7 +3649,7 @@
   },
   "Metadata/Items/Gems/SupportGemBloodthirst": {
     "id": "Metadata/Items/Gems/SupportGemBloodthirst",
-    "name": "Bloodthirst Support",
+    "name": "Кровавое зверство",
     "primary_attribute": "strength",
     "required_level": 31,
     "is_support": true,
@@ -3657,7 +3657,7 @@
   },
   "Metadata/Items/Gems/SkillGemBloodreap": {
     "id": "Metadata/Items/Gems/SkillGemBloodreap",
-    "name": "Reap",
+    "name": "Кровавая жатва",
     "primary_attribute": "strength",
     "required_level": 28,
     "is_support": false,
@@ -3665,7 +3665,7 @@
   },
   "Metadata/Items/Gems/SkillGemPetrifiedBlood": {
     "id": "Metadata/Items/Gems/SkillGemPetrifiedBlood",
-    "name": "Petrified Blood",
+    "name": "Окаменелая кровь",
     "primary_attribute": "strength",
     "required_level": 24,
     "is_support": false,
@@ -3673,7 +3673,7 @@
   },
   "Metadata/Items/Gems/SupportGemCruelty": {
     "id": "Metadata/Items/Gems/SupportGemCruelty",
-    "name": "Cruelty Support",
+    "name": "Злость",
     "primary_attribute": "strength",
     "required_level": 18,
     "is_support": true,
@@ -3681,7 +3681,7 @@
   },
   "Metadata/Items/Gems/SupportGemLifetap": {
     "id": "Metadata/Items/Gems/SupportGemLifetap",
-    "name": "Lifetap Support",
+    "name": "Жизнеотвод",
     "primary_attribute": "strength",
     "required_level": 8,
     "is_support": true,
@@ -3689,7 +3689,7 @@
   },
   "Metadata/Items/Gems/SkillGemDefianceBanner": {
     "id": "Metadata/Items/Gems/SkillGemDefianceBanner",
-    "name": "Defiance Banner",
+    "name": "Знамя непокорности",
     "primary_attribute": "strength",
     "required_level": 16,
     "is_support": false,
@@ -3697,7 +3697,7 @@
   },
   "Metadata/Items/Gems/SkillGemVoltaxicBurst": {
     "id": "Metadata/Items/Gems/SkillGemVoltaxicBurst",
-    "name": "Voltaxic Burst",
+    "name": "Вольтаксовая вспышка",
     "primary_attribute": "intelligence",
     "required_level": 12,
     "is_support": false,
@@ -3705,7 +3705,7 @@
   },
   "Metadata/Items/Gems/SkillGemRageVortex": {
     "id": "Metadata/Items/Gems/SkillGemRageVortex",
-    "name": "Rage Vortex",
+    "name": "Свирепый вихрь",
     "primary_attribute": "strength",
     "required_level": 28,
     "is_support": false,
@@ -3713,7 +3713,7 @@
   },
   "Metadata/Items/Gems/SkillGemSpectralHelix": {
     "id": "Metadata/Items/Gems/SkillGemSpectralHelix",
-    "name": "Spectral Helix",
+    "name": "Призрачная спираль",
     "primary_attribute": "dexterity",
     "required_level": 12,
     "is_support": false,
@@ -3721,7 +3721,7 @@
   },
   "Metadata/Items/Gems/SkillGemBattlemagesCry": {
     "id": "Metadata/Items/Gems/SkillGemBattlemagesCry",
-    "name": "Battlemage's Cry",
+    "name": "Клич боевого мага",
     "primary_attribute": "strength",
     "required_level": 24,
     "is_support": false,
@@ -3729,7 +3729,7 @@
   },
   "Metadata/Items/Gems/SupportGemEarthbreaker": {
     "id": "Metadata/Items/Gems/SupportGemEarthbreaker",
-    "name": "Earthbreaker Support",
+    "name": "Камнелом",
     "primary_attribute": "strength",
     "required_level": 8,
     "is_support": true,
@@ -3737,7 +3737,7 @@
   },
   "Metadata/Items/Gems/SkillGemAbsolution": {
     "id": "Metadata/Items/Gems/SkillGemAbsolution",
-    "name": "Absolution",
+    "name": "Отпущение",
     "primary_attribute": "strength",
     "required_level": 12,
     "is_support": false,
@@ -3745,7 +3745,7 @@
   },
   "Metadata/Items/Gems/SkillGemForbiddenRite": {
     "id": "Metadata/Items/Gems/SkillGemForbiddenRite",
-    "name": "Forbidden Rite",
+    "name": "Запретный ритуал",
     "primary_attribute": "intelligence",
     "required_level": 16,
     "is_support": false,
@@ -3753,7 +3753,7 @@
   },
   "Metadata/Items/Gems/SkillGemAmbush": {
     "id": "Metadata/Items/Gems/SkillGemAmbush",
-    "name": "Ambush",
+    "name": "Засада",
     "primary_attribute": "dexterity",
     "required_level": 34,
     "is_support": false,
@@ -3761,7 +3761,7 @@
   },
   "Metadata/Items/Gems/SkillGemManabond": {
     "id": "Metadata/Items/Gems/SkillGemManabond",
-    "name": "Manabond",
+    "name": "Узы маны",
     "primary_attribute": "intelligence",
     "required_level": 12,
     "is_support": false,
@@ -3769,7 +3769,7 @@
   },
   "Metadata/Items/Gems/SkillGemBladeTrap": {
     "id": "Metadata/Items/Gems/SkillGemBladeTrap",
-    "name": "Blade Trap",
+    "name": "Ловушка лезвий",
     "primary_attribute": "dexterity",
     "required_level": 12,
     "is_support": false,
@@ -3777,7 +3777,7 @@
   },
   "Metadata/Items/Gems/SkillGemStormRain": {
     "id": "Metadata/Items/Gems/SkillGemStormRain",
-    "name": "Storm Rain",
+    "name": "Грозовой дождь",
     "primary_attribute": "dexterity",
     "required_level": 28,
     "is_support": false,
@@ -3785,7 +3785,7 @@
   },
   "Metadata/Items/Gems/SkillGemShieldCrush": {
     "id": "Metadata/Items/Gems/SkillGemShieldCrush",
-    "name": "Shield Crush",
+    "name": "Сокрушающий щит",
     "primary_attribute": "strength",
     "required_level": 1,
     "is_support": false,
@@ -3793,7 +3793,7 @@
   },
   "Metadata/Items/Gems/SupportGemFocusedBallista": {
     "id": "Metadata/Items/Gems/SupportGemFocusedBallista",
-    "name": "Focused Ballista Support",
+    "name": "Прицельная баллиста",
     "primary_attribute": "dexterity",
     "required_level": 31,
     "is_support": true,
@@ -3801,7 +3801,7 @@
   },
   "Metadata/Items/Gems/SkillGemSummonReaper": {
     "id": "Metadata/Items/Gems/SkillGemSummonReaper",
-    "name": "Summon Reaper",
+    "name": "Призыв Жнеца",
     "primary_attribute": "intelligence",
     "required_level": 28,
     "is_support": false,
@@ -3809,7 +3809,7 @@
   },
   "Metadata/Items/Gems/SupportGemBehead": {
     "id": "Metadata/Items/Gems/SupportGemBehead",
-    "name": "Behead Support",
+    "name": "Обезглавливание",
     "primary_attribute": "strength",
     "required_level": 38,
     "is_support": true,
@@ -3817,7 +3817,7 @@
   },
   "Metadata/Items/Gems/SkillGemBoneshatter": {
     "id": "Metadata/Items/Gems/SkillGemBoneshatter",
-    "name": "Boneshatter",
+    "name": "Дробление костей",
     "primary_attribute": "strength",
     "required_level": 28,
     "is_support": false,
@@ -3825,7 +3825,7 @@
   },
   "Metadata/Items/Gems/SkillGemExplosiveConcoction": {
     "id": "Metadata/Items/Gems/SkillGemExplosiveConcoction",
-    "name": "Explosive Concoction",
+    "name": "Взрывная смесь",
     "primary_attribute": "dexterity",
     "required_level": 28,
     "is_support": false,
@@ -3833,7 +3833,7 @@
   },
   "Metadata/Items/Gems/SkillGemEyeOfWinter": {
     "id": "Metadata/Items/Gems/SkillGemEyeOfWinter",
-    "name": "Eye of Winter",
+    "name": "Око зимы",
     "primary_attribute": "intelligence",
     "required_level": 28,
     "is_support": false,
@@ -3841,7 +3841,7 @@
   },
   "Metadata/Items/Gems/SkillGemPoisonousConcoction": {
     "id": "Metadata/Items/Gems/SkillGemPoisonousConcoction",
-    "name": "Poisonous Concoction",
+    "name": "Ядовитая смесь",
     "primary_attribute": "dexterity",
     "required_level": 12,
     "is_support": false,
@@ -3849,7 +3849,7 @@
   },
   "Metadata/Items/Gems/SkillGemTemporalRift": {
     "id": "Metadata/Items/Gems/SkillGemTemporalRift",
-    "name": "Temporal Rift",
+    "name": "Временной разрыв",
     "primary_attribute": "dexterity",
     "required_level": 34,
     "is_support": false,
@@ -3857,7 +3857,7 @@
   },
   "Metadata/Items/Gems/SkillGemTornado": {
     "id": "Metadata/Items/Gems/SkillGemTornado",
-    "name": "Tornado",
+    "name": "Торнадо",
     "primary_attribute": "dexterity",
     "required_level": 34,
     "is_support": false,
@@ -3865,7 +3865,7 @@
   },
   "Metadata/Items/Gems/SkillGemEnergyBlade": {
     "id": "Metadata/Items/Gems/SkillGemEnergyBlade",
-    "name": "Energy Blade",
+    "name": "Клинок энергии",
     "primary_attribute": "intelligence",
     "required_level": 24,
     "is_support": false,
@@ -3873,7 +3873,7 @@
   },
   "Metadata/Items/Gems/SkillGemSoulLink": {
     "id": "Metadata/Items/Gems/SkillGemSoulLink",
-    "name": "Soul Link",
+    "name": "Духовная связь",
     "primary_attribute": "intelligence",
     "required_level": 34,
     "is_support": false,
@@ -3881,7 +3881,7 @@
   },
   "Metadata/Items/Gems/SkillGemFlameLink": {
     "id": "Metadata/Items/Gems/SkillGemFlameLink",
-    "name": "Flame Link",
+    "name": "Пламенная связь",
     "primary_attribute": "strength",
     "required_level": 34,
     "is_support": false,
@@ -3889,7 +3889,7 @@
   },
   "Metadata/Items/Gems/SkillGemVampiricLink": {
     "id": "Metadata/Items/Gems/SkillGemVampiricLink",
-    "name": "Vampiric Link",
+    "name": "Иссушающая связь",
     "primary_attribute": "dexterity",
     "required_level": 34,
     "is_support": false,
@@ -3897,7 +3897,7 @@
   },
   "Metadata/Items/Gems/SkillGemProtectiveLink": {
     "id": "Metadata/Items/Gems/SkillGemProtectiveLink",
-    "name": "Protective Link",
+    "name": "Ограждающая связь",
     "primary_attribute": "strength",
     "required_level": 34,
     "is_support": false,
@@ -3905,7 +3905,7 @@
   },
   "Metadata/Items/Gems/SkillGemIntuitiveLink": {
     "id": "Metadata/Items/Gems/SkillGemIntuitiveLink",
-    "name": "Intuitive Link",
+    "name": "Подсознательная связь",
     "primary_attribute": "dexterity",
     "required_level": 34,
     "is_support": false,
@@ -3913,7 +3913,7 @@
   },
   "Metadata/Items/Gems/SkillGemDestructiveLink": {
     "id": "Metadata/Items/Gems/SkillGemDestructiveLink",
-    "name": "Destructive Link",
+    "name": "Разрушительная связь",
     "primary_attribute": "intelligence",
     "required_level": 34,
     "is_support": false,
@@ -3921,7 +3921,7 @@
   },
   "Metadata/Items/Gems/SupportGemDivineBlessing": {
     "id": "Metadata/Items/Gems/SupportGemDivineBlessing",
-    "name": "Divine Blessing Support",
+    "name": "Божественное благословение",
     "primary_attribute": "strength",
     "required_level": 31,
     "is_support": true,
@@ -3929,7 +3929,7 @@
   },
   "Metadata/Items/Gems/SupportGemMarkOnHit": {
     "id": "Metadata/Items/Gems/SupportGemMarkOnHit",
-    "name": "Mark On Hit Support",
+    "name": "Метка при попадании",
     "primary_attribute": "dexterity",
     "required_level": 38,
     "is_support": true,
@@ -3937,7 +3937,7 @@
   },
   "Metadata/Items/Gems/SupportGemEternalBlessing": {
     "id": "Metadata/Items/Gems/SupportGemEternalBlessing",
-    "name": "Eternal Blessing Support",
+    "name": "Вечное благословение",
     "primary_attribute": "strength",
     "required_level": 38,
     "is_support": true,
@@ -3945,7 +3945,7 @@
   },
   "Metadata/Items/Gems/SupportGemOvercharge": {
     "id": "Metadata/Items/Gems/SupportGemOvercharge",
-    "name": "Overcharge Support",
+    "name": "Перегрузка",
     "primary_attribute": "intelligence",
     "required_level": 18,
     "is_support": true,
@@ -3953,7 +3953,7 @@
   },
   "Metadata/Items/Gems/SkillGemLightningConduit": {
     "id": "Metadata/Items/Gems/SkillGemLightningConduit",
-    "name": "Lightning Conduit",
+    "name": "Проводник молнии",
     "primary_attribute": "intelligence",
     "required_level": 28,
     "is_support": false,
@@ -3961,7 +3961,7 @@
   },
   "Metadata/Items/Gems/SkillGemGalvanicField": {
     "id": "Metadata/Items/Gems/SkillGemGalvanicField",
-    "name": "Galvanic Field",
+    "name": "Электризующее поле",
     "primary_attribute": "intelligence",
     "required_level": 16,
     "is_support": false,
@@ -3969,7 +3969,7 @@
   },
   "Metadata/Items/Gems/SkillGemAlchemistsMark": {
     "id": "Metadata/Items/Gems/SkillGemAlchemistsMark",
-    "name": "Alchemist's Mark",
+    "name": "Метка алхимика",
     "primary_attribute": "dexterity",
     "required_level": 24,
     "is_support": false,
@@ -3977,7 +3977,7 @@
   },
   "Metadata/Items/Gems/SkillGemVolcanicFissure": {
     "id": "Metadata/Items/Gems/SkillGemVolcanicFissure",
-    "name": "Volcanic Fissure",
+    "name": "Вулканический разлом",
     "primary_attribute": "strength",
     "required_level": 12,
     "is_support": false,
@@ -3985,7 +3985,7 @@
   },
   "Metadata/Items/Gems/SkillGemVaalVolcanicFissure": {
     "id": "Metadata/Items/Gems/SkillGemVaalVolcanicFissure",
-    "name": "Vaal Volcanic Fissure",
+    "name": "Вулканический разлом ваал",
     "primary_attribute": "strength",
     "required_level": 12,
     "is_support": false,
@@ -3993,7 +3993,7 @@
   },
   "Metadata/Items/Gems/SkillGemFrozenLegion": {
     "id": "Metadata/Items/Gems/SkillGemFrozenLegion",
-    "name": "Frozen Legion",
+    "name": "Замёрзший легион",
     "primary_attribute": "strength",
     "required_level": 34,
     "is_support": false,
@@ -4001,7 +4001,7 @@
   },
   "Metadata/Items/Gems/SkillGemVaalCleave": {
     "id": "Metadata/Items/Gems/SkillGemVaalCleave",
-    "name": "Vaal Cleave",
+    "name": "Рассечение ваал",
     "primary_attribute": "strength",
     "required_level": 1,
     "is_support": false,
@@ -4009,7 +4009,7 @@
   },
   "Metadata/Items/Gems/SkillGemVaalCausticArrow": {
     "id": "Metadata/Items/Gems/SkillGemVaalCausticArrow",
-    "name": "Vaal Caustic Arrow",
+    "name": "Едкая стрела ваал",
     "primary_attribute": "dexterity",
     "required_level": 1,
     "is_support": false,
@@ -4017,7 +4017,7 @@
   },
   "Metadata/Items/Gems/SkillGemVaalMoltenStrike": {
     "id": "Metadata/Items/Gems/SkillGemVaalMoltenStrike",
-    "name": "Vaal Molten Strike",
+    "name": "Магмовый удар ваал",
     "primary_attribute": "strength",
     "required_level": 1,
     "is_support": false,
@@ -4025,7 +4025,7 @@
   },
   "Metadata/Items/Gems/SupportGemCursedGround": {
     "id": "Metadata/Items/Gems/SupportGemCursedGround",
-    "name": "Cursed Ground Support",
+    "name": "Проклятая земля",
     "primary_attribute": "intelligence",
     "required_level": 31,
     "is_support": true,
@@ -4033,7 +4033,7 @@
   },
   "Metadata/Items/Gems/SupportGemHexBloom": {
     "id": "Metadata/Items/Gems/SupportGemHexBloom",
-    "name": "Hex Bloom Support",
+    "name": "Расцвет порчи",
     "primary_attribute": "intelligence",
     "required_level": 38,
     "is_support": true,
@@ -4041,7 +4041,7 @@
   },
   "Metadata/Items/Gems/SkillGemVaalVenomGyre": {
     "id": "Metadata/Items/Gems/SkillGemVaalVenomGyre",
-    "name": "Vaal Venom Gyre",
+    "name": "Круг яда ваал",
     "primary_attribute": "dexterity",
     "required_level": 12,
     "is_support": false,
@@ -4049,7 +4049,7 @@
   },
   "Metadata/Items/Gems/SkillGemVaalSmite": {
     "id": "Metadata/Items/Gems/SkillGemVaalSmite",
-    "name": "Vaal Smite",
+    "name": "Кара ваал",
     "primary_attribute": "strength",
     "required_level": 1,
     "is_support": false,
@@ -4057,7 +4057,7 @@
   },
   "Metadata/Items/Gems/SkillGemVaalChargedAttack": {
     "id": "Metadata/Items/Gems/SkillGemVaalChargedAttack",
-    "name": "Vaal Blade Flurry",
+    "name": "Порыв клинков ваал",
     "primary_attribute": "dexterity",
     "required_level": 28,
     "is_support": false,
@@ -4065,7 +4065,7 @@
   },
   "Metadata/Items/Gems/SkillGemVaalReap": {
     "id": "Metadata/Items/Gems/SkillGemVaalReap",
-    "name": "Vaal Reap",
+    "name": "Кровавая жатва ваал",
     "primary_attribute": "strength",
     "required_level": 28,
     "is_support": false,
@@ -4073,7 +4073,7 @@
   },
   "Metadata/Items/Gems/SkillGemVaalAnimateWeapon": {
     "id": "Metadata/Items/Gems/SkillGemVaalAnimateWeapon",
-    "name": "Vaal Animate Weapon",
+    "name": "Живое оружие ваал",
     "primary_attribute": "dexterity",
     "required_level": 4,
     "is_support": false,
@@ -4081,7 +4081,7 @@
   },
   "Metadata/Items/Gems/SkillGemVaalLightningArrow": {
     "id": "Metadata/Items/Gems/SkillGemVaalLightningArrow",
-    "name": "Vaal Lightning Arrow",
+    "name": "Стрела молнии ваал",
     "primary_attribute": "dexterity",
     "required_level": 12,
     "is_support": false,
@@ -4089,7 +4089,7 @@
   },
   "Metadata/Items/Gems/SkillGemVaalAbsolution": {
     "id": "Metadata/Items/Gems/SkillGemVaalAbsolution",
-    "name": "Vaal Absolution",
+    "name": "Отпущение ваал",
     "primary_attribute": "strength",
     "required_level": 12,
     "is_support": false,
@@ -4097,7 +4097,7 @@
   },
   "Metadata/Items/Gems/SkillGemVaalDomination": {
     "id": "Metadata/Items/Gems/SkillGemVaalDomination",
-    "name": "Vaal Domination",
+    "name": "Господство ваал",
     "primary_attribute": "strength",
     "required_level": 28,
     "is_support": false,
@@ -4105,7 +4105,7 @@
   },
   "Metadata/Items/Gems/SkillGemVaalIceShot": {
     "id": "Metadata/Items/Gems/SkillGemVaalIceShot",
-    "name": "Vaal Ice Shot",
+    "name": "Ледяной выстрел ваал",
     "primary_attribute": "dexterity",
     "required_level": 1,
     "is_support": false,
@@ -4113,7 +4113,7 @@
   },
   "Metadata/Items/Gems/SkillGemVaalFirestorm": {
     "id": "Metadata/Items/Gems/SkillGemVaalFirestorm",
-    "name": "Vaal Firestorm",
+    "name": "Огненный шторм ваал",
     "primary_attribute": "intelligence",
     "required_level": 28,
     "is_support": false,
@@ -4121,7 +4121,7 @@
   },
   "Metadata/Items/Gems/SkillGemVaalRejuvenationTotem": {
     "id": "Metadata/Items/Gems/SkillGemVaalRejuvenationTotem",
-    "name": "Vaal Rejuvenation Totem",
+    "name": "Восполняющий тотем ваал",
     "primary_attribute": "strength",
     "required_level": 4,
     "is_support": false,
@@ -4129,7 +4129,7 @@
   },
   "Metadata/Items/Gems/SupportGemManaforgedArrows": {
     "id": "Metadata/Items/Gems/SupportGemManaforgedArrows",
-    "name": "Manaforged Arrows Support",
+    "name": "Стрелы маны",
     "primary_attribute": "dexterity",
     "required_level": 8,
     "is_support": true,
@@ -4137,7 +4137,7 @@
   },
   "Metadata/Items/Gems/SupportGemPrismaticBurst": {
     "id": "Metadata/Items/Gems/SupportGemPrismaticBurst",
-    "name": "Prismatic Burst Support",
+    "name": "Радужная вспышка",
     "primary_attribute": "intelligence",
     "required_level": 1,
     "is_support": true,
@@ -4145,7 +4145,7 @@
   },
   "Metadata/Items/Gems/SkillGemChannelledSnipe": {
     "id": "Metadata/Items/Gems/SkillGemChannelledSnipe",
-    "name": "Snipe",
+    "name": "Прицельный выстрел",
     "primary_attribute": "dexterity",
     "required_level": 34,
     "is_support": false,
@@ -4153,7 +4153,7 @@
   },
   "Metadata/Items/Gems/SkillGemQuickstep": {
     "id": "Metadata/Items/Gems/SkillGemQuickstep",
-    "name": "Quickstep",
+    "name": "Отскок",
     "primary_attribute": "none",
     "required_level": 1,
     "is_support": false,
@@ -4161,7 +4161,7 @@
   },
   "Metadata/Items/Gems/SupportGemTrauma": {
     "id": "Metadata/Items/Gems/SupportGemTrauma",
-    "name": "Trauma Support",
+    "name": "Травма",
     "primary_attribute": "strength",
     "required_level": 38,
     "is_support": true,
@@ -4169,7 +4169,7 @@
   },
   "Metadata/Items/Gems/SupportGemSpellblade": {
     "id": "Metadata/Items/Gems/SupportGemSpellblade",
-    "name": "Spellblade Support",
+    "name": "Чародейский клинок",
     "primary_attribute": "intelligence",
     "required_level": 38,
     "is_support": true,
@@ -4177,7 +4177,7 @@
   },
   "Metadata/Items/Gems/SupportGemDevour": {
     "id": "Metadata/Items/Gems/SupportGemDevour",
-    "name": "Devour Support",
+    "name": "Пожирание",
     "primary_attribute": "intelligence",
     "required_level": 8,
     "is_support": true,
@@ -4185,7 +4185,7 @@
   },
   "Metadata/Items/Gems/SupportGemFreshMeat": {
     "id": "Metadata/Items/Gems/SupportGemFreshMeat",
-    "name": "Fresh Meat Support",
+    "name": "Свежее мясо",
     "primary_attribute": "intelligence",
     "required_level": 18,
     "is_support": true,
@@ -4193,7 +4193,7 @@
   },
   "Metadata/Items/Gems/SupportGemFlamewood": {
     "id": "Metadata/Items/Gems/SupportGemFlamewood",
-    "name": "Flamewood Support",
+    "name": "Лучина",
     "primary_attribute": "strength",
     "required_level": 8,
     "is_support": true,
@@ -4201,7 +4201,7 @@
   },
   "Metadata/Items/Gems/SupportGemCorruptingCry": {
     "id": "Metadata/Items/Gems/SupportGemCorruptingCry",
-    "name": "Corrupting Cry Support",
+    "name": "Оскверняющий клич",
     "primary_attribute": "strength",
     "required_level": 31,
     "is_support": true,
@@ -4209,7 +4209,7 @@
   },
   "Metadata/Items/Gems/SupportGemGuardiansBlessing": {
     "id": "Metadata/Items/Gems/SupportGemGuardiansBlessing",
-    "name": "Guardian's Blessing Support",
+    "name": "Благословение защитника",
     "primary_attribute": "strength",
     "required_level": 31,
     "is_support": true,
@@ -4217,7 +4217,7 @@
   },
   "Metadata/Items/Gems/SupportGemSacrifice": {
     "id": "Metadata/Items/Gems/SupportGemSacrifice",
-    "name": "Sacrifice Support",
+    "name": "Жертвоприношение",
     "primary_attribute": "intelligence",
     "required_level": 31,
     "is_support": true,
@@ -4225,7 +4225,7 @@
   },
   "Metadata/Items/Gems/SupportGemFrigidBond": {
     "id": "Metadata/Items/Gems/SupportGemFrigidBond",
-    "name": "Frigid Bond Support",
+    "name": "Морозные узы",
     "primary_attribute": "intelligence",
     "required_level": 38,
     "is_support": true,
@@ -4233,7 +4233,7 @@
   },
   "Metadata/Items/Gems/SupportGemLocusMine": {
     "id": "Metadata/Items/Gems/SupportGemLocusMine",
-    "name": "Locus Mine Support",
+    "name": "Направленная мина",
     "primary_attribute": "dexterity",
     "required_level": 8,
     "is_support": true,
@@ -4241,7 +4241,7 @@
   },
   "Metadata/Items/Gems/SupportGemSadism": {
     "id": "Metadata/Items/Gems/SupportGemSadism",
-    "name": "Sadism Support",
+    "name": "Садизм",
     "primary_attribute": "dexterity",
     "required_level": 18,
     "is_support": true,
@@ -4249,7 +4249,7 @@
   },
   "Metadata/Items/Gems/SupportGemControlledBlaze": {
     "id": "Metadata/Items/Gems/SupportGemControlledBlaze",
-    "name": "Controlled Blaze Support",
+    "name": "Управляемое горение",
     "primary_attribute": "strength",
     "required_level": 31,
     "is_support": true,
@@ -4257,7 +4257,7 @@
   },
   "Metadata/Items/Gems/SupportGemVolatility": {
     "id": "Metadata/Items/Gems/SupportGemVolatility",
-    "name": "Volatility Support",
+    "name": "Нестабильность",
     "primary_attribute": "strength",
     "required_level": 18,
     "is_support": true,

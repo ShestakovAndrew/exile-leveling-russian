@@ -1,30 +1,23 @@
 {
-  "Marauder": {
-    "start_gem_id": "Metadata/Items/Gems/SkillGemHeavyStrike",
-    "chest_gem_id": "Metadata/Items/Gems/SupportGemRuthless"
+  "Дикарь": {
+    "start_gem_id": "Metadata/Items/Gems/SkillGemHeavyStrike"
   },
-  "Witch": {
-    "start_gem_id": "Metadata/Items/Gems/SkillGemFireball",
-    "chest_gem_id": "Metadata/Items/Gems/SupportGemArcaneSurge"
+  "Ведьма": {
+    "start_gem_id": "Metadata/Items/Gems/SkillGemFireball"
   },
-  "Scion": {
-    "start_gem_id": "Metadata/Items/Gems/SkillGemThrownWeapon",
-    "chest_gem_id": "Metadata/Items/Gems/SupportGemPrismaticBurst"
+  "Дворянка": {
+    "start_gem_id": "Metadata/Items/Gems/SkillGemThrownWeapon"
   },
-  "Ranger": {
-    "start_gem_id": "Metadata/Items/Gems/SkillGemBurningArrow",
-    "chest_gem_id": "Metadata/Items/Gems/SupportGemOnslaught"
+  "Охотница": {
+    "start_gem_id": "Metadata/Items/Gems/SkillGemBurningArrow"
   },
-  "Duelist": {
-    "start_gem_id": "Metadata/Items/Gems/SkillGemDoubleStrike",
-    "chest_gem_id": "Metadata/Items/Gems/SupportGemChanceToBleed"
+  "Дуэлянт": {
+    "start_gem_id": "Metadata/Items/Gems/SkillGemDoubleStrike"
   },
-  "Shadow": {
-    "start_gem_id": "Metadata/Items/Gems/SkillGemViperStrike",
-    "chest_gem_id": "Metadata/Items/Gems/SupportGemLesserPoison"
+  "Бандит": {
+    "start_gem_id": "Metadata/Items/Gems/SkillGemViperStrike"
   },
-  "Templar": {
-    "start_gem_id": "Metadata/Items/Gems/SkillGemGlacialHammer",
-    "chest_gem_id": "Metadata/Items/Gems/SupportGemElementalProliferation"
+  "Жрец": {
+    "start_gem_id": "Metadata/Items/Gems/SkillGemGlacialHammer"
   }
 }
