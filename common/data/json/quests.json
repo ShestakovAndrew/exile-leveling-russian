@@ -9,133 +9,133 @@
         "quest": {
           "Metadata/Items/Gems/SkillGemFreezingPulse": {
             "classes": [
-              "Ведьма",
-              "Бандит"
+              "Witch",
+              "Shadow"
             ]
           },
           "Metadata/Items/Gems/SkillGemMagmaOrb": {
             "classes": [
-              "Ведьма",
-              "Жрец"
+              "Witch",
+              "Templar"
             ]
           },
           "Metadata/Items/Gems/SkillGemLightningTendrils": {
             "classes": [
-              "Ведьма",
-              "Жрец",
-              "Дворянка"
+              "Witch",
+              "Templar",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SkillGemRaiseZombie": {
             "classes": [
-              "Ведьма"
+              "Witch"
             ]
           },
           "Metadata/Items/Gems/SkillGemBlight": {
             "classes": [
-              "Ведьма",
-              "Бандит"
+              "Witch",
+              "Shadow"
             ]
           },
           "Metadata/Items/Gems/SkillGemKineticBolt": {
             "classes": [
-              "Ведьма"
+              "Witch"
             ]
           },
           "Metadata/Items/Gems/SkillGemSmite": {
             "classes": [
-              "Жрец"
+              "Templar"
             ]
           },
           "Metadata/Items/Gems/SkillGemFrostBolt": {
             "classes": [
-              "Жрец"
+              "Templar"
             ]
           },
           "Metadata/Items/Gems/SkillGemMoltenStrike": {
             "classes": [
-              "Жрец",
-              "Дикарь",
-              "Дуэлянт",
-              "Дворянка"
+              "Templar",
+              "Marauder",
+              "Duelist",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SkillGemSanctify": {
             "classes": [
-              "Жрец"
+              "Templar"
             ]
           },
           "Metadata/Items/Gems/SkillGemGroundSlam": {
             "classes": [
-              "Дикарь"
+              "Marauder"
             ]
           },
           "Metadata/Items/Gems/SkillGemShieldCrush": {
             "classes": [
-              "Дикарь"
+              "Marauder"
             ]
           },
           "Metadata/Items/Gems/SkillGemCleave": {
             "classes": [
-              "Дуэлянт"
+              "Duelist"
             ]
           },
           "Metadata/Items/Gems/SkillGemShrapnelShot": {
             "classes": [
-              "Дуэлянт",
-              "Охотница"
+              "Duelist",
+              "Ranger"
             ]
           },
           "Metadata/Items/Gems/SkillGemPerforate": {
             "classes": [
-              "Дуэлянт"
+              "Duelist"
             ]
           },
           "Metadata/Items/Gems/SkillGemSplittingSteel": {
             "classes": [
-              "Дуэлянт",
-              "Дворянка"
+              "Duelist",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SkillGemSplitArrow": {
             "classes": [
-              "Охотница",
-              "Дворянка"
+              "Ranger",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SkillGemIceShot": {
             "classes": [
-              "Охотница"
+              "Ranger"
             ]
           },
           "Metadata/Items/Gems/SkillGemFrostBlades": {
             "classes": [
-              "Охотница"
+              "Ranger"
             ]
           },
           "Metadata/Items/Gems/SkillGemPoisonArrow": {
             "classes": [
-              "Охотница"
+              "Ranger"
             ]
           },
           "Metadata/Items/Gems/SkillGemShrapnelTrap": {
             "classes": [
-              "Бандит"
+              "Shadow"
             ]
           },
           "Metadata/Items/Gems/SkillGemStormblastMine": {
             "classes": [
-              "Бандит"
+              "Shadow"
             ]
           },
           "Metadata/Items/Gems/SkillGemEtherealKnives": {
             "classes": [
-              "Бандит"
+              "Shadow"
             ]
           },
           "Metadata/Items/Gems/SkillGemCobraLash": {
             "classes": [
-              "Бандит"
+              "Shadow"
             ]
           }
         },
@@ -640,101 +640,101 @@
         "quest": {
           "Metadata/Items/Gems/SupportGemElementalProliferation": {
             "classes": [
-              "Ведьма",
-              "Бандит",
-              "Дворянка"
+              "Witch",
+              "Shadow",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SupportGemSpellCascade": {
             "classes": [
-              "Ведьма",
-              "Жрец",
-              "Бандит",
-              "Дворянка"
+              "Witch",
+              "Templar",
+              "Shadow",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SupportGemStormBarrier": {
             "classes": [
-              "Ведьма",
-              "Жрец",
-              "Бандит"
+              "Witch",
+              "Templar",
+              "Shadow"
             ]
           },
           "Metadata/Items/Gems/SupportGemLesserPoison": {
             "classes": [
-              "Ведьма",
-              "Дуэлянт",
-              "Охотница",
-              "Дворянка"
+              "Witch",
+              "Duelist",
+              "Ranger",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SupportGemSummonGhostOnKill": {
             "classes": [
-              "Ведьма",
-              "Дворянка"
+              "Witch",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SupportGemArcaneSurge": {
             "classes": [
-              "Жрец",
-              "Дворянка"
+              "Templar",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SupportGemRuthless": {
             "classes": [
-              "Жрец",
-              "Дуэлянт",
-              "Дворянка"
+              "Templar",
+              "Duelist",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SupportGemChanceToBleed": {
             "classes": [
-              "Жрец",
-              "Дикарь",
-              "Дворянка"
+              "Templar",
+              "Marauder",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SupportGemSpiritStrike": {
             "classes": [
-              "Жрец",
-              "Дикарь",
-              "Дуэлянт",
-              "Дворянка"
+              "Templar",
+              "Marauder",
+              "Duelist",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SupportGemOnslaught": {
             "classes": [
-              "Дикарь",
-              "Дуэлянт",
-              "Бандит",
-              "Дворянка"
+              "Marauder",
+              "Duelist",
+              "Shadow",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SupportGemPierce": {
             "classes": [
-              "Дуэлянт",
-              "Охотница",
-              "Бандит",
-              "Дворянка"
+              "Duelist",
+              "Ranger",
+              "Shadow",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SupportGemParallelProjectiles": {
             "classes": [
-              "Дуэлянт",
-              "Охотница",
-              "Бандит",
-              "Дворянка"
+              "Duelist",
+              "Ranger",
+              "Shadow",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SupportGemMirageArcher": {
             "classes": [
-              "Дуэлянт",
-              "Охотница"
+              "Duelist",
+              "Ranger"
             ]
           },
           "Metadata/Items/Gems/SupportGemSwiftAssembly": {
             "classes": [
-              "Бандит"
+              "Shadow"
             ]
           }
         },
@@ -752,115 +752,115 @@
         "quest": {
           "Metadata/Items/Gems/SkillGemFrostBomb": {
             "classes": [
-              "Ведьма",
-              "Жрец",
-              "Дворянка"
+              "Witch",
+              "Templar",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SkillGemOrbOfStorms": {
             "classes": [
-              "Ведьма",
-              "Бандит"
+              "Witch",
+              "Shadow"
             ]
           },
           "Metadata/Items/Gems/SkillGemSummonRagingSpirit": {
             "classes": [
-              "Ведьма"
+              "Witch"
             ]
           },
           "Metadata/Items/Gems/SkillGemContagion": {
             "classes": [
-              "Ведьма",
-              "Бандит"
+              "Witch",
+              "Shadow"
             ]
           },
           "Metadata/Items/Gems/SkillGemDetonateDead": {
             "classes": [
-              "Ведьма",
-              "Бандит"
+              "Witch",
+              "Shadow"
             ]
           },
           "Metadata/Items/Gems/SkillGemFlameWall": {
             "classes": [
-              "Ведьма",
-              "Жрец"
+              "Witch",
+              "Templar"
             ]
           },
           "Metadata/Items/Gems/SkillGemSummonRelic": {
             "classes": [
-              "Жрец"
+              "Templar"
             ]
           },
           "Metadata/Items/Gems/SkillGemFlameTotem": {
             "classes": [
-              "Жрец"
+              "Templar"
             ]
           },
           "Metadata/Items/Gems/SkillGemMeleeTotem": {
             "classes": [
-              "Жрец",
-              "Дикарь",
-              "Дуэлянт"
+              "Templar",
+              "Marauder",
+              "Duelist"
             ]
           },
           "Metadata/Items/Gems/SkillGemVigilantStrike": {
             "classes": [
-              "Жрец",
-              "Дикарь",
-              "Дуэлянт",
-              "Дворянка"
+              "Templar",
+              "Marauder",
+              "Duelist",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SkillGemDecoyTotem": {
             "classes": [
-              "Дикарь",
-              "Дуэлянт",
-              "Дворянка"
+              "Marauder",
+              "Duelist",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SkillGemMoltenShell": {
             "classes": [
-              "Дикарь"
+              "Marauder"
             ]
           },
           "Metadata/Items/Gems/SkillGemProjectileWeakness": {
             "classes": [
-              "Дуэлянт",
-              "Охотница"
+              "Duelist",
+              "Ranger"
             ]
           },
           "Metadata/Items/Gems/SkillGemPuncture": {
             "classes": [
-              "Дуэлянт",
-              "Охотница"
+              "Duelist",
+              "Ranger"
             ]
           },
           "Metadata/Items/Gems/SkillGemWarBanner": {
             "classes": [
-              "Дуэлянт"
+              "Duelist"
             ]
           },
           "Metadata/Items/Gems/SkillGemBloodAndSand": {
             "classes": [
-              "Дуэлянт"
+              "Duelist"
             ]
           },
           "Metadata/Items/Gems/SkillGemBearTrap": {
             "classes": [
-              "Охотница",
-              "Бандит",
-              "Дворянка"
+              "Ranger",
+              "Shadow",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SkillGemRiposte": {
             "classes": [
-              "Охотница",
-              "Бандит"
+              "Ranger",
+              "Shadow"
             ]
           },
           "Metadata/Items/Gems/SkillGemShrapnelBallista": {
             "classes": [
-              "Охотница"
+              "Ranger"
             ]
           }
         },
@@ -1094,26 +1094,26 @@
         "quest": {
           "Metadata/Items/Gems/SkillGemFrostblink": {
             "classes": [
-              "Ведьма",
-              "Жрец",
-              "Бандит",
-              "Дворянка"
+              "Witch",
+              "Templar",
+              "Shadow",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SkillGemSteelskin": {
             "classes": [
-              "Жрец",
-              "Дикарь",
-              "Дуэлянт",
-              "Дворянка"
+              "Templar",
+              "Marauder",
+              "Duelist",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SkillGemDash": {
             "classes": [
-              "Дуэлянт",
-              "Охотница",
-              "Бандит",
-              "Дворянка"
+              "Duelist",
+              "Ranger",
+              "Shadow",
+              "Scion"
             ]
           }
         },
@@ -1176,168 +1176,168 @@
         "quest": {
           "Metadata/Items/Gems/SupportGemAddedLightningDamage": {
             "classes": [
-              "Ведьма",
-              "Жрец",
-              "Бандит",
-              "Дворянка"
+              "Witch",
+              "Templar",
+              "Shadow",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SupportGemMinionDamage": {
             "classes": [
-              "Ведьма"
+              "Witch"
             ]
           },
           "Metadata/Items/Gems/SupportGemVoidManipulation": {
             "classes": [
-              "Ведьма",
-              "Охотница",
-              "Бандит"
+              "Witch",
+              "Ranger",
+              "Shadow"
             ]
           },
           "Metadata/Items/Gems/SupportGemUnboundAilments": {
             "classes": [
-              "Ведьма",
-              "Дворянка"
+              "Witch",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SupportGemChanceToIgnite": {
             "classes": [
-              "Ведьма",
-              "Жрец"
+              "Witch",
+              "Templar"
             ]
           },
           "Metadata/Items/Gems/SupportGemInfernalLegion": {
             "classes": [
-              "Ведьма"
+              "Witch"
             ]
           },
           "Metadata/Items/Gems/SupportGemEfficacy": {
             "classes": [
-              "Ведьма"
+              "Witch"
             ]
           },
           "Metadata/Items/Gems/SupportGemDevour": {
             "classes": [
-              "Ведьма"
+              "Witch"
             ]
           },
           "Metadata/Items/Gems/SupportGemAddedFireDamage": {
             "classes": [
-              "Жрец",
-              "Дикарь",
-              "Дуэлянт",
-              "Дворянка"
+              "Templar",
+              "Marauder",
+              "Duelist",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SupportGemMeleeSplash": {
             "classes": [
-              "Жрец",
-              "Дикарь",
-              "Дуэлянт",
-              "Охотница",
-              "Дворянка"
+              "Templar",
+              "Marauder",
+              "Duelist",
+              "Ranger",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SupportGemLifetap": {
             "classes": [
-              "Жрец",
-              "Дикарь",
-              "Дуэлянт",
-              "Дворянка"
+              "Templar",
+              "Marauder",
+              "Duelist",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SupportGemFasterAttack": {
             "classes": [
-              "Дикарь",
-              "Дуэлянт",
-              "Охотница",
-              "Бандит",
-              "Дворянка"
+              "Marauder",
+              "Duelist",
+              "Ranger",
+              "Shadow",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SupportGemFlamewood": {
             "classes": [
-              "Дикарь"
+              "Marauder"
             ]
           },
           "Metadata/Items/Gems/SupportGemLesserMultipleProjectiles": {
             "classes": [
-              "Дуэлянт",
-              "Охотница",
-              "Бандит",
-              "Дворянка"
+              "Duelist",
+              "Ranger",
+              "Shadow",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SupportGemMaim": {
             "classes": [
-              "Дуэлянт"
+              "Duelist"
             ]
           },
           "Metadata/Items/Gems/SupportGemAddedColdDamage": {
             "classes": [
-              "Охотница",
-              "Бандит",
-              "Дворянка"
+              "Ranger",
+              "Shadow",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SupportGemArrowNova": {
             "classes": [
-              "Охотница"
+              "Ranger"
             ]
           },
           "Metadata/Items/Gems/SupportGemManaforgedArrows": {
             "classes": [
-              "Охотница"
+              "Ranger"
             ]
           },
           "Metadata/Items/Gems/SupportGemMultiTrap": {
             "classes": [
-              "Бандит"
+              "Shadow"
             ]
           },
           "Metadata/Items/Armours/BodyArmours/BodyStr1": {
             "classes": [
-              "Дикарь",
-              "Дуэлянт",
-              "Жрец",
-              "Дворянка"
+              "Marauder",
+              "Duelist",
+              "Templar",
+              "Scion"
             ]
           },
           "Metadata/Items/Armours/BodyArmours/BodyStrDex1": {
             "classes": [
-              "Дикарь",
-              "Дуэлянт",
-              "Охотница"
+              "Marauder",
+              "Duelist",
+              "Ranger"
             ]
           },
           "Metadata/Items/Armours/BodyArmours/BodyStrInt1": {
             "classes": [
-              "Дикарь",
-              "Ведьма",
-              "Жрец"
+              "Marauder",
+              "Witch",
+              "Templar"
             ]
           },
           "Metadata/Items/Armours/BodyArmours/BodyDex1": {
             "classes": [
-              "Дуэлянт",
-              "Охотница",
-              "Бандит",
-              "Дворянка"
+              "Duelist",
+              "Ranger",
+              "Shadow",
+              "Scion"
             ]
           },
           "Metadata/Items/Armours/BodyArmours/BodyDexInt1": {
             "classes": [
-              "Охотница",
-              "Бандит",
-              "Ведьма"
+              "Ranger",
+              "Shadow",
+              "Witch"
             ]
           },
           "Metadata/Items/Armours/BodyArmours/BodyInt1": {
             "classes": [
-              "Бандит",
-              "Ведьма",
-              "Жрец",
-              "Дворянка"
+              "Shadow",
+              "Witch",
+              "Templar",
+              "Scion"
             ]
           }
         },
@@ -1638,120 +1638,120 @@
         "quest": {
           "Metadata/Items/Gems/SkillGemClarity": {
             "classes": [
-              "Ведьма",
-              "Жрец",
-              "Бандит",
-              "Дворянка"
+              "Witch",
+              "Templar",
+              "Shadow",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SkillGemSummonSkeletons": {
             "classes": [
-              "Ведьма"
+              "Witch"
             ]
           },
           "Metadata/Items/Gems/SkillGemLightningWarp": {
             "classes": [
-              "Ведьма"
+              "Witch"
             ]
           },
           "Metadata/Items/Gems/SkillGemFlameDash": {
             "classes": [
-              "Ведьма",
-              "Жрец",
-              "Бандит",
-              "Дворянка"
+              "Witch",
+              "Templar",
+              "Shadow",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SkillGemWither": {
             "classes": [
-              "Ведьма"
+              "Witch"
             ]
           },
           "Metadata/Items/Gems/SkillGemCorpseWarp": {
             "classes": [
-              "Ведьма"
+              "Witch"
             ]
           },
           "Metadata/Items/Gems/SkillGemVitality": {
             "classes": [
-              "Жрец",
-              "Дикарь",
-              "Дуэлянт",
-              "Дворянка"
+              "Templar",
+              "Marauder",
+              "Duelist",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SkillGemLeapSlam": {
             "classes": [
-              "Жрец",
-              "Дикарь",
-              "Дуэлянт",
-              "Дворянка"
+              "Templar",
+              "Marauder",
+              "Duelist",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SkillGemShieldCharge": {
             "classes": [
-              "Дикарь"
+              "Marauder"
             ]
           },
           "Metadata/Items/Gems/SkillGemEnduringCry": {
             "classes": [
-              "Дикарь",
-              "Дуэлянт"
+              "Marauder",
+              "Duelist"
             ]
           },
           "Metadata/Items/Gems/SkillGemIntimidatingCry": {
             "classes": [
-              "Дикарь",
-              "Дуэлянт"
+              "Marauder",
+              "Duelist"
             ]
           },
           "Metadata/Items/Gems/SkillGemBlinkArrow": {
             "classes": [
-              "Дуэлянт",
-              "Охотница",
-              "Дворянка"
+              "Duelist",
+              "Ranger",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SkillGemWhirlingBlades": {
             "classes": [
-              "Дуэлянт",
-              "Охотница",
-              "Бандит"
+              "Duelist",
+              "Ranger",
+              "Shadow"
             ]
           },
           "Metadata/Items/Gems/SkillGemPrecision": {
             "classes": [
-              "Дуэлянт",
-              "Охотница",
-              "Бандит",
-              "Дворянка"
+              "Duelist",
+              "Ranger",
+              "Shadow",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SkillGemSmokeMine": {
             "classes": [
-              "Охотница",
-              "Бандит"
+              "Ranger",
+              "Shadow"
             ]
           },
           "Metadata/Items/Gems/SkillGemMirrorArrow": {
             "classes": [
-              "Охотница"
+              "Ranger"
             ]
           },
           "Metadata/Items/Gems/SkillGemWitheringStep": {
             "classes": [
-              "Бандит",
-              "Дворянка"
+              "Shadow",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SkillGemBoneLance": {
             "classes": [
-              "Бандит"
+              "Shadow"
             ]
           },
           "Metadata/Items/Gems/SkillGemIceSiphonTrap": {
             "classes": [
-              "Бандит"
+              "Shadow"
             ]
           }
         },
@@ -1944,219 +1944,219 @@
         "quest": {
           "Metadata/Items/Gems/SkillGemIceNova": {
             "classes": [
-              "Ведьма",
-              "Жрец",
-              "Дворянка"
+              "Witch",
+              "Templar",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SkillGemBlazingSalvo": {
             "classes": [
-              "Ведьма",
-              "Жрец"
+              "Witch",
+              "Templar"
             ]
           },
           "Metadata/Items/Gems/SkillGemArc": {
             "classes": [
-              "Ведьма"
+              "Witch"
             ]
           },
           "Metadata/Items/Gems/SkillGemFleshOffering": {
             "classes": [
-              "Ведьма"
+              "Witch"
             ]
           },
           "Metadata/Items/Gems/SkillGemEssenceDrain": {
             "classes": [
-              "Ведьма",
-              "Бандит"
+              "Witch",
+              "Shadow"
             ]
           },
           "Metadata/Items/Gems/SkillGemFireBeam": {
             "classes": [
-              "Ведьма",
-              "Жрец",
-              "Дворянка"
+              "Witch",
+              "Templar",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SkillGemVolatileDead": {
             "classes": [
-              "Ведьма",
-              "Бандит"
+              "Witch",
+              "Shadow"
             ]
           },
           "Metadata/Items/Gems/SkillGemArcticBreath": {
             "classes": [
-              "Ведьма"
+              "Witch"
             ]
           },
           "Metadata/Items/Gems/SkillGemManabond": {
             "classes": [
-              "Ведьма",
-              "Жрец"
+              "Witch",
+              "Templar"
             ]
           },
           "Metadata/Items/Gems/SkillGemStaticStrike": {
             "classes": [
-              "Жрец",
-              "Дикарь",
-              "Дворянка"
+              "Templar",
+              "Marauder",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SkillGemStormCall": {
             "classes": [
-              "Жрец"
+              "Templar"
             ]
           },
           "Metadata/Items/Gems/SkillGemSearingBond": {
             "classes": [
-              "Жрец"
+              "Templar"
             ]
           },
           "Metadata/Items/Gems/SkillGemStormBrand": {
             "classes": [
-              "Жрец"
+              "Templar"
             ]
           },
           "Metadata/Items/Gems/SkillGemStormBurst": {
             "classes": [
-              "Жрец",
-              "Дворянка"
+              "Templar",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SkillGemWintertideBrand": {
             "classes": [
-              "Жрец"
+              "Templar"
             ]
           },
           "Metadata/Items/Gems/SkillGemAbsolution": {
             "classes": [
-              "Жрец"
+              "Templar"
             ]
           },
           "Metadata/Items/Gems/SkillGemInfernalBlow": {
             "classes": [
-              "Дикарь"
+              "Marauder"
             ]
           },
           "Metadata/Items/Gems/SkillGemSweep": {
             "classes": [
-              "Дикарь",
-              "Дуэлянт"
+              "Marauder",
+              "Duelist"
             ]
           },
           "Metadata/Items/Gems/SkillGemSunder": {
             "classes": [
-              "Дикарь"
+              "Marauder"
             ]
           },
           "Metadata/Items/Gems/SkillGemChainHook": {
             "classes": [
-              "Дикарь"
+              "Marauder"
             ]
           },
           "Metadata/Items/Gems/SkillGemEarthshatter": {
             "classes": [
-              "Дикарь",
-              "Дуэлянт"
+              "Marauder",
+              "Duelist"
             ]
           },
           "Metadata/Items/Gems/SkillGemVolcanicFissure": {
             "classes": [
-              "Дикарь"
+              "Marauder"
             ]
           },
           "Metadata/Items/Gems/SkillGemLacerate": {
             "classes": [
-              "Дуэлянт"
+              "Duelist"
             ]
           },
           "Metadata/Items/Gems/SkillGemRainOfArrows": {
             "classes": [
-              "Дуэлянт",
-              "Охотница",
-              "Дворянка"
+              "Duelist",
+              "Ranger",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SkillGemShatteringSteel": {
             "classes": [
-              "Дуэлянт"
+              "Duelist"
             ]
           },
           "Metadata/Items/Gems/SkillGemToxicRain": {
             "classes": [
-              "Охотница"
+              "Ranger"
             ]
           },
           "Metadata/Items/Gems/SkillGemLightningArrow": {
             "classes": [
-              "Охотница"
+              "Ranger"
             ]
           },
           "Metadata/Items/Gems/SkillGemReave": {
             "classes": [
-              "Охотница",
-              "Бандит"
+              "Ranger",
+              "Shadow"
             ]
           },
           "Metadata/Items/Gems/SkillGemLightningStrike": {
             "classes": [
-              "Охотница"
+              "Ranger"
             ]
           },
           "Metadata/Items/Gems/SkillGemSiegeBallista": {
             "classes": [
-              "Охотница"
+              "Ranger"
             ]
           },
           "Metadata/Items/Gems/SkillGemElementalHit": {
             "classes": [
-              "Охотница"
+              "Ranger"
             ]
           },
           "Metadata/Items/Gems/SkillGemPoisonousConcoction": {
             "classes": [
-              "Охотница"
+              "Ranger"
             ]
           },
           "Metadata/Items/Gems/SkillGemVoltaxicBurst": {
             "classes": [
-              "Бандит"
+              "Shadow"
             ]
           },
           "Metadata/Items/Gems/SkillGemFreezeMine": {
             "classes": [
-              "Бандит"
+              "Shadow"
             ]
           },
           "Metadata/Items/Gems/SkillGemLightningTrap": {
             "classes": [
-              "Бандит"
+              "Shadow"
             ]
           },
           "Metadata/Items/Gems/SkillGemFireTrap": {
             "classes": [
-              "Бандит"
+              "Shadow"
             ]
           },
           "Metadata/Items/Gems/SkillGemBladeVortex": {
             "classes": [
-              "Бандит",
-              "Дворянка"
+              "Shadow",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SkillGemVenomGyre": {
             "classes": [
-              "Бандит"
+              "Shadow"
             ]
           },
           "Metadata/Items/Gems/SkillGemExsanguinate": {
             "classes": [
-              "Дворянка"
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SkillGemSpectralHelix": {
             "classes": [
-              "Дворянка"
+              "Scion"
             ]
           }
         },
@@ -2630,162 +2630,162 @@
         "quest": {
           "Metadata/Items/Gems/SkillGemHeraldOfAsh": {
             "classes": [
-              "Ведьма",
-              "Жрец",
-              "Дикарь",
-              "Дуэлянт",
-              "Охотница",
-              "Бандит",
-              "Дворянка"
+              "Witch",
+              "Templar",
+              "Marauder",
+              "Duelist",
+              "Ranger",
+              "Shadow",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SkillGemHeraldOfThunder": {
             "classes": [
-              "Ведьма",
-              "Жрец",
-              "Дикарь",
-              "Дуэлянт",
-              "Охотница",
-              "Бандит",
-              "Дворянка"
+              "Witch",
+              "Templar",
+              "Marauder",
+              "Duelist",
+              "Ranger",
+              "Shadow",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SkillGemHeraldOfIce": {
             "classes": [
-              "Ведьма",
-              "Жрец",
-              "Дикарь",
-              "Дуэлянт",
-              "Охотница",
-              "Бандит",
-              "Дворянка"
+              "Witch",
+              "Templar",
+              "Marauder",
+              "Duelist",
+              "Ranger",
+              "Shadow",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SkillGemDesecrate": {
             "classes": [
-              "Ведьма"
+              "Witch"
             ]
           },
           "Metadata/Items/Gems/SkillGemArcticArmour": {
             "classes": [
-              "Ведьма",
-              "Охотница",
-              "Бандит",
-              "Дворянка"
+              "Witch",
+              "Ranger",
+              "Shadow",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SkillGemColdSnap": {
             "classes": [
-              "Ведьма",
-              "Бандит"
+              "Witch",
+              "Shadow"
             ]
           },
           "Metadata/Items/Gems/SkillGemArcaneCloak": {
             "classes": [
-              "Ведьма",
-              "Жрец",
-              "Бандит"
+              "Witch",
+              "Templar",
+              "Shadow"
             ]
           },
           "Metadata/Items/Gems/SkillGemGalvanicField": {
             "classes": [
-              "Ведьма"
+              "Witch"
             ]
           },
           "Metadata/Items/Gems/SkillGemHeraldOfPurity": {
             "classes": [
-              "Жрец"
+              "Templar"
             ]
           },
           "Metadata/Items/Gems/SkillGemRecallBrands": {
             "classes": [
-              "Жрец"
+              "Templar"
             ]
           },
           "Metadata/Items/Gems/SkillGemPurge": {
             "classes": [
-              "Жрец"
+              "Templar"
             ]
           },
           "Metadata/Items/Gems/SkillGemWarlordsMark": {
             "classes": [
-              "Дикарь",
-              "Дуэлянт"
+              "Marauder",
+              "Duelist"
             ]
           },
           "Metadata/Items/Gems/SkillGemAncestralCry": {
             "classes": [
-              "Дикарь",
-              "Дуэлянт"
+              "Marauder",
+              "Duelist"
             ]
           },
           "Metadata/Items/Gems/SkillGemSeismicCry": {
             "classes": [
-              "Дикарь",
-              "Дуэлянт"
+              "Marauder",
+              "Duelist"
             ]
           },
           "Metadata/Items/Gems/SkillGemCorruptingFever": {
             "classes": [
-              "Дикарь",
-              "Дуэлянт",
-              "Дворянка"
+              "Marauder",
+              "Duelist",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SkillGemPoachersMark": {
             "classes": [
-              "Дуэлянт",
-              "Охотница"
+              "Duelist",
+              "Ranger"
             ]
           },
           "Metadata/Items/Gems/SkillGemFrenzy": {
             "classes": [
-              "Дуэлянт",
-              "Охотница",
-              "Дворянка"
+              "Duelist",
+              "Ranger",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SkillGemFleshAndStone": {
             "classes": [
-              "Дуэлянт"
+              "Duelist"
             ]
           },
           "Metadata/Items/Gems/SkillGemBloodRage": {
             "classes": [
-              "Дуэлянт",
-              "Охотница",
-              "Бандит"
+              "Duelist",
+              "Ranger",
+              "Shadow"
             ]
           },
           "Metadata/Items/Gems/SkillGemDefianceBanner": {
             "classes": [
-              "Дуэлянт"
+              "Duelist"
             ]
           },
           "Metadata/Items/Gems/SkillGemHeraldOfAgony": {
             "classes": [
-              "Охотница",
-              "Бандит"
+              "Ranger",
+              "Shadow"
             ]
           },
           "Metadata/Items/Gems/SkillGemEnsnaringArrow": {
             "classes": [
-              "Охотница"
+              "Ranger"
             ]
           },
           "Metadata/Items/Gems/SkillGemCriticalWeakness": {
             "classes": [
-              "Бандит"
+              "Shadow"
             ]
           },
           "Metadata/Items/Gems/SkillGemBladeBlast": {
             "classes": [
-              "Бандит"
+              "Shadow"
             ]
           },
           "Metadata/Items/Gems/SkillGemSummonSkitterbots": {
             "classes": [
-              "Бандит"
+              "Shadow"
             ]
           }
         },
@@ -3085,137 +3085,137 @@
         "quest": {
           "Metadata/Items/Gems/SupportGemFasterCast": {
             "classes": [
-              "Ведьма",
-              "Жрец",
-              "Бандит",
-              "Дворянка"
+              "Witch",
+              "Templar",
+              "Shadow",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SupportGemMinionSpeed": {
             "classes": [
-              "Ведьма"
+              "Witch"
             ]
           },
           "Metadata/Items/Gems/SupportGemConcentratedEffect": {
             "classes": [
-              "Ведьма",
-              "Жрец",
-              "Дворянка"
+              "Witch",
+              "Templar",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SupportGemControlledDestruction": {
             "classes": [
-              "Ведьма",
-              "Жрец"
+              "Witch",
+              "Templar"
             ]
           },
           "Metadata/Items/Gems/SupportGemElementalFocus": {
             "classes": [
-              "Ведьма",
-              "Жрец",
-              "Бандит"
+              "Witch",
+              "Templar",
+              "Shadow"
             ]
           },
           "Metadata/Items/Gems/SupportGemDeathmark": {
             "classes": [
-              "Ведьма"
+              "Witch"
             ]
           },
           "Metadata/Items/Gems/SupportGemTrinity": {
             "classes": [
-              "Ведьма",
-              "Охотница",
-              "Бандит"
+              "Witch",
+              "Ranger",
+              "Shadow"
             ]
           },
           "Metadata/Items/Gems/SupportGemCruelty": {
             "classes": [
-              "Ведьма",
-              "Жрец",
-              "Дикарь",
-              "Дуэлянт",
-              "Дворянка"
+              "Witch",
+              "Templar",
+              "Marauder",
+              "Duelist",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SupportGemOvercharge": {
             "classes": [
-              "Ведьма"
+              "Witch"
             ]
           },
           "Metadata/Items/Gems/SupportGemFreshMeat": {
             "classes": [
-              "Ведьма"
+              "Witch"
             ]
           },
           "Metadata/Items/Gems/SupportGemWeaponElementalDamage": {
             "classes": [
-              "Жрец",
-              "Дикарь",
-              "Дуэлянт",
-              "Охотница",
-              "Дворянка"
+              "Templar",
+              "Marauder",
+              "Duelist",
+              "Ranger",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SupportGemMeleePhysicalDamage": {
             "classes": [
-              "Жрец",
-              "Дикарь",
-              "Дуэлянт",
-              "Бандит",
-              "Дворянка"
+              "Templar",
+              "Marauder",
+              "Duelist",
+              "Shadow",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SupportGemShockwave": {
             "classes": [
-              "Жрец",
-              "Дикарь"
+              "Templar",
+              "Marauder"
             ]
           },
           "Metadata/Items/Gems/SupportGemCloseCombat": {
             "classes": [
-              "Дикарь",
-              "Дуэлянт",
-              "Охотница"
+              "Marauder",
+              "Duelist",
+              "Ranger"
             ]
           },
           "Metadata/Items/Gems/SupportGemRage": {
             "classes": [
-              "Дикарь",
-              "Дуэлянт"
+              "Marauder",
+              "Duelist"
             ]
           },
           "Metadata/Items/Gems/SupportGemVolatility": {
             "classes": [
-              "Дикарь"
+              "Marauder"
             ]
           },
           "Metadata/Items/Gems/SupportGemPhysicalProjectileAttackDamage": {
             "classes": [
-              "Дуэлянт",
-              "Охотница",
-              "Дворянка"
+              "Duelist",
+              "Ranger",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SupportGemSadism": {
             "classes": [
-              "Дуэлянт",
-              "Дворянка"
+              "Duelist",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SupportGemTrapAndMineDamage": {
             "classes": [
-              "Бандит"
+              "Shadow"
             ]
           },
           "Metadata/Items/Gems/SupportGemDeadlyAilments": {
             "classes": [
-              "Бандит",
-              "Дворянка"
+              "Shadow",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SupportGemNightblade": {
             "classes": [
-              "Бандит"
+              "Shadow"
             ]
           },
           "Metadata/Items/Belts/Belt1": {
@@ -3539,70 +3539,70 @@
         "quest": {
           "Metadata/Items/Gems/SkillGemAbsolution": {
             "classes": [
-              "Жрец"
+              "Templar"
             ]
           },
           "Metadata/Items/Gems/SupportGemAddedLightningDamage": {
             "classes": [
-              "Жрец"
+              "Templar"
             ]
           },
           "Metadata/Items/Gems/SupportGemArcaneSurge": {
             "classes": [
-              "Жрец",
-              "Ведьма"
+              "Templar",
+              "Witch"
             ]
           },
           "Metadata/Items/Gems/SupportGemMinionDamage": {
             "classes": [
-              "Жрец"
+              "Templar"
             ]
           },
           "Metadata/Items/Gems/SkillGemStaticStrike": {
             "classes": [
-              "Жрец"
+              "Templar"
             ]
           },
           "Metadata/Items/Gems/SupportGemWeaponElementalDamage": {
             "classes": [
-              "Жрец",
-              "Дикарь"
+              "Templar",
+              "Marauder"
             ]
           },
           "Metadata/Items/Gems/SupportGemMeleePhysicalDamage": {
             "classes": [
-              "Жрец"
+              "Templar"
             ]
           },
           "Metadata/Items/Gems/SupportGemLifetap": {
             "classes": [
-              "Жрец",
-              "Дикарь"
+              "Templar",
+              "Marauder"
             ]
           },
           "Metadata/Items/Gems/SkillGemVolcanicFissure": {
             "classes": [
-              "Дикарь"
+              "Marauder"
             ]
           },
           "Metadata/Items/Gems/SupportGemPhysicalProjectileAttackDamage": {
             "classes": [
-              "Дикарь"
+              "Marauder"
             ]
           },
           "Metadata/Items/Gems/SkillGemWintertideBrand": {
             "classes": [
-              "Ведьма"
+              "Witch"
             ]
           },
           "Metadata/Items/Gems/SupportGemControlledDestruction": {
             "classes": [
-              "Ведьма"
+              "Witch"
             ]
           },
           "Metadata/Items/Gems/SupportGemEfficacy": {
             "classes": [
-              "Ведьма"
+              "Witch"
             ]
           }
         },
@@ -3666,194 +3666,194 @@
         "quest": {
           "Metadata/Items/Gems/SkillGemFlammability": {
             "classes": [
-              "Ведьма",
-              "Жрец",
-              "Бандит",
-              "Дворянка"
+              "Witch",
+              "Templar",
+              "Shadow",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SkillGemConductivity": {
             "classes": [
-              "Ведьма",
-              "Жрец",
-              "Бандит",
-              "Дворянка"
+              "Witch",
+              "Templar",
+              "Shadow",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SkillGemFrostbite": {
             "classes": [
-              "Ведьма",
-              "Жрец",
-              "Бандит",
-              "Дворянка"
+              "Witch",
+              "Templar",
+              "Shadow",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SkillGemElementalWeakness": {
             "classes": [
-              "Ведьма",
-              "Жрец",
-              "Бандит",
-              "Дворянка"
+              "Witch",
+              "Templar",
+              "Shadow",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SkillGemVulnerability": {
             "classes": [
-              "Ведьма",
-              "Охотница",
-              "Бандит"
+              "Witch",
+              "Ranger",
+              "Shadow"
             ]
           },
           "Metadata/Items/Gems/SkillGemEnfeeble": {
             "classes": [
-              "Ведьма",
-              "Жрец",
-              "Бандит"
+              "Witch",
+              "Templar",
+              "Shadow"
             ]
           },
           "Metadata/Items/Gems/SkillGemTemporalChains": {
             "classes": [
-              "Ведьма",
-              "Бандит",
-              "Дворянка"
+              "Witch",
+              "Shadow",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SkillGemDiscipline": {
             "classes": [
-              "Ведьма"
+              "Witch"
             ]
           },
           "Metadata/Items/Gems/SkillGemPurity": {
             "classes": [
-              "Ведьма"
+              "Witch"
             ]
           },
           "Metadata/Items/Gems/SkillGemConvocation": {
             "classes": [
-              "Ведьма"
+              "Witch"
             ]
           },
           "Metadata/Items/Gems/SkillGemDamageOverTimeAura": {
             "classes": [
-              "Ведьма",
-              "Бандит",
-              "Дворянка"
+              "Witch",
+              "Shadow",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SkillGemSpellDamageAura": {
             "classes": [
-              "Ведьма",
-              "Жрец",
-              "Дворянка"
+              "Witch",
+              "Templar",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SkillGemDarkRitual": {
             "classes": [
-              "Ведьма",
-              "Бандит",
-              "Дворянка"
+              "Witch",
+              "Shadow",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SkillGemSpellslinger": {
             "classes": [
-              "Ведьма"
+              "Witch"
             ]
           },
           "Metadata/Items/Gems/SkillGemNewVulnerability": {
             "classes": [
-              "Жрец",
-              "Дикарь",
-              "Дворянка"
+              "Templar",
+              "Marauder",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SkillGemPunishment": {
             "classes": [
-              "Жрец",
-              "Дикарь",
-              "Дворянка"
+              "Templar",
+              "Marauder",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SkillGemBattlemagesCry": {
             "classes": [
-              "Жрец"
+              "Templar"
             ]
           },
           "Metadata/Items/Gems/SkillGemAnger": {
             "classes": [
-              "Дикарь",
-              "Дворянка"
+              "Marauder",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SkillGemDetermination": {
             "classes": [
-              "Дикарь"
+              "Marauder"
             ]
           },
           "Metadata/Items/Gems/SkillGemVengeance": {
             "classes": [
-              "Дикарь"
+              "Marauder"
             ]
           },
           "Metadata/Items/Gems/SkillGemPride": {
             "classes": [
-              "Дикарь",
-              "Дуэлянт"
+              "Marauder",
+              "Duelist"
             ]
           },
           "Metadata/Items/Gems/SkillGemAbyssalCry": {
             "classes": [
-              "Дикарь"
+              "Marauder"
             ]
           },
           "Metadata/Items/Gems/SkillGemGeneralsCry": {
             "classes": [
-              "Дикарь"
+              "Marauder"
             ]
           },
           "Metadata/Items/Gems/SkillGemPetrifiedBlood": {
             "classes": [
-              "Дикарь",
-              "Дуэлянт",
-              "Дворянка"
+              "Marauder",
+              "Duelist",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SkillGemHatred": {
             "classes": [
-              "Дуэлянт",
-              "Охотница",
-              "Бандит",
-              "Дворянка"
+              "Duelist",
+              "Ranger",
+              "Shadow",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SkillGemGrace": {
             "classes": [
-              "Дуэлянт",
-              "Охотница"
+              "Duelist",
+              "Ranger"
             ]
           },
           "Metadata/Items/Gems/SkillGemDreadBanner": {
             "classes": [
-              "Дуэлянт"
+              "Duelist"
             ]
           },
           "Metadata/Items/Gems/SkillGemRallyingCry": {
             "classes": [
-              "Дуэлянт"
+              "Duelist"
             ]
           },
           "Metadata/Items/Gems/SkillGemAlchemistsMark": {
             "classes": [
-              "Охотница"
+              "Ranger"
             ]
           },
           "Metadata/Items/Gems/SkillGemWrath": {
             "classes": [
-              "Бандит",
-              "Дворянка"
+              "Shadow",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SkillGemPlagueBearer": {
             "classes": [
-              "Бандит"
+              "Shadow"
             ]
           }
         },
@@ -4266,89 +4266,89 @@
         "quest": {
           "Metadata/Items/Gems/SkillGemGlacialCascade": {
             "classes": [
-              "Ведьма"
+              "Witch"
             ]
           },
           "Metadata/Items/Gems/SkillGemFlameblast": {
             "classes": [
-              "Ведьма",
-              "Жрец",
-              "Дворянка"
+              "Witch",
+              "Templar",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SkillGemFirestorm": {
             "classes": [
-              "Ведьма",
-              "Жрец"
+              "Witch",
+              "Templar"
             ]
           },
           "Metadata/Items/Gems/SkillGemBallLightning": {
             "classes": [
-              "Ведьма",
-              "Бандит"
+              "Witch",
+              "Shadow"
             ]
           },
           "Metadata/Items/Gems/SkillGemCracklingLance": {
             "classes": [
-              "Ведьма"
+              "Witch"
             ]
           },
           "Metadata/Items/Gems/SkillGemRaiseSpectre": {
             "classes": [
-              "Ведьма"
+              "Witch"
             ]
           },
           "Metadata/Items/Gems/SkillGemKineticBlast": {
             "classes": [
-              "Ведьма"
+              "Witch"
             ]
           },
           "Metadata/Items/Gems/SkillGemCorpseEruption": {
             "classes": [
-              "Ведьма",
-              "Бандит"
+              "Witch",
+              "Shadow"
             ]
           },
           "Metadata/Items/Gems/SkillGemSoulrend": {
             "classes": [
-              "Ведьма",
-              "Бандит",
-              "Дворянка"
+              "Witch",
+              "Shadow",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SkillGemStormBind": {
             "classes": [
-              "Ведьма",
+              "Witch",
               "Жрец"
             ]
           },
           "Metadata/Items/Gems/SkillGemHexblast": {
             "classes": [
-              "Ведьма",
-              "Бандит",
-              "Дворянка"
+              "Witch",
+              "Shadow",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SkillGemSummonReaper": {
             "classes": [
-              "Ведьма"
+              "Witch"
             ]
           },
           "Metadata/Items/Gems/SkillGemEyeOfWinter": {
             "classes": [
-              "Ведьма"
+              "Witch"
             ]
           },
           "Metadata/Items/Gems/SkillGemLightningConduit": {
             "classes": [
-              "Ведьма"
+              "Witch"
             ]
           },
           "Metadata/Items/Gems/SkillGemIceCrash": {
             "classes": [
               "Жрец",
-              "Дикарь",
-              "Дуэлянт"
+              "Marauder",
+              "Duelist"
             ]
           },
           "Metadata/Items/Gems/SkillGemShockNova": {
@@ -4379,7 +4379,7 @@
           "Metadata/Items/Gems/SkillGemDivineTempest": {
             "classes": [
               "Жрец",
-              "Дворянка"
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SkillGemPenanceBrand": {
@@ -4389,133 +4389,133 @@
           },
           "Metadata/Items/Gems/SkillGemCyclone": {
             "classes": [
-              "Дикарь",
-              "Дуэлянт",
-              "Дворянка"
+              "Marauder",
+              "Duelist",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SkillGemEarthquake": {
             "classes": [
-              "Дикарь"
+              "Marauder"
             ]
           },
           "Metadata/Items/Gems/SkillGemAncestralWarchief": {
             "classes": [
-              "Дикарь"
+              "Marauder"
             ]
           },
           "Metadata/Items/Gems/SkillGemTectonicSlam": {
             "classes": [
-              "Дикарь",
-              "Дворянка"
+              "Marauder",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SkillGemRageVortex": {
             "classes": [
-              "Дикарь"
+              "Marauder"
             ]
           },
           "Metadata/Items/Gems/SkillGemBlastRain": {
             "classes": [
-              "Дуэлянт",
-              "Охотница"
+              "Duelist",
+              "Ranger"
             ]
           },
           "Metadata/Items/Gems/SkillGemChargedDash": {
             "classes": [
-              "Дуэлянт",
-              "Охотница",
-              "Бандит",
-              "Дворянка"
+              "Duelist",
+              "Ranger",
+              "Shadow",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SkillGemLancingSteel": {
             "classes": [
-              "Дуэлянт"
+              "Duelist"
             ]
           },
           "Metadata/Items/Gems/SkillGemBladestorm": {
             "classes": [
-              "Дуэлянт"
+              "Duelist"
             ]
           },
           "Metadata/Items/Gems/SkillGemThrownShieldProjectile": {
             "classes": [
-              "Дуэлянт"
+              "Duelist"
             ]
           },
           "Metadata/Items/Gems/SkillGemScourgeArrow": {
             "classes": [
-              "Охотница"
+              "Ranger"
             ]
           },
           "Metadata/Items/Gems/SkillGemTornadoShot": {
             "classes": [
-              "Охотница",
-              "Дворянка"
+              "Ranger",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SkillGemWildStrike": {
             "classes": [
-              "Охотница"
+              "Ranger"
             ]
           },
           "Metadata/Items/Gems/SkillGemChargedAttack": {
             "classes": [
-              "Охотница",
-              "Бандит",
-              "Дворянка"
+              "Ranger",
+              "Shadow",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SkillGemArtilleryBallista": {
             "classes": [
-              "Охотница"
+              "Ranger"
             ]
           },
           "Metadata/Items/Gems/SkillGemStormRain": {
             "classes": [
-              "Охотница"
+              "Ranger"
             ]
           },
           "Metadata/Items/Gems/SkillGemExplosiveConcoction": {
             "classes": [
-              "Охотница"
+              "Ranger"
             ]
           },
           "Metadata/Items/Gems/SkillGemFireNovaMine": {
             "classes": [
-              "Бандит"
+              "Shadow"
             ]
           },
           "Metadata/Items/Gems/SkillGemFlamethrowerTrap": {
             "classes": [
-              "Бандит"
+              "Shadow"
             ]
           },
           "Metadata/Items/Gems/SkillGemLightningTowerTrap": {
             "classes": [
-              "Бандит"
+              "Shadow"
             ]
           },
           "Metadata/Items/Gems/SkillGemPhysCascadeTrap": {
             "classes": [
-              "Бандит"
+              "Shadow"
             ]
           },
           "Metadata/Items/Gems/SkillGemBladefall": {
             "classes": [
-              "Бандит",
-              "Дворянка"
+              "Shadow",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SkillGemPestilentStrike": {
             "classes": [
-              "Бандит"
+              "Shadow"
             ]
           },
           "Metadata/Items/Gems/SkillGemBloodreap": {
             "classes": [
-              "Дворянка"
+              "Scion"
             ]
           }
         },
@@ -5001,109 +5001,109 @@
         "quest": {
           "Metadata/Items/Gems/SupportGemFirePenetration": {
             "classes": [
-              "Ведьма",
+              "Witch",
               "Жрец",
-              "Дворянка"
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SupportGemColdPenetration": {
             "classes": [
-              "Ведьма",
+              "Witch",
               "Жрец",
-              "Бандит",
-              "Дворянка"
+              "Shadow",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SupportGemLightningPenetration": {
             "classes": [
-              "Ведьма",
+              "Witch",
               "Жрец",
-              "Бандит",
-              "Дворянка"
+              "Shadow",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SupportGemIncreasedBurningDamage": {
             "classes": [
-              "Ведьма",
+              "Witch",
               "Жрец"
             ]
           },
           "Metadata/Items/Gems/SupportGemBlasphemy": {
             "classes": [
-              "Ведьма",
+              "Witch",
               "Жрец"
             ]
           },
           "Metadata/Items/Gems/SupportGemRapidDecay": {
             "classes": [
-              "Ведьма",
-              "Бандит"
+              "Witch",
+              "Shadow"
             ]
           },
           "Metadata/Items/Gems/SupportGemEnergyShieldLeech": {
             "classes": [
-              "Ведьма",
+              "Witch",
               "Жрец",
-              "Бандит",
-              "Дворянка"
+              "Shadow",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SupportGemHandcastSpellBoost": {
             "classes": [
-              "Ведьма",
+              "Witch",
               "Жрец",
-              "Дворянка"
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SupportGemPinpoint": {
             "classes": [
-              "Ведьма",
-              "Бандит"
+              "Witch",
+              "Shadow"
             ]
           },
           "Metadata/Items/Gems/SupportGemFeedingFrenzy": {
             "classes": [
-              "Ведьма"
+              "Witch"
             ]
           },
           "Metadata/Items/Gems/SupportGemMeatShield": {
             "classes": [
-              "Ведьма"
+              "Witch"
             ]
           },
           "Metadata/Items/Gems/SupportGemArchmage": {
             "classes": [
-              "Ведьма",
+              "Witch",
               "Жрец",
-              "Бандит"
+              "Shadow"
             ]
           },
           "Metadata/Items/Gems/SupportGemImpendingDoom": {
             "classes": [
-              "Ведьма",
-              "Бандит",
-              "Дворянка"
+              "Witch",
+              "Shadow",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SupportGemSacrifice": {
             "classes": [
-              "Ведьма"
+              "Witch"
             ]
           },
           "Metadata/Items/Gems/SupportGemFortify": {
             "classes": [
               "Жрец",
-              "Дикарь",
-              "Дуэлянт",
-              "Охотница",
-              "Дворянка"
+              "Marauder",
+              "Duelist",
+              "Ranger",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SupportGemPulverise": {
             "classes": [
               "Жрец",
-              "Дикарь",
-              "Дуэлянт"
+              "Marauder",
+              "Duelist"
             ]
           },
           "Metadata/Items/Gems/SupportGemDivineBlessing": {
@@ -5119,9 +5119,9 @@
           "Metadata/Items/Gems/SupportGemBloodMagic": {
             "classes": [
               "Жрец",
-              "Дикарь",
-              "Дуэлянт",
-              "Дворянка"
+              "Marauder",
+              "Duelist",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SupportGemGuardiansBlessing": {
@@ -5131,81 +5131,81 @@
           },
           "Metadata/Items/Gems/SupportGemLifeLeech": {
             "classes": [
-              "Дикарь",
-              "Дуэлянт",
-              "Охотница",
-              "Дворянка"
+              "Marauder",
+              "Duelist",
+              "Ranger",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SupportGemIncreasedDuration": {
             "classes": [
-              "Дикарь"
+              "Marauder"
             ]
           },
           "Metadata/Items/Gems/SupportGemImpale": {
             "classes": [
-              "Дикарь",
-              "Дуэлянт",
-              "Охотница"
+              "Marauder",
+              "Duelist",
+              "Ranger"
             ]
           },
           "Metadata/Items/Gems/SupportGemUrgentOrders": {
             "classes": [
-              "Дикарь",
-              "Дуэлянт"
+              "Marauder",
+              "Duelist"
             ]
           },
           "Metadata/Items/Gems/SupportGemBloodthirst": {
             "classes": [
-              "Дикарь",
-              "Дуэлянт",
-              "Дворянка"
+              "Marauder",
+              "Duelist",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SupportGemCorruptingCry": {
             "classes": [
-              "Дикарь",
-              "Дуэлянт"
+              "Marauder",
+              "Duelist"
             ]
           },
           "Metadata/Items/Gems/SupportGemControlledBlaze": {
             "classes": [
-              "Дикарь"
+              "Marauder"
             ]
           },
           "Metadata/Items/Gems/SupportGemDamageAgainstChilled": {
             "classes": [
-              "Дуэлянт",
-              "Охотница"
+              "Duelist",
+              "Ranger"
             ]
           },
           "Metadata/Items/Gems/SupportGemFork": {
             "classes": [
-              "Охотница"
+              "Ranger"
             ]
           },
           "Metadata/Items/Gems/SupportGemFrenzyChargeOnSlayingFrozenEnemy": {
             "classes": [
-              "Охотница",
-              "Бандит",
-              "Дворянка"
+              "Ranger",
+              "Shadow",
+              "Scion"
             ]
           },
           "Metadata/Items/Gems/SupportGemPoison": {
             "classes": [
-              "Охотница",
-              "Бандит"
+              "Ranger",
+              "Shadow"
             ]
           },
           "Metadata/Items/Gems/SupportGemSecondWind": {
             "classes": [
-              "Охотница",
-              "Бандит"
+              "Ranger",
+              "Shadow"
             ]
           },
           "Metadata/Items/Gems/SupportGemFocusedBallista": {
             "classes": [
-              "Охотница"
+              "Ranger"
             ]
           },
           "Metadata/Items/Gems/SupportGemFasterProjectiles": {
@@ -6812,85 +6812,85 @@
         "quest": {
           "Metadata/Items/Gems/SupportGemMulticast": {
             "classes": [
-              "Ведьма",
+              "Witch",
               "Жрец",
-              "Дикарь",
-              "Дуэлянт",
-              "Охотница",
+              "Marauder",
+              "Duelist",
+              "Ranger",
               "Бандит",
               "Дворянка"
             ]
           },
           "Metadata/Items/Gems/SupportGemMultistrike": {
             "classes": [
-              "Ведьма",
+              "Witch",
               "Жрец",
-              "Дикарь",
-              "Дуэлянт",
-              "Охотница",
+              "Marauder",
+              "Duelist",
+              "Ranger",
               "Бандит",
               "Дворянка"
             ]
           },
           "Metadata/Items/Gems/SupportGemGreaterMultipleProjectiles": {
             "classes": [
-              "Ведьма",
+              "Witch",
               "Жрец",
-              "Дикарь",
-              "Дуэлянт",
-              "Охотница",
+              "Marauder",
+              "Duelist",
+              "Ranger",
               "Бандит",
               "Дворянка"
             ]
           },
           "Metadata/Items/Gems/SupportGemChain": {
             "classes": [
-              "Ведьма",
+              "Witch",
               "Жрец",
-              "Дикарь",
-              "Дуэлянт",
-              "Охотница",
+              "Marauder",
+              "Duelist",
+              "Ranger",
               "Бандит",
               "Дворянка"
             ]
           },
           "Metadata/Items/Gems/SupportGemIncreasedAreaOfEffect": {
             "classes": [
-              "Ведьма",
+              "Witch",
               "Жрец",
-              "Дикарь",
-              "Дуэлянт",
-              "Охотница",
+              "Marauder",
+              "Duelist",
+              "Ranger",
               "Бандит",
               "Дворянка"
             ]
           },
           "Metadata/Items/Gems/SupportGemDecay": {
             "classes": [
-              "Ведьма",
+              "Witch",
               "Дворянка"
             ]
           },
           "Metadata/Items/Gems/SupportGemImmolate": {
             "classes": [
-              "Ведьма",
+              "Witch",
               "Дворянка"
             ]
           },
           "Metadata/Items/Gems/SupportGemBonechill": {
             "classes": [
-              "Ведьма",
+              "Witch",
               "Бандит"
             ]
           },
           "Metadata/Items/Gems/SupportGemHexBloom": {
             "classes": [
-              "Ведьма"
+              "Witch"
             ]
           },
           "Metadata/Items/Gems/SupportGemHandcastAnticipation": {
             "classes": [
-              "Ведьма",
+              "Witch",
               "Жрец",
               "Бандит",
               "Дворянка"
@@ -6904,7 +6904,7 @@
           "Metadata/Items/Gems/SupportGemMultiTotem": {
             "classes": [
               "Жрец",
-              "Дикарь"
+              "Marauder"
             ]
           },
           "Metadata/Items/Gems/SkillGemArcanistBrand": {
@@ -6915,8 +6915,8 @@
           "Metadata/Items/Gems/SupportGemFistOfWar": {
             "classes": [
               "Жрец",
-              "Дикарь",
-              "Дуэлянт"
+              "Marauder",
+              "Duelist"
             ]
           },
           "Metadata/Items/Gems/SupportGemFrigidBond": {
@@ -6932,51 +6932,51 @@
           },
           "Metadata/Items/Gems/SupportGemBrutality": {
             "classes": [
-              "Дикарь"
+              "Marauder"
             ]
           },
           "Metadata/Items/Gems/SupportGemBehead": {
             "classes": [
-              "Дикарь",
-              "Дуэлянт"
+              "Marauder",
+              "Duelist"
             ]
           },
           "Metadata/Items/Gems/SupportGemEternalBlessing": {
             "classes": [
-              "Дикарь"
+              "Marauder"
             ]
           },
           "Metadata/Items/Gems/SupportGemTrauma": {
             "classes": [
-              "Дикарь",
-              "Дуэлянт"
+              "Marauder",
+              "Duelist"
             ]
           },
           "Metadata/Items/Gems/SupportGemGreaterVolley": {
             "classes": [
-              "Дуэлянт",
-              "Охотница",
+              "Duelist",
+              "Ranger",
               "Бандит",
               "Дворянка"
             ]
           },
           "Metadata/Items/Gems/SupportGemBarrage": {
             "classes": [
-              "Дуэлянт",
-              "Охотница",
+              "Duelist",
+              "Ranger",
               "Бандит",
               "Дворянка"
             ]
           },
           "Metadata/Items/Gems/SupportGemChaosAttacks": {
             "classes": [
-              "Охотница",
+              "Ranger",
               "Бандит"
             ]
           },
           "Metadata/Items/Gems/SupportGemReturningProjectiles": {
             "classes": [
-              "Охотница",
+              "Ranger",
               "Бандит",
               "Дворянка"
             ]
@@ -7247,74 +7247,74 @@
         "quest": {
           "Metadata/Items/Gems/SkillGemSummonChaosGolem": {
             "classes": [
-              "Ведьма",
+              "Witch",
               "Жрец",
-              "Дикарь",
-              "Дуэлянт",
-              "Охотница",
+              "Marauder",
+              "Duelist",
+              "Ranger",
               "Бандит",
               "Дворянка"
             ]
           },
           "Metadata/Items/Gems/SkillGemSummonIceGolem": {
             "classes": [
-              "Ведьма",
+              "Witch",
               "Жрец",
-              "Дикарь",
-              "Дуэлянт",
-              "Охотница",
+              "Marauder",
+              "Duelist",
+              "Ranger",
               "Бандит",
               "Дворянка"
             ]
           },
           "Metadata/Items/Gems/SkillGemSummonFlameGolem": {
             "classes": [
-              "Ведьма",
+              "Witch",
               "Жрец",
-              "Дикарь",
-              "Дуэлянт",
-              "Охотница",
+              "Marauder",
+              "Duelist",
+              "Ranger",
               "Бандит",
               "Дворянка"
             ]
           },
           "Metadata/Items/Gems/SkillGemSummonRockGolem": {
             "classes": [
-              "Ведьма",
+              "Witch",
               "Жрец",
-              "Дикарь",
-              "Дуэлянт",
-              "Охотница",
+              "Marauder",
+              "Duelist",
+              "Ranger",
               "Бандит",
               "Дворянка"
             ]
           },
           "Metadata/Items/Gems/SkillGemSummonLightningGolem": {
             "classes": [
-              "Ведьма",
+              "Witch",
               "Жрец",
-              "Дикарь",
+              "Marauder",
               "Дуэлянт",
-              "Охотница",
+              "Ranger",
               "Бандит",
               "Дворянка"
             ]
           },
           "Metadata/Items/Gems/SkillGemSummonCarrionGolem": {
             "classes": [
-              "Ведьма",
+              "Witch",
               "Жрец"
             ]
           },
           "Metadata/Items/Gems/SkillGemSigilOfPower": {
             "classes": [
-              "Ведьма",
+              "Witch",
               "Жрец"
             ]
           },
           "Metadata/Items/Gems/SkillGemVoidSphere": {
             "classes": [
-              "Ведьма",
+              "Witch",
               "Жрец",
               "Бандит",
               "Дворянка"
@@ -7322,7 +7322,7 @@
           },
           "Metadata/Items/Gems/SkillGemFrostShield": {
             "classes": [
-              "Ведьма",
+              "Witch",
               "Жрец",
               "Бандит",
               "Дворянка"
@@ -7330,7 +7330,7 @@
           },
           "Metadata/Items/Gems/SkillGemHydrosphere": {
             "classes": [
-              "Ведьма",
+              "Witch",
               "Жрец"
             ]
           },
@@ -7341,18 +7341,18 @@
           },
           "Metadata/Items/Gems/SkillGemBerserk": {
             "classes": [
-              "Дикарь"
+              "Marauder"
             ]
           },
           "Metadata/Items/Gems/SkillGemTornado": {
             "classes": [
-              "Охотница",
+              "Ranger",
               "Бандит"
             ]
           },
           "Metadata/Items/Gems/SkillGemChannelledSnipe": {
             "classes": [
-              "Охотница"
+              "Ranger"
             ]
           },
           "Metadata/Items/Gems/SkillGemTemporalRift": {
@@ -7755,33 +7755,33 @@
         "quest": {
           "Metadata/Items/Weapons/OneHandWeapons/OneHandAxes/OneHandAxe10": {
             "classes": [
-              "Дикарь",
+              "Marauder",
               "Дуэлянт",
               "Дворянка",
-              "Дикарь",
+              "Marauder",
               "Дуэлянт",
               "Дворянка"
             ]
           },
           "Metadata/Items/Weapons/TwoHandWeapons/TwoHandAxes/TwoHandAxe10": {
             "classes": [
-              "Дикарь",
-              "Дикарь"
+              "Marauder",
+              "Marauder"
             ]
           },
           "Metadata/Items/Weapons/OneHandWeapons/OneHandMaces/OneHandMace10": {
             "classes": [
-              "Дикарь",
+              "Marauder",
               "Дуэлянт",
               "Жрец",
-              "Дикарь",
+              "Marauder",
               "Дуэлянт",
               "Жрец"
             ]
           },
           "Metadata/Items/Weapons/TwoHandWeapons/TwoHandMaces/TwoHandMace10": {
             "classes": [
-              "Дикарь",
+              "Marauder",
               "Жрец",
               "Дикарь",
               "Жрец"
@@ -7791,10 +7791,10 @@
             "classes": [
               "Дикарь",
               "Дуэлянт",
-              "Охотница",
+              "Ranger",
               "Дикарь",
               "Дуэлянт",
-              "Охотница"
+              "Ranger"
             ]
           },
           "Metadata/Items/Armours/Shields/ShieldStr7": {
@@ -7806,11 +7806,11 @@
           "Metadata/Items/Weapons/TwoHandWeapons/Bows/Bow10": {
             "classes": [
               "Дуэлянт",
-              "Охотница",
+              "Ranger",
               "Бандит",
               "Дворянка",
               "Дуэлянт",
-              "Охотница",
+              "Ranger",
               "Бандит",
               "Дворянка"
             ]
@@ -7831,28 +7831,28 @@
           },
           "Metadata/Items/Quivers/QuiverNew6": {
             "classes": [
-              "Охотница",
+              "Ranger",
               "Бандит",
               "Дворянка",
-              "Охотница",
+              "Ranger",
               "Бандит",
               "Дворянка"
             ]
           },
           "Metadata/Items/Weapons/OneHandWeapons/OneHandThrustingSwords/Rapier10": {
             "classes": [
-              "Охотница",
-              "Охотница"
+              "Ranger",
+              "Ranger"
             ]
           },
           "Metadata/Items/Weapons/OneHandWeapons/Daggers/Dagger10": {
             "classes": [
               "Охотница",
               "Бандит",
-              "Ведьма",
+              "Witch",
               "Охотница",
               "Бандит",
-              "Ведьма"
+              "Witch"
             ]
           },
           "Metadata/Items/Armours/Shields/ShieldDex7": {
@@ -7864,19 +7864,19 @@
           "Metadata/Items/Weapons/OneHandWeapons/Claws/Claw10": {
             "classes": [
               "Бандит",
-              "Ведьма",
+              "Witch",
               "Бандит",
-              "Ведьма"
+              "Witch"
             ]
           },
           "Metadata/Items/Weapons/OneHandWeapons/Wands/Wand10": {
             "classes": [
               "Бандит",
-              "Ведьма",
+              "Witch",
               "Жрец",
               "Дворянка",
               "Бандит",
-              "Ведьма",
+              "Witch",
               "Жрец",
               "Дворянка"
             ]
@@ -7889,26 +7889,26 @@
           },
           "Metadata/Items/Weapons/TwoHandWeapons/Staves/Staff10": {
             "classes": [
-              "Ведьма",
+              "Witch",
               "Жрец",
               "Дворянка",
-              "Ведьма",
+              "Witch",
               "Жрец",
               "Дворянка"
             ]
           },
           "Metadata/Items/Weapons/OneHandWeapons/OneHandMaces/Sceptre10": {
             "classes": [
-              "Ведьма",
+              "Witch",
               "Жрец",
-              "Ведьма",
+              "Witch",
               "Жрец"
             ]
           },
           "Metadata/Items/Armours/Shields/ShieldInt7": {
             "classes": [
-              "Ведьма",
-              "Ведьма"
+              "Witch",
+              "Witch"
             ]
           },
           "Metadata/Items/Armours/Shields/ShieldStrInt6": {
@@ -7974,11 +7974,11 @@
             "classes": [
               "Дикарь",
               "Жрец",
-              "Ведьма",
+              "Witch",
               "Дворянка",
               "Дикарь",
               "Жрец",
-              "Ведьма"
+              "Witch"
             ]
           },
           "Metadata/Items/Armours/Helmets/HelmetStrDex6": {
@@ -7995,22 +7995,22 @@
           "Metadata/Items/Armours/Helmets/HelmetInt7": {
             "classes": [
               "Жрец",
-              "Ведьма",
+              "Witch",
               "Бандит",
               "Дворянка",
               "Жрец",
-              "Ведьма",
+              "Witch",
               "Бандит",
               "Дворянка"
             ]
           },
           "Metadata/Items/Armours/Helmets/HelmetDexInt7": {
             "classes": [
-              "Ведьма",
+              "Witch",
               "Бандит",
               "Охотница",
               "Дворянка",
-              "Ведьма",
+              "Witch",
               "Бандит",
               "Охотница"
             ]
@@ -9825,11 +9825,11 @@
             "classes": [
               "Дикарь",
               "Жрец",
-              "Ведьма",
+              "Witch",
               "Дворянка",
               "Дикарь",
               "Жрец",
-              "Ведьма"
+              "Witch"
             ]
           },
           "Metadata/Items/Armours/Boots/BootsStrDex6": {
@@ -9846,22 +9846,22 @@
           "Metadata/Items/Armours/Boots/BootsInt7": {
             "classes": [
               "Жрец",
-              "Ведьма",
+              "Witch",
               "Бандит",
               "Дворянка",
               "Жрец",
-              "Ведьма",
+              "Witch",
               "Бандит",
               "Дворянка"
             ]
           },
           "Metadata/Items/Armours/Boots/BootsDexInt7": {
             "classes": [
-              "Ведьма",
+              "Witch",
               "Бандит",
               "Охотница",
               "Дворянка",
-              "Ведьма",
+              "Witch",
               "Бандит",
               "Охотница"
             ]
@@ -10053,20 +10053,20 @@
             "classes": [
               "Дикарь",
               "Жрец",
-              "Ведьма"
+              "Witch"
             ]
           },
           "Metadata/Items/Armours/Gloves/GlovesInt7": {
             "classes": [
               "Жрец",
-              "Ведьма",
+              "Witch",
               "Бандит",
               "Дворянка"
             ]
           },
           "Metadata/Items/Armours/Gloves/GlovesDexInt6": {
             "classes": [
-              "Ведьма",
+              "Witch",
               "Бандит",
               "Охотница"
             ]
@@ -10277,7 +10277,7 @@
             "classes": [
               "Охотница",
               "Бандит",
-              "Ведьма"
+              "Witch"
             ]
           },
           "Metadata/Items/Armours/Shields/ShieldDex13": {
@@ -10288,13 +10288,13 @@
           "Metadata/Items/Weapons/OneHandWeapons/Claws/Claw17": {
             "classes": [
               "Бандит",
-              "Ведьма"
+              "Witch"
             ]
           },
           "Metadata/Items/Weapons/OneHandWeapons/Wands/Wand13": {
             "classes": [
               "Бандит",
-              "Ведьма",
+              "Witch",
               "Жрец",
               "Дворянка"
             ]
@@ -10306,20 +10306,20 @@
           },
           "Metadata/Items/Weapons/TwoHandWeapons/Staves/Staff15": {
             "classes": [
-              "Ведьма",
+              "Witch",
               "Жрец",
               "Дворянка"
             ]
           },
           "Metadata/Items/Weapons/OneHandWeapons/OneHandMaces/Sceptre18": {
             "classes": [
-              "Ведьма",
+              "Witch",
               "Жрец"
             ]
           },
           "Metadata/Items/Armours/Shields/ShieldInt13": {
             "classes": [
-              "Ведьма"
+              "Witch"
             ]
           },
           "Metadata/Items/Armours/Shields/ShieldStrInt10": {
@@ -10345,7 +10345,7 @@
           "Metadata/Items/Armours/BodyArmours/BodyStrInt12": {
             "classes": [
               "Дикарь",
-              "Ведьма",
+              "Witch",
               "Жрец"
             ]
           },
@@ -10361,13 +10361,13 @@
             "classes": [
               "Охотница",
               "Бандит",
-              "Ведьма"
+              "Witch"
             ]
           },
           "Metadata/Items/Armours/BodyArmours/BodyInt13": {
             "classes": [
               "Бандит",
-              "Ведьма",
+              "Witch",
               "Жрец",
               "Дворянка"
             ]
@@ -10486,21 +10486,21 @@
             "classes": [
               "Дикарь",
               "Жрец",
-              "Ведьма",
+              "Witch",
               "Дворянка"
             ]
           },
           "Metadata/Items/Armours/BodyArmours/BodyInt16": {
             "classes": [
               "Жрец",
-              "Ведьма",
+              "Witch",
               "Бандит",
               "Дворянка"
             ]
           },
           "Metadata/Items/Armours/BodyArmours/BodyDexInt15": {
             "classes": [
-              "Ведьма",
+              "Witch",
               "Бандит",
               "Охотница",
               "Дворянка"
