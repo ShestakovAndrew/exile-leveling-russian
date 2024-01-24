@@ -115,7 +115,7 @@ function PortalComponent(area?: GameData.Area) {
         className={classNames("inlineIcon")}
         alt=""
       />
-      <span className={classNames(styles.portal)}>Portal</span>
+      <span className={classNames(styles.portal)}>Портал</span>
       {area && (
         <>
           <span> ➞ </span>
