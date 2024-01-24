@@ -3616,7 +3616,7 @@
     "act": "2",
     "reward_offers": {
       "a2q7": {
-        "quest_npc": "Eramir",
+        "quest_npc": "Ерамир",
         "quest": {
           "Metadata/Items/QuestItems/BanditAmulets/CombinedAmulet": {
             "classes": []
@@ -10187,7 +10187,7 @@
     "act": "9",
     "reward_offers": {
       "a9q2": {
-        "quest_npc": "Irasha",
+        "quest_npc": "Ираша",
         "quest": {
           "Metadata/Items/QuestItems/Act9/Book-a9q2": {
             "classes": []
